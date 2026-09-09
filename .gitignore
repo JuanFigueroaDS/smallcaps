@@ -1,0 +1,6 @@
+.env
+__pycache__/
+*.pyc
+# OJO: la carpeta state/ SÍ se versiona a propósito (el workflow la commitea)
+# para que el dedup y la cache de market cap persistan entre corridas de
+# GitHub Actions, que son efímeras.

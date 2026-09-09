@@ -1,0 +1,45 @@
+name: Small Cap News Scanner
+
+on:
+  schedule:
+    # GitHub Actions no garantiza el minuto exacto bajo carga, pero en la
+    # práctica corre cada ~5 min. LOOKBACK_MINUTES en config.py absorbe el jitter.
+    - cron: "*/5 * * * *"
+  workflow_dispatch: {}   # permite correrlo manualmente desde la pestaña Actions
+
+# Evita que se acumulen corridas superpuestas si una tarda más de 5 min.
+concurrency:
+  group: smallcap-scanner
+  cancel-in-progress: false
+
+permissions:
+  contents: write   # necesario para commitear el estado de dedup
+
+jobs:
+  scan:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+
+      - uses: actions/setup-python@v5
+        with:
+          python-version: "3.11"
+
+      - name: Instalar dependencias
+        run: pip install -r requirements.txt
+
+      - name: Correr scanner
+        env:
+          TELEGRAM_BOT_TOKEN: ${{ secrets.TELEGRAM_BOT_TOKEN }}
+          TELEGRAM_CHAT_ID: ${{ secrets.TELEGRAM_CHAT_ID }}
+          ALPHAVANTAGE_API_KEY: ${{ secrets.ALPHAVANTAGE_API_KEY }}
+          FINNHUB_API_KEY: ${{ secrets.FINNHUB_API_KEY }}
+        run: python main.py
+
+      - name: Guardar estado (dedup + cache de market cap)
+        run: |
+          git config user.name "smallcap-scanner-bot"
+          git config user.email "actions@users.noreply.github.com"
+          git add state/ || true
+          git diff --cached --quiet || git commit -m "chore: update scanner state [skip ci]"
+          git push || true
