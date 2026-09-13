@@ -9424,11 +9424,6 @@
     "market_cap": 4909591165.0,
     "name": "Beijing Tong Ren Tang Chinese Medicine Co Ltd"
   },
-  "BJURF": {
-    "fetched_at": 1789049727.152399,
-    "market_cap": 138740987.0,
-    "name": "Bonjour Holdings Ltd"
-  },
   "BJWTF": {
     "fetched_at": 1789219834.6809127,
     "market_cap": 16723899377.000002,
@@ -10673,10 +10668,5 @@
     "fetched_at": 1789219834.6809127,
     "market_cap": 2090897513.0,
     "name": "Boyaa Interactive International Ltd"
-  },
-  "BPAC": {
-    "fetched_at": 1789049727.152399,
-    "market_cap": 75324445.4955839,
-    "name": "Blueport Acquisition Ltd"
   }
 }
