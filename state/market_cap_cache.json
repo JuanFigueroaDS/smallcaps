@@ -6084,11 +6084,6 @@
     "market_cap": 601599175.0,
     "name": "Assystem SA"
   },
-  "ATAI": {
-    "fetched_at": 1789219834.6809127,
-    "market_cap": 2725855176.0,
-    "name": "AtaiBeckley Inc"
-  },
   "ATALF": {
     "fetched_at": 1789483791.3936434,
     "market_cap": 96654233.0,
@@ -10648,30 +10643,5 @@
     "fetched_at": 1789483791.3936434,
     "market_cap": 17001331297.0,
     "name": "Bouygues SA"
-  },
-  "BOVNF": {
-    "fetched_at": 1789219834.6809127,
-    "market_cap": 1506919806.0,
-    "name": "BioInvent International AB"
-  },
-  "BOW": {
-    "fetched_at": 1789219834.6809127,
-    "market_cap": 1109190930.1784654,
-    "name": "Bowhead Specialty Holdings Inc"
-  },
-  "BOX": {
-    "fetched_at": 1789219834.6809127,
-    "market_cap": 4630525501.4287815,
-    "name": "Box Inc"
-  },
-  "BOXL": {
-    "fetched_at": 1789219834.6809127,
-    "market_cap": 3797466.862433863,
-    "name": "Boxlight Corp"
-  },
-  "BOYAF": {
-    "fetched_at": 1789219834.6809127,
-    "market_cap": 2090897513.0,
-    "name": "Boyaa Interactive International Ltd"
   }
 }
