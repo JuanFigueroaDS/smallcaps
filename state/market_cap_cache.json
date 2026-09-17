@@ -5064,11 +5064,6 @@
     "market_cap": 443399880.3787878,
     "name": "Arcturus Therapeutics Holdings Inc"
   },
-  "ARCUF": {
-    "fetched_at": 1789402633.3086398,
-    "market_cap": 9231196.0,
-    "name": "Arcus Development Group Inc"
-  },
   "ARCVF": {
     "fetched_at": 1789656622.6906908,
     "market_cap": 3660458470.0,
@@ -5678,36 +5673,6 @@
     "fetched_at": 1789656622.6906908,
     "market_cap": 12868540452.0,
     "name": "Associated British Foods PLC"
-  },
-  "ASBP": {
-    "fetched_at": 1789402633.3086398,
-    "market_cap": 12707166.57894737,
-    "name": "Aspire Biopharma Holdings Inc"
-  },
-  "ASBRF": {
-    "fetched_at": 1789402633.3086398,
-    "market_cap": 2423971399658.0,
-    "name": "Asahi Group Holdings Ltd"
-  },
-  "ASC": {
-    "fetched_at": 1789402633.3086398,
-    "market_cap": 762704402.5839654,
-    "name": "Ardmore Shipping Corp"
-  },
-  "ASCBF": {
-    "fetched_at": 1789402633.3086398,
-    "market_cap": 64069999.99999999,
-    "name": "A SPAC II Acquisition Corp"
-  },
-  "ASCC": {
-    "fetched_at": 1789402633.3086398,
-    "market_cap": 4815976.0,
-    "name": "Aristocrat Group Corp"
-  },
-  "ASCCF": {
-    "fetched_at": 1789402633.3086398,
-    "market_cap": 2807124730225.0,
-    "name": "Asics Corp"
   },
   "ASCK": {
     "fetched_at": 1789483791.3936434,
