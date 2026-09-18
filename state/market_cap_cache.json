@@ -10224,11 +10224,6 @@
     "market_cap": 393096.00000000006,
     "name": "Biomass Secure Power Inc"
   },
-  "BMTCF": {
-    "fetched_at": 1789483791.3936434,
-    "market_cap": 397356248.0,
-    "name": "BMTC Group Inc"
-  },
   "BMTHF": {
     "fetched_at": 1789741195.7868674,
     "market_cap": 1680000067.0,
@@ -10603,45 +10598,5 @@
     "fetched_at": 1789741195.7868674,
     "market_cap": 352655528.0,
     "name": "Borussia Dortmund GmbH & Co KGaA"
-  },
-  "BOSC": {
-    "fetched_at": 1789483791.3936434,
-    "market_cap": 33345599.675965674,
-    "name": "BOS Better Online Solutions Ltd"
-  },
-  "BOT": {
-    "fetched_at": 1789483791.3936434,
-    "market_cap": 696610000.0,
-    "name": "RoboStrategy Inc"
-  },
-  "BOTH": {
-    "fetched_at": 1789483791.3936434,
-    "market_cap": 20000.0,
-    "name": "Bioethics Ltd"
-  },
-  "BOTJ": {
-    "fetched_at": 1789483791.3936434,
-    "market_cap": 125168954.01710957,
-    "name": "Bank of The James Financial Group, Inc"
-  },
-  "BOTRF": {
-    "fetched_at": 1789483791.3936434,
-    "market_cap": 605635749.2238209,
-    "name": "China Everbright Water Ltd"
-  },
-  "BOTY": {
-    "fetched_at": 1789483791.3936434,
-    "market_cap": 126254.0,
-    "name": "Lingerie Fighting Championships Inc"
-  },
-  "BOURF": {
-    "fetched_at": 1789483791.3936434,
-    "market_cap": 74115235004.0,
-    "name": "Bourbon Corp"
-  },
-  "BOUYF": {
-    "fetched_at": 1789483791.3936434,
-    "market_cap": 17001331297.0,
-    "name": "Bouygues SA"
   }
 }
