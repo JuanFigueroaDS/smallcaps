@@ -15,7 +15,7 @@ ALPHAVANTAGE_API_KEY = os.environ.get("ALPHAVANTAGE_API_KEY", "")
 FINNHUB_API_KEY = os.environ.get("FINNHUB_API_KEY", "")
 
 # --- Universo de small caps ---
-MARKET_CAP_MIN = _int_env("MARKET_CAP_MIN", 50_000_000)      # $50M
+MARKET_CAP_MIN = _int_env("MARKET_CAP_MIN", 300_000_000)     # $300M
 MARKET_CAP_MAX = _int_env("MARKET_CAP_MAX", 2_000_000_000)   # $2B
 UNIVERSE_FILE = os.environ.get("UNIVERSE_FILE", "universe.csv")
 
