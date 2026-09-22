@@ -5698,5 +5698,15 @@
     "fetched_at": 1790045844.3440278,
     "market_cap": 1660638951.9196875,
     "name": "BlackLine Inc"
+  },
+  "BNED": {
+    "fetched_at": 1790047527.0988421,
+    "market_cap": 372301917.2988722,
+    "name": "Barnes & Noble Education Inc"
+  },
+  "BONXF": {
+    "fetched_at": 1790047528.0859945,
+    "market_cap": 59341345.0,
+    "name": "BonTerra Resources Inc"
   }
 }
