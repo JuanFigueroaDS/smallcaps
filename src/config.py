@@ -22,7 +22,7 @@ UNIVERSE_FILE = os.environ.get("UNIVERSE_FILE", "universe.csv")
 # --- Ventana de búsqueda ---
 # Debe ser un poco mayor al intervalo real entre corridas (5 min) para
 # absorber retrasos de scheduling de GitHub Actions.
-LOOKBACK_MINUTES = _int_env("LOOKBACK_MINUTES", 12)
+LOOKBACK_MINUTES = _int_env("LOOKBACK_MINUTES", 1440)
 
 # --- Estado / dedup ---
 STATE_FILE = os.environ.get("STATE_FILE", "state/seen.json")
