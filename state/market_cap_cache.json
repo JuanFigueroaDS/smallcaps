@@ -5668,5 +5668,25 @@
     "fetched_at": 1790007792.0354166,
     "market_cap": 12623891126.0,
     "name": "Associated British Foods PLC"
+  },
+  "AVLN": {
+    "fetched_at": 1790045840.9050078,
+    "market_cap": 1401812501.6192896,
+    "name": "Avalyn Pharma Inc"
+  },
+  "AVO": {
+    "fetched_at": 1790045842.5345557,
+    "market_cap": 1122283560.6821706,
+    "name": "Mission Produce Inc"
+  },
+  "BHLL": {
+    "fetched_at": 1790045843.4392238,
+    "market_cap": 208185457.0,
+    "name": "Bunker Hill Mining Corp"
+  },
+  "BL": {
+    "fetched_at": 1790045844.3440278,
+    "market_cap": 1660638951.9196875,
+    "name": "BlackLine Inc"
   }
 }
