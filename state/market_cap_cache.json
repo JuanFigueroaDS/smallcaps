@@ -2945,8 +2945,8 @@
     "name": "Kiplin Metals Inc"
   },
   "ALDX": {
-    "fetched_at": 1790007792.0354166,
-    "market_cap": 82043935.53623189,
+    "fetched_at": 1790123760.8649635,
+    "market_cap": 84155362.1,
     "name": "Aldeyra Therapeutics Inc"
   },
   "ALEC": {
@@ -5713,6 +5713,11 @@
     "fetched_at": 1790045844.3440278,
     "market_cap": 1660638951.9196875,
     "name": "BlackLine Inc"
+  },
+  "BMM": {
+    "fetched_at": 1790123760.996076,
+    "market_cap": 659024506.0,
+    "name": "Blue Moon Metals Inc"
   },
   "BNED": {
     "fetched_at": 1790047527.0988421,
