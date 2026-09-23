@@ -4475,8 +4475,8 @@
     "name": "Alpha and Omega Semiconductor Ltd"
   },
   "AOUT": {
-    "fetched_at": 1790007792.0354166,
-    "market_cap": 207240507.15353218,
+    "fetched_at": 1790127293.13428,
+    "market_cap": 210522022.34581107,
     "name": "American Outdoor Brands Inc"
   },
   "AOVTF": {
@@ -4690,8 +4690,8 @@
     "name": "Apollo Global Management Inc"
   },
   "APOG": {
-    "fetched_at": 1790007792.0354166,
-    "market_cap": 767953296.5092838,
+    "fetched_at": 1790127293.2549598,
+    "market_cap": 784230576.7725182,
     "name": "Apogee Enterprises Inc"
   },
   "APP": {
@@ -5718,6 +5718,11 @@
     "fetched_at": 1790045844.3440278,
     "market_cap": 1660638951.9196875,
     "name": "BlackLine Inc"
+  },
+  "BLDP": {
+    "fetched_at": 1790127294.1828153,
+    "market_cap": 1091892130.0,
+    "name": "Ballard Power Systems Inc"
   },
   "BMM": {
     "fetched_at": 1790123760.996076,
