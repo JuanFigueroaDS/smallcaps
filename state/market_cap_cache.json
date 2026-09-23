@@ -1535,8 +1535,8 @@
     "name": "AES Corp"
   },
   "AESI": {
-    "fetched_at": 1790007792.0354166,
-    "market_cap": 1693796840.3912072,
+    "fetched_at": 1790124600.3502493,
+    "market_cap": 1500041525.2449136,
     "name": "Atlas Energy Solutions Inc"
   },
   "AESP": {
@@ -5668,6 +5668,11 @@
     "fetched_at": 1790007792.0354166,
     "market_cap": 12623891126.0,
     "name": "Associated British Foods PLC"
+  },
+  "ATGGF": {
+    "fetched_at": 1790124601.509791,
+    "market_cap": 223175158.0,
+    "name": "Actinogen Medical Ltd"
   },
   "ATII": {
     "fetched_at": 1790087200.8884861,
