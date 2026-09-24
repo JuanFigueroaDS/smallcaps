@@ -5400,8 +5400,8 @@
     "name": "Arq Inc"
   },
   "ARQQ": {
-    "fetched_at": 1790007792.0354166,
-    "market_cap": 350310531.65625,
+    "fetched_at": 1790261400.6409807,
+    "market_cap": 392250348.4010417,
     "name": "Arqit Quantum Inc"
   },
   "ARQT": {
@@ -5753,6 +5753,11 @@
     "fetched_at": 1790127294.1828153,
     "market_cap": 1091892130.0,
     "name": "Ballard Power Systems Inc"
+  },
+  "BLMN": {
+    "fetched_at": 1790261401.5945415,
+    "market_cap": 732058802.0,
+    "name": "Bloomin' Brands Inc"
   },
   "BLND": {
     "fetched_at": 1790255961.0980616,
