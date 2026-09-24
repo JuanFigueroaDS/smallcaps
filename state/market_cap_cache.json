@@ -1835,8 +1835,8 @@
     "name": "Agrios Global Holdings Ltd"
   },
   "AGGZF": {
-    "fetched_at": 1790007792.0354166,
-    "market_cap": 249411265.0,
+    "fetched_at": 1790255395.0338435,
+    "market_cap": 255453016.0,
     "name": "Ag Growth International Inc"
   },
   "AGI": {
@@ -5669,10 +5669,20 @@
     "market_cap": 12623891126.0,
     "name": "Associated British Foods PLC"
   },
+  "ASRV": {
+    "fetched_at": 1790255395.1836503,
+    "market_cap": 79802559.5584989,
+    "name": "Ameriserv Financial Inc"
+  },
   "ASTH": {
     "fetched_at": 1790175257.151956,
     "market_cap": 1741609261.6906114,
     "name": "Astrana Health Inc"
+  },
+  "ATEN": {
+    "fetched_at": 1790255395.349671,
+    "market_cap": 1942291448.3052435,
+    "name": "A10 Networks Inc"
   },
   "ATGGF": {
     "fetched_at": 1790124601.509791,
