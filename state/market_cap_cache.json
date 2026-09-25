@@ -1,178 +1,5703 @@
 {
+  "A": {
+    "fetched_at": 1790348855.953557,
+    "market_cap": 48728581656.15727,
+    "name": "Agilent Technologies Inc"
+  },
+  "AA": {
+    "fetched_at": 1790348855.953557,
+    "market_cap": 11263654326.384369,
+    "name": "Alcoa Corp"
+  },
+  "AABB": {
+    "fetched_at": 1790348855.953557,
+    "market_cap": 41800127.08896227,
+    "name": "Asia Broadband Inc"
+  },
+  "AABVF": {
+    "fetched_at": 1790348855.953557,
+    "market_cap": 3213925.0,
+    "name": "Aberdeen International Inc"
+  },
+  "AACAF": {
+    "fetched_at": 1790348855.953557,
+    "market_cap": 46071993187.0,
+    "name": "AAC Technologies Holdings Inc"
+  },
+  "AACLF": {
+    "fetched_at": 1790348855.953557,
+    "market_cap": 2167068.0,
+    "name": "ACL Construction Ltd"
+  },
+  "AACP": {
+    "fetched_at": 1790348855.953557,
+    "market_cap": 237047000.0,
+    "name": "Apogee Acquisition Corp"
+  },
+  "AACS": {
+    "fetched_at": 1790348855.953557,
+    "market_cap": 1157.8129999999999,
+    "name": "American Commerce Solutions Inc"
+  },
+  "AACTF": {
+    "fetched_at": 1790348855.953557,
+    "market_cap": 1003627.0,
+    "name": "Aurora Solar Technologies Inc"
+  },
+  "AADX": {
+    "fetched_at": 1790348855.953557,
+    "market_cap": 2196293231.161545,
+    "name": "Applied Aerospace & Defense Inc"
+  },
+  "AAFRF": {
+    "fetched_at": 1790348855.953557,
+    "market_cap": 11235465955.0,
+    "name": "Airtel Africa PLC"
+  },
+  "AAGAF": {
+    "fetched_at": 1790348855.953557,
+    "market_cap": 145262256.0,
+    "name": "Silver47 Exploration Corp"
+  },
+  "AAGC": {
+    "fetched_at": 1790348855.953557,
+    "market_cap": 1126364.2105263157,
+    "name": "All American Gold Corp"
+  },
+  "AAGFF": {
+    "fetched_at": 1790348855.953557,
+    "market_cap": 236576463.0,
+    "name": "Aftermath Silver Ltd"
+  },
+  "AAGH": {
+    "fetched_at": 1790348855.953557,
+    "market_cap": 4230532.0,
+    "name": "America Great Health"
+  },
+  "AAGR": {
+    "fetched_at": 1790348855.953557,
+    "market_cap": 405068.0,
+    "name": "African Agriculture Holdings Inc"
+  },
+  "AAHIF": {
+    "fetched_at": 1790348855.953557,
+    "market_cap": 34262018859.999996,
+    "name": "Asahi Co Ltd"
+  },
+  "AAIGF": {
+    "fetched_at": 1790348855.953557,
+    "market_cap": 779619649642.0,
+    "name": "AIA Group Ltd"
+  },
+  "AAIIQ": {
+    "fetched_at": 1790348855.953557,
+    "market_cap": 413.1,
+    "name": "Alabama Aircraft Industries Inc"
+  },
+  "AAIRF": {
+    "fetched_at": 1790348855.953557,
+    "market_cap": 3140000.0,
+    "name": "American Aires Inc"
+  },
+  "AAL": {
+    "fetched_at": 1790348855.953557,
+    "market_cap": 8837298547.0,
+    "name": "American Airlines Group Inc"
+  },
+  "AALBF": {
+    "fetched_at": 1790348855.953557,
+    "market_cap": 4533177146.0,
+    "name": "Aalberts NV"
+  },
+  "AALYF": {
+    "fetched_at": 1790348855.953557,
+    "market_cap": 57227924.0,
+    "name": "Audience Analytics Ltd"
+  },
+  "AAMCF": {
+    "fetched_at": 1790348855.953557,
+    "market_cap": 940000.0,
+    "name": "Accelitron Advanced Motor Controls Inc"
+  },
+  "AAME": {
+    "fetched_at": 1790348855.953557,
+    "market_cap": 26720368.755395688,
+    "name": "Atlantic American Corp"
+  },
+  "AAMI": {
+    "fetched_at": 1790348855.953557,
+    "market_cap": 3311938781.3865147,
+    "name": "Acadian Asset Management Inc"
+  },
+  "AAMMF": {
+    "fetched_at": 1790348855.953557,
+    "market_cap": 22991587.0,
+    "name": "Almadex Minerals Ltd"
+  },
+  "AAMTF": {
+    "fetched_at": 1790348855.953557,
+    "market_cap": 10398883.0,
+    "name": "Armada Mercantile Ltd"
+  },
+  "AANNF": {
+    "fetched_at": 1790348855.953557,
+    "market_cap": 1869266753.0,
+    "name": "Aroundtown SA"
+  },
+  "AAOI": {
+    "fetched_at": 1790348855.953557,
+    "market_cap": 8578082084.417079,
+    "name": "Applied Optoelectronics Inc"
+  },
+  "AAON": {
+    "fetched_at": 1790348855.953557,
+    "market_cap": 6948368614.8322,
+    "name": "Aaon Inc"
+  },
+  "AAP": {
+    "fetched_at": 1790348855.953557,
+    "market_cap": 2502371970.767153,
+    "name": "Advance Auto Parts Inc"
+  },
+  "AAPI": {
+    "fetched_at": 1790348855.953557,
+    "market_cap": 28571981.999999996,
+    "name": "Apple iSports Group Inc"
+  },
+  "AAPJ": {
+    "fetched_at": 1790348855.953557,
+    "market_cap": 3269.3799999999997,
+    "name": "Aap 101 Inc"
+  },
+  "AAPL": {
+    "fetched_at": 1790348855.953557,
+    "market_cap": 4902476680812.072,
+    "name": "Apple Inc"
+  },
+  "AAPT": {
+    "fetched_at": 1790348855.953557,
+    "market_cap": 2745.0,
+    "name": "All American Pet Co Inc"
+  },
+  "AAQL": {
+    "fetched_at": 1790348855.953557,
+    "market_cap": 19879697.0,
+    "name": "Antiaging Quantum Living Inc"
+  },
+  "AARD": {
+    "fetched_at": 1790348855.953557,
+    "market_cap": 121460892.54496402,
+    "name": "Aardvark Therapeutics Inc"
+  },
+  "AARLF": {
+    "fetched_at": 1790348855.953557,
+    "market_cap": 334629775.0,
+    "name": "Astral Resources NL"
+  },
+  "AASLF": {
+    "fetched_at": 1790348855.953557,
+    "market_cap": 20749230175.0,
+    "name": "Asia Air Survey Co Ltd"
+  },
+  "AASP": {
+    "fetched_at": 1790348855.953557,
+    "market_cap": 62209916.85,
+    "name": "Agassi Sports Entertainment Corp"
+  },
+  "AASZF": {
+    "fetched_at": 1790348855.953557,
+    "market_cap": 871001495.0,
+    "name": "Atlantic Sapphire ASA"
+  },
+  "AATC": {
+    "fetched_at": 1790348855.953557,
+    "market_cap": 32095451.413612567,
+    "name": "Autoscope Technologies Corp"
+  },
+  "AATV": {
+    "fetched_at": 1790348855.953557,
+    "market_cap": 3599117.0000000005,
+    "name": "Adaptive Ad Systems Inc"
+  },
+  "AAUAF": {
+    "fetched_at": 1790348855.953557,
+    "market_cap": 20810523.422727272,
+    "name": "Almaden Minerals Ltd"
+  },
+  "AAUC": {
+    "fetched_at": 1790348855.953557,
+    "market_cap": 4400776303.0,
+    "name": "Allied Gold Corp"
+  },
+  "AAUKF": {
+    "fetched_at": 1790348855.953557,
+    "market_cap": 43478704643.0,
+    "name": "Anglo American PLC"
+  },
+  "AAVVF": {
+    "fetched_at": 1790348855.953557,
+    "market_cap": 1664634998.0,
+    "name": "Advantage Energy Ltd"
+  },
+  "AAVXF": {
+    "fetched_at": 1790348855.953557,
+    "market_cap": 7319933975.0,
+    "name": "Abivax SA"
+  },
   "AAWH": {
-    "fetched_at": 1790169313.8843136,
-    "market_cap": 101606500.0,
+    "fetched_at": 1790348855.953557,
+    "market_cap": 115831410.0,
     "name": "Ascend Wellness Holdings Inc"
   },
+  "AAXBF": {
+    "fetched_at": 1790348855.953557,
+    "market_cap": 3552030000.0,
+    "name": "Airasia X Bhd"
+  },
+  "AAXT": {
+    "fetched_at": 1790348855.953557,
+    "market_cap": 0.0,
+    "name": "Aamaxan Transport Group Inc"
+  },
+  "ABANF": {
+    "fetched_at": 1790348855.953557,
+    "market_cap": 855666188.0,
+    "name": "Automatic Bank Services Ltd"
+  },
   "ABAT": {
-    "fetched_at": 1790129106.8912926,
-    "market_cap": 340760832.2446352,
+    "fetched_at": 1790348855.953557,
+    "market_cap": 320799949.6753247,
     "name": "American Battery Technology Co"
   },
+  "ABBB": {
+    "fetched_at": 1790348855.953557,
+    "market_cap": 5407250.0,
+    "name": "Auburn Bancorp Inc"
+  },
+  "ABBRF": {
+    "fetched_at": 1790348855.953557,
+    "market_cap": 2090921193.0000002,
+    "name": "AbraSilver Resource Corp"
+  },
+  "ABBV": {
+    "fetched_at": 1790348855.953557,
+    "market_cap": 468498117381.8024,
+    "name": "AbbVie Inc"
+  },
+  "ABBY": {
+    "fetched_at": 1790348855.953557,
+    "market_cap": 47903.200000000004,
+    "name": "Abby Inc"
+  },
+  "ABCB": {
+    "fetched_at": 1790348855.953557,
+    "market_cap": 5488700873.840991,
+    "name": "Ameris Bancorp"
+  },
+  "ABCCF": {
+    "fetched_at": 1790348855.953557,
+    "market_cap": 342929803.0,
+    "name": "ABC Arbitrage SA"
+  },
+  "ABCFF": {
+    "fetched_at": 1790348855.953557,
+    "market_cap": 3749125.0,
+    "name": "Abacus Mining & Exploration Corp"
+  },
+  "ABCL": {
+    "fetched_at": 1790348855.953557,
+    "market_cap": 4099199285.2721357,
+    "name": "Abcellera Biologics Inc"
+  },
+  "ABCP": {
+    "fetched_at": 1790348855.953557,
+    "market_cap": 24207390.686362814,
+    "name": "AmBase Corp"
+  },
+  "ABDDF": {
+    "fetched_at": 1790348855.953557,
+    "market_cap": 189144762.0,
+    "name": "Ab Dynamics PLC"
+  },
+  "ABDXF": {
+    "fetched_at": 1790348855.953557,
+    "market_cap": 26538905.0,
+    "name": "Abingdon Health PLC"
+  },
+  "ABEO": {
+    "fetched_at": 1790348855.953557,
+    "market_cap": 310509225.0650994,
+    "name": "Abeona Therapeutics Inc"
+  },
+  "ABEPF": {
+    "fetched_at": 1790348855.953557,
+    "market_cap": 2930192.0,
+    "name": "Vision Lithium Inc"
+  },
+  "ABG": {
+    "fetched_at": 1790348855.953557,
+    "market_cap": 3230268137.449978,
+    "name": "Asbury Automotive Group Inc"
+  },
+  "ABGSF": {
+    "fetched_at": 1790348855.953557,
+    "market_cap": 3811081301.0,
+    "name": "ABG Sundal Collier Holding ASA"
+  },
+  "ABILF": {
+    "fetched_at": 1790348855.953557,
+    "market_cap": 798.9060000000001,
+    "name": "Ability Inc"
+  },
+  "ABIT": {
+    "fetched_at": 1790348855.953557,
+    "market_cap": 409501.0,
+    "name": "Athena Bitcoin Global"
+  },
+  "ABLE": {
+    "fetched_at": 1790348855.953557,
+    "market_cap": 30.040329999999997,
+    "name": "Able Energy Inc"
+  },
+  "ABLGF": {
+    "fetched_at": 1790348855.953557,
+    "market_cap": 2540915201.0,
+    "name": "Alten SA"
+  },
+  "ABLT": {
+    "fetched_at": 1790348855.953557,
+    "market_cap": 30000.0,
+    "name": "American Biltrite Inc"
+  },
+  "ABLV": {
+    "fetched_at": 1790348855.953557,
+    "market_cap": 62951741.47850293,
+    "name": "Able View Global Inc"
+  },
+  "ABLZF": {
+    "fetched_at": 1790348855.953557,
+    "market_cap": 148121463919.0,
+    "name": "Abb Ltd"
+  },
+  "ABM": {
+    "fetched_at": 1790348855.953557,
+    "market_cap": 2903766882.2165427,
+    "name": "ABM Industries Inc"
+  },
   "ABMBF": {
-    "fetched_at": 1790170535.5583124,
+    "fetched_at": 1790348855.953557,
     "market_cap": 93711314.0,
     "name": "Abcourt Mines Inc"
   },
+  "ABMMF": {
+    "fetched_at": 1790348855.953557,
+    "market_cap": 18540136.0,
+    "name": "Prodigy Gold NL"
+  },
+  "ABMT": {
+    "fetched_at": 1790348855.953557,
+    "market_cap": 50000.0,
+    "name": "Advanced Biomedical Technologies Inc"
+  },
+  "ABNAF": {
+    "fetched_at": 1790348855.953557,
+    "market_cap": 6300725.0,
+    "name": "Aben Gold Corp"
+  },
+  "ABNB": {
+    "fetched_at": 1790348855.953557,
+    "market_cap": 90650167858.79709,
+    "name": "Airbnb Inc"
+  },
+  "ABOIF": {
+    "fetched_at": 1790348855.953557,
+    "market_cap": 209340759363.0,
+    "name": "Aboitiz Equity Ventures Inc"
+  },
+  "ABOS": {
+    "fetched_at": 1790348855.953557,
+    "market_cap": 161629133.9869848,
+    "name": "Acumen Pharmaceuticals Inc"
+  },
+  "ABPR": {
+    "fetched_at": 1790348855.953557,
+    "market_cap": 2514200.0,
+    "name": "Airborne Security & Protective Services Inc"
+  },
+  "ABRMF": {
+    "fetched_at": 1790348855.953557,
+    "market_cap": 8099859.0,
+    "name": "Arbor Metals Corp"
+  },
+  "ABSCF": {
+    "fetched_at": 1790348855.953557,
+    "market_cap": 68536855.0,
+    "name": "AB Science SA"
+  },
   "ABSI": {
-    "fetched_at": 1790260747.7480032,
-    "market_cap": 1672378569.2142854,
+    "fetched_at": 1790348855.953557,
+    "market_cap": 1775346951.0189843,
     "name": "Absci Corp"
   },
+  "ABSSF": {
+    "fetched_at": 1790348855.953557,
+    "market_cap": 190199146.0,
+    "name": "AirBoss of America Corp"
+  },
+  "ABT": {
+    "fetched_at": 1790348855.953557,
+    "market_cap": 174889836599.5562,
+    "name": "Abbott Laboratories"
+  },
+  "ABTC": {
+    "fetched_at": 1790348855.953557,
+    "market_cap": 699069324.3995963,
+    "name": "American Bitcoin Corp"
+  },
+  "ABTI": {
+    "fetched_at": 1790348855.953557,
+    "market_cap": 291900.0,
+    "name": "Alterola Biotech Inc"
+  },
+  "ABTS": {
+    "fetched_at": 1790348855.953557,
+    "market_cap": 4050200.5511811017,
+    "name": "Abits Group Inc"
+  },
+  "ABUS": {
+    "fetched_at": 1790348855.953557,
+    "market_cap": 966756009.1876289,
+    "name": "Arbutus Biopharma Corp"
+  },
+  "ABVC": {
+    "fetched_at": 1790348855.953557,
+    "market_cap": 33958684.192982465,
+    "name": "ABVC Biopharma Inc"
+  },
+  "ABVG": {
+    "fetched_at": 1790348855.953557,
+    "market_cap": 4595.704,
+    "name": "Affinity Beverage Group Inc"
+  },
+  "ABVN": {
+    "fetched_at": 1790348855.953557,
+    "market_cap": 106588326.0,
+    "name": "ABV Consulting Inc"
+  },
+  "ABWN": {
+    "fetched_at": 1790348855.953557,
+    "market_cap": 4863.0,
+    "name": "Airborne Wireless Network"
+  },
+  "ABX": {
+    "fetched_at": 1790348855.953557,
+    "market_cap": 808741938.1687979,
+    "name": "Abacus Global Management Inc"
+  },
+  "ABXXF": {
+    "fetched_at": 1790348855.953557,
+    "market_cap": 679198892.0,
+    "name": "Abaxx Technologies Inc"
+  },
+  "ABZPF": {
+    "fetched_at": 1790348855.953557,
+    "market_cap": 326785490225.0,
+    "name": "Aboitiz Power Corp"
+  },
+  "ABZT": {
+    "fetched_at": 1790348855.953557,
+    "market_cap": 77.5,
+    "name": "Ablaze Technologies Inc"
+  },
+  "ACA": {
+    "fetched_at": 1790348855.953557,
+    "market_cap": 7195129465.154131,
+    "name": "Arcosa Inc"
+  },
+  "ACAD": {
+    "fetched_at": 1790348855.953557,
+    "market_cap": 3821736290.0361776,
+    "name": "ACADIA Pharmaceuticals Inc"
+  },
+  "ACAGF": {
+    "fetched_at": 1790348855.953557,
+    "market_cap": 890000.0,
+    "name": "Arcandor AG"
+  },
+  "ACAI": {
+    "fetched_at": 1790348855.953557,
+    "market_cap": 7615.0,
+    "name": "Holife Global Inc"
+  },
+  "ACAN": {
+    "fetched_at": 1790348855.953557,
+    "market_cap": 4878.0,
+    "name": "Americann Inc"
+  },
+  "ACASF": {
+    "fetched_at": 1790348855.953557,
+    "market_cap": 6012230819.0,
+    "name": "Acast AB (publ)"
+  },
+  "ACAZF": {
+    "fetched_at": 1790348855.953557,
+    "market_cap": 336085802.0,
+    "name": "Acadian Timber Corp"
+  },
   "ACB": {
-    "fetched_at": 1790167440.9391248,
-    "market_cap": 365706091.0,
+    "fetched_at": 1790348855.953557,
+    "market_cap": 385158555.0,
     "name": "Aurora Cannabis Inc"
   },
+  "ACBD": {
+    "fetched_at": 1790348855.953557,
+    "market_cap": 33760000.0,
+    "name": "Annabidiol Corp"
+  },
+  "ACBM": {
+    "fetched_at": 1790348855.953557,
+    "market_cap": 1560000.0,
+    "name": "ACRO Biomedical Co Ltd"
+  },
+  "ACCFF": {
+    "fetched_at": 1790348855.953557,
+    "market_cap": 7959789.0,
+    "name": "Accord Financial Corp"
+  },
+  "ACCL": {
+    "fetched_at": 1790348855.953557,
+    "market_cap": 35293249.88593156,
+    "name": "Acco Group Holdings Ltd"
+  },
+  "ACCMF": {
+    "fetched_at": 1790348855.953557,
+    "market_cap": 873808987.0,
+    "name": "AAC Clyde Space AB"
+  },
   "ACCO": {
-    "fetched_at": 1790186399.6843452,
-    "market_cap": 399691791.7026379,
+    "fetched_at": 1790348855.953557,
+    "market_cap": 396922556.56470585,
     "name": "ACCO Brands Corp"
   },
+  "ACCR": {
+    "fetched_at": 1790348855.953557,
+    "market_cap": 632100.0000000001,
+    "name": "Access-Power & Co Inc"
+  },
+  "ACCS": {
+    "fetched_at": 1790348855.953557,
+    "market_cap": 18217965.66597938,
+    "name": "ACCESS Newswire Inc"
+  },
+  "ACDBF": {
+    "fetched_at": 1790348855.953557,
+    "market_cap": 1815977.0,
+    "name": "AC/DC Battery Metals Inc"
+  },
+  "ACDC": {
+    "fetched_at": 1790348855.953557,
+    "market_cap": 826837362.2974138,
+    "name": "ProFrac Holding Corp"
+  },
+  "ACDVF": {
+    "fetched_at": 1790348855.953557,
+    "market_cap": 7742653776.0,
+    "name": "Air Canada"
+  },
+  "ACDXF": {
+    "fetched_at": 1790348855.953557,
+    "market_cap": 9591872.0,
+    "name": "American Copper Development Corp"
+  },
+  "ACEHF": {
+    "fetched_at": 1790348855.953557,
+    "market_cap": 5947591195312.0,
+    "name": "Aspirasi Hidup Indonesia Tbk PT"
+  },
+  "ACEJF": {
+    "fetched_at": 1790348855.953557,
+    "market_cap": 4250958252.0000005,
+    "name": "Acea SpA"
+  },
+  "ACEL": {
+    "fetched_at": 1790348855.953557,
+    "market_cap": 896375945.0685922,
+    "name": "Accel Entertainment Inc"
+  },
+  "ACET": {
+    "fetched_at": 1790348855.953557,
+    "market_cap": 77419522.20259129,
+    "name": "Adicet Bio Inc"
+  },
+  "ACFL": {
+    "fetched_at": 1790348855.953557,
+    "market_cap": 10000.0,
+    "name": "AMC Financial Holdings Inc"
+  },
+  "ACFN": {
+    "fetched_at": 1790348855.953557,
+    "market_cap": 52200052.163009405,
+    "name": "Acorn Energy Inc"
+  },
   "ACGAF": {
-    "fetched_at": 1790121270.8613365,
-    "market_cap": 432817625.0,
+    "fetched_at": 1790348855.953557,
+    "market_cap": 437446664.0,
     "name": "ACG Metals Ltd"
   },
+  "ACGBF": {
+    "fetched_at": 1790348855.953557,
+    "market_cap": 2354299453264.973,
+    "name": "Agricultural Bank of China Ltd"
+  },
   "ACGC": {
-    "fetched_at": 1790169915.0009727,
-    "market_cap": 292459693.35,
+    "fetched_at": 1790348855.953557,
+    "market_cap": 292605195.685,
     "name": "ACP Holdings Acquisition Corp"
   },
+  "ACGL": {
+    "fetched_at": 1790348855.953557,
+    "market_cap": 32423592798.52417,
+    "name": "Arch Capital Group Ltd"
+  },
+  "ACGP": {
+    "fetched_at": 1790348855.953557,
+    "market_cap": 690280000.0,
+    "name": "Associated Capital Group Inc"
+  },
+  "ACGX": {
+    "fetched_at": 1790348855.953557,
+    "market_cap": 149382.99999999997,
+    "name": "Alliance Creative Group Inc"
+  },
+  "ACGYF": {
+    "fetched_at": 1790348855.953557,
+    "market_cap": 94584106070.0,
+    "name": "Subsea 7 SA"
+  },
+  "ACH": {
+    "fetched_at": 1790348855.953557,
+    "market_cap": 56386528.51299827,
+    "name": "Accendra Health Inc"
+  },
+  "ACHC": {
+    "fetched_at": 1790348855.953557,
+    "market_cap": 2588187613.553139,
+    "name": "Acadia Healthcare Company Inc"
+  },
+  "ACHFF": {
+    "fetched_at": 1790348855.953557,
+    "market_cap": 55025964.0,
+    "name": "Arch Biopartners Inc"
+  },
+  "ACHR": {
+    "fetched_at": 1790348855.953557,
+    "market_cap": 4396835949.0,
+    "name": "Archer Aviation Inc"
+  },
   "ACHV": {
-    "fetched_at": 1790177882.567551,
-    "market_cap": 835568228.3826085,
+    "fetched_at": 1790348855.953557,
+    "market_cap": 805726479.0000001,
     "name": "Achieve Life Sciences Inc"
   },
+  "ACI": {
+    "fetched_at": 1790348855.953557,
+    "market_cap": 5799641823.910256,
+    "name": "Albertsons Companies Inc"
+  },
+  "ACIC": {
+    "fetched_at": 1790348855.953557,
+    "market_cap": 439568885.2129528,
+    "name": "American Coastal Insurance Corp"
+  },
   "ACIU": {
-    "fetched_at": 1790256267.8667154,
-    "market_cap": 288019196.7765568,
+    "fetched_at": 1790348855.953557,
+    "market_cap": 270717681.06713784,
     "name": "AC Immune SA"
   },
+  "ACIW": {
+    "fetched_at": 1790348855.953557,
+    "market_cap": 5009399429.3904915,
+    "name": "ACI Worldwide Inc"
+  },
+  "ACIXF": {
+    "fetched_at": 1790348855.953557,
+    "market_cap": 227472315.0,
+    "name": "Acarix AB"
+  },
+  "ACJJF": {
+    "fetched_at": 1790348855.953557,
+    "market_cap": 761531140946.0,
+    "name": "Acom Co Ltd"
+  },
+  "ACKAF": {
+    "fetched_at": 1790348855.953557,
+    "market_cap": 59666803045.0,
+    "name": "Arcelik AS"
+  },
+  "ACKDF": {
+    "fetched_at": 1790348855.953557,
+    "market_cap": 14191691023.0,
+    "name": "Auckland International Airport Ltd"
+  },
+  "ACLIF": {
+    "fetched_at": 1790348855.953557,
+    "market_cap": 7223537720.0,
+    "name": "Accelleron Industries AG"
+  },
+  "ACLLF": {
+    "fetched_at": 1790348855.953557,
+    "market_cap": 7416019328.0,
+    "name": "Atco Ltd"
+  },
+  "ACLS": {
+    "fetched_at": 1790348855.953557,
+    "market_cap": 3586576118.465929,
+    "name": "Axcelis Technologies Inc"
+  },
+  "ACM": {
+    "fetched_at": 1790348855.953557,
+    "market_cap": 7531314965.988607,
+    "name": "AECOM"
+  },
+  "ACMB": {
+    "fetched_at": 1790348855.953557,
+    "market_cap": 4695466.416666667,
+    "name": "Agro Capital Management Corp"
+  },
+  "ACMIF": {
+    "fetched_at": 1790348855.953557,
+    "market_cap": 356027696.0,
+    "name": "Allied Critical Metals Inc"
+  },
+  "ACMLF": {
+    "fetched_at": 1790348855.953557,
+    "market_cap": 208758500.0,
+    "name": "Ascom Holding AG"
+  },
+  "ACMNF": {
+    "fetched_at": 1790348855.953557,
+    "market_cap": 15987317.0,
+    "name": "Arc Minerals Ltd"
+  },
+  "ACMR": {
+    "fetched_at": 1790348855.953557,
+    "market_cap": 5305875537.556713,
+    "name": "ACM Research Inc"
+  },
+  "ACMT": {
+    "fetched_at": 1790348855.953557,
+    "market_cap": 19500224.048205975,
+    "name": "ACMAT Corp"
+  },
+  "ACMTA": {
+    "fetched_at": 1790348855.953557,
+    "market_cap": 19500224.048205975,
+    "name": "ACMAT Corp"
+  },
+  "ACN": {
+    "fetched_at": 1790348855.953557,
+    "market_cap": 108564657349.65474,
+    "name": "Accenture PLC"
+  },
+  "ACNB": {
+    "fetched_at": 1790348855.953557,
+    "market_cap": 645180316.7183076,
+    "name": "ACNB Corp"
+  },
+  "ACNE": {
+    "fetched_at": 1790348855.953557,
+    "market_cap": 0.0,
+    "name": "Alice Consolidated Mines Inc"
+  },
+  "ACNFF": {
+    "fetched_at": 1790348855.953557,
+    "market_cap": 670199236.0,
+    "name": "Acomo NV"
+  },
+  "ACNT": {
+    "fetched_at": 1790348855.953557,
+    "market_cap": 131898387.83673468,
+    "name": "Ascent Industries Co"
+  },
+  "ACNV": {
+    "fetched_at": 1790348855.953557,
+    "market_cap": 8140.768,
+    "name": "Accelera Innovations Inc"
+  },
+  "ACOG": {
+    "fetched_at": 1790348855.953557,
+    "market_cap": 186636309.19931668,
+    "name": "Alpha Cognition Inc"
+  },
+  "ACOLF": {
+    "fetched_at": 1790348855.953557,
+    "market_cap": 141625240479.0,
+    "name": "And ST HD Co Ltd"
+  },
+  "ACON": {
+    "fetched_at": 1790348855.953557,
+    "market_cap": 7580635.962585034,
+    "name": "Aclarion Inc"
+  },
+  "ACOPF": {
+    "fetched_at": 1790348855.953557,
+    "market_cap": 5991899289.0,
+    "name": "A2 Milk Company Ltd"
+  },
+  "ACPIF": {
+    "fetched_at": 1790348855.953557,
+    "market_cap": 109067425137.0,
+    "name": "Acen Corp"
+  },
+  "ACPS": {
+    "fetched_at": 1790348855.953557,
+    "market_cap": 14666812.999999998,
+    "name": "AC Partners Inc"
+  },
+  "ACRB": {
+    "fetched_at": 1790348855.953557,
+    "market_cap": 10000.0,
+    "name": "Asia Carbon Industries Inc"
+  },
+  "ACRFF": {
+    "fetched_at": 1790348855.953557,
+    "market_cap": 10647564237.0,
+    "name": "Accor SA"
+  },
+  "ACRG": {
+    "fetched_at": 1790348855.953557,
+    "market_cap": 98709228.99999999,
+    "name": "American Clean Resources Group Inc"
+  },
+  "ACRL": {
+    "fetched_at": 1790348855.953557,
+    "market_cap": 2243456.923076923,
+    "name": "Atacama Resources International Inc"
+  },
+  "ACRS": {
+    "fetched_at": 1790348855.953557,
+    "market_cap": 791930025.7452471,
+    "name": "Aclaris Therapeutics Inc"
+  },
+  "ACRU": {
+    "fetched_at": 1790348855.953557,
+    "market_cap": 1578.0,
+    "name": "AmeriCrew Inc"
+  },
+  "ACRV": {
+    "fetched_at": 1790348855.953557,
+    "market_cap": 90849126.69902912,
+    "name": "Acrivon Therapeutics Inc"
+  },
+  "ACRXF": {
+    "fetched_at": 1790348855.953557,
+    "market_cap": 4180702409.0000005,
+    "name": "Acerinox SA"
+  },
+  "ACSAF": {
+    "fetched_at": 1790348855.953557,
+    "market_cap": 24701766217.0,
+    "name": "ACS Actividades de Construccion y Servicios SA"
+  },
+  "ACSYF": {
+    "fetched_at": 1790348855.953557,
+    "market_cap": 157758151.0,
+    "name": "Accsys Technologies PLC"
+  },
+  "ACT": {
+    "fetched_at": 1790348855.953557,
+    "market_cap": 6496103553.455497,
+    "name": "Enact Holdings Inc"
+  },
+  "ACTG": {
+    "fetched_at": 1790348855.953557,
+    "market_cap": 420599155.88888884,
+    "name": "Acacia Research Corp"
+  },
+  "ACTL": {
+    "fetched_at": 1790348855.953557,
+    "market_cap": 768.342,
+    "name": "Artec Global Media Inc"
+  },
+  "ACTU": {
+    "fetched_at": 1790348855.953557,
+    "market_cap": 14888805.084745761,
+    "name": "Actuate Therapeutics Inc"
+  },
+  "ACTX": {
+    "fetched_at": 1790348855.953557,
+    "market_cap": 5190.150000000001,
+    "name": "Advanced Container Technologies Inc"
+  },
   "ACU": {
-    "fetched_at": 1790256267.9429457,
-    "market_cap": 240610726.5593942,
+    "fetched_at": 1790348855.953557,
+    "market_cap": 242719325.5756852,
     "name": "Acme United Corp"
   },
+  "ACUR": {
+    "fetched_at": 1790348855.953557,
+    "market_cap": 6666.0,
+    "name": "Acura Pharmaceuticals Inc"
+  },
+  "ACUS": {
+    "fetched_at": 1790348855.953557,
+    "market_cap": 495.1000000000001,
+    "name": "Acusphere Inc"
+  },
+  "ACUT": {
+    "fetched_at": 1790348855.953557,
+    "market_cap": 1928672.0,
+    "name": "Accustem Sciences Inc"
+  },
+  "ACVA": {
+    "fetched_at": 1790348855.953557,
+    "market_cap": 1776191558.6519659,
+    "name": "ACV Auctions Inc"
+  },
+  "ACWRF": {
+    "fetched_at": 1790348855.953557,
+    "market_cap": 10019019.0,
+    "name": "Acceleware Ltd"
+  },
+  "ACXAF": {
+    "fetched_at": 1790348855.953557,
+    "market_cap": 301410063.0,
+    "name": "ACT Energy Technologies Ltd"
+  },
+  "ACXIF": {
+    "fetched_at": 1790348855.953557,
+    "market_cap": 11639799488.0,
+    "name": "Acciona SA"
+  },
+  "ACXP": {
+    "fetched_at": 1790348855.953557,
+    "market_cap": 7560790.948905109,
+    "name": "Acurx Pharmaceuticals Inc"
+  },
+  "AD": {
+    "fetched_at": 1790348855.953557,
+    "market_cap": 2983591822.532628,
+    "name": "Array Digital Infrastructure Inc"
+  },
+  "ADAC": {
+    "fetched_at": 1790348855.953557,
+    "market_cap": 290949997.99206346,
+    "name": "American Drive Acquisition Co"
+  },
+  "ADBE": {
+    "fetched_at": 1790348855.953557,
+    "market_cap": 92991559859.56973,
+    "name": "Adobe Inc"
+  },
+  "ADBGF": {
+    "fetched_at": 1790348855.953557,
+    "market_cap": 26778010.0,
+    "name": "Adore Beauty Group Ltd"
+  },
+  "ADBKF": {
+    "fetched_at": 1790348855.953557,
+    "market_cap": 513970000.0,
+    "name": "Addiko Bank AG"
+  },
+  "ADBMF": {
+    "fetched_at": 1790348855.953557,
+    "market_cap": 89655514.0,
+    "name": "Audioboom Group PLC"
+  },
+  "ADBN": {
+    "fetched_at": 1790348855.953557,
+    "market_cap": 1345.452,
+    "name": "Americana Distribution Inc"
+  },
+  "ADBRF": {
+    "fetched_at": 1790348855.953557,
+    "market_cap": 524803182.0,
+    "name": "Aldebaran Resources Inc"
+  },
+  "ADBT": {
+    "fetched_at": 1790348855.953557,
+    "market_cap": 60347436.1,
+    "name": "Advasa Holdings, Inc."
+  },
+  "ADCNF": {
+    "fetched_at": 1790348855.953557,
+    "market_cap": 2901768664.0,
+    "name": "Adicon Holdings Ltd"
+  },
+  "ADCOF": {
+    "fetched_at": 1790348855.953557,
+    "market_cap": 7198412.0,
+    "name": "Adcore Inc"
+  },
+  "ADCT": {
+    "fetched_at": 1790348855.953557,
+    "market_cap": 164691318.22900763,
+    "name": "ADC Therapeutics SA"
+  },
+  "ADCV": {
+    "fetched_at": 1790348855.953557,
+    "market_cap": 26700000.0,
+    "name": "Ad Capital US Inc"
+  },
+  "ADDDF": {
+    "fetched_at": 1790348855.953557,
+    "market_cap": 24924712962.0,
+    "name": "Adidas AG"
+  },
+  "ADDLF": {
+    "fetched_at": 1790348855.953557,
+    "market_cap": 20817120039.0,
+    "name": "AddLife AB"
+  },
+  "ADDTF": {
+    "fetched_at": 1790348855.953557,
+    "market_cap": 92369411168.0,
+    "name": "Addtech AB"
+  },
+  "ADEA": {
+    "fetched_at": 1790348855.953557,
+    "market_cap": 2758106502.079042,
+    "name": "Adeia Inc"
+  },
+  "ADEC": {
+    "fetched_at": 1790348855.953557,
+    "market_cap": 66.8,
+    "name": "Alternative Energy Development Corp"
+  },
+  "ADFJF": {
+    "fetched_at": 1790348855.953557,
+    "market_cap": 396603340.0,
+    "name": "ADF Group Inc"
+  },
+  "ADFS": {
+    "fetched_at": 1790348855.953557,
+    "market_cap": 9341.749600000001,
+    "name": "American Defense Systems Inc"
+  },
+  "ADGDF": {
+    "fetched_at": 1790348855.953557,
+    "market_cap": 12350000.0,
+    "name": "Adelong Gold Ltd"
+  },
+  "ADGM": {
+    "fetched_at": 1790348855.953557,
+    "market_cap": 4664196.7105263155,
+    "name": "Adagio Medical Holdings Inc"
+  },
+  "ADHC": {
+    "fetched_at": 1790348855.953557,
+    "market_cap": 1444271.0000000002,
+    "name": "American Diversified Holdings Corp"
+  },
+  "ADHI": {
+    "fetched_at": 1790348855.953557,
+    "market_cap": 1598042.0000000002,
+    "name": "Arsenal Digital Holdings Inc"
+  },
+  "ADHLF": {
+    "fetched_at": 1790348855.953557,
+    "market_cap": 409384176.0,
+    "name": "Novautek Technologies Group Ltd"
+  },
+  "ADI": {
+    "fetched_at": 1790348855.953557,
+    "market_cap": 185399596016.05893,
+    "name": "Analog Devices Inc"
+  },
+  "ADIA": {
+    "fetched_at": 1790348855.953557,
+    "market_cap": 11441849.358571539,
+    "name": "Adia Nutrition Inc"
+  },
+  "ADIG": {
+    "fetched_at": 1790348855.953557,
+    "market_cap": 1553388589.882979,
+    "name": "ADI Global Distribution Inc."
+  },
+  "ADIL": {
+    "fetched_at": 1790348855.953557,
+    "market_cap": 11658950.94059406,
+    "name": "Adial Pharmaceuticals Inc"
+  },
+  "ADKCF": {
+    "fetched_at": 1790348855.953557,
+    "market_cap": 448888763123.0,
+    "name": "Adeka Corp"
+  },
+  "ADKT": {
+    "fetched_at": 1790348855.953557,
+    "market_cap": 100024056.0,
+    "name": "Adirondack Trust Co"
+  },
+  "ADLI": {
+    "fetched_at": 1790348855.953557,
+    "market_cap": 10.389,
+    "name": "American Medical Technologies Inc"
+  },
+  "ADM": {
+    "fetched_at": 1790348855.953557,
+    "market_cap": 39462852349.007416,
+    "name": "Archer-Daniels-Midland Co"
+  },
+  "ADMA": {
+    "fetched_at": 1790348855.953557,
+    "market_cap": 2132334113.3608246,
+    "name": "ADMA Biologics Inc"
+  },
+  "ADMG": {
+    "fetched_at": 1790348855.953557,
+    "market_cap": 12892281.000000002,
+    "name": "Adamant DRI Processing and Minerals Group"
+  },
+  "ADMQ": {
+    "fetched_at": 1790348855.953557,
+    "market_cap": 6164858.348026653,
+    "name": "Adm Endeavors Inc"
+  },
+  "ADMRF": {
+    "fetched_at": 1790348855.953557,
+    "market_cap": 15780000.0,
+    "name": "Admiralty Resources NL"
+  },
+  "ADMT": {
+    "fetched_at": 1790348855.953557,
+    "market_cap": 3271282.9999999995,
+    "name": "ADM Tronics Unlimited Inc"
+  },
+  "ADNGF": {
+    "fetched_at": 1790348855.953557,
+    "market_cap": 61736796455.0,
+    "name": "Aida Engineering Ltd"
+  },
+  "ADNH": {
+    "fetched_at": 1790348855.953557,
+    "market_cap": 1137.0,
+    "name": "Advent Technologies Holdings Inc"
+  },
+  "ADNT": {
+    "fetched_at": 1790348855.953557,
+    "market_cap": 1310647773.489933,
+    "name": "Adient PLC"
+  },
+  "ADP": {
+    "fetched_at": 1790348855.953557,
+    "market_cap": 104523800919.17188,
+    "name": "Automatic Data Processing Inc"
+  },
+  "ADPT": {
+    "fetched_at": 1790348855.953557,
+    "market_cap": 4719248899.103979,
+    "name": "Adaptive Biotechnologies Corp"
+  },
+  "ADRLF": {
+    "fetched_at": 1790348855.953557,
+    "market_cap": 17019399.0,
+    "name": "Adavale Resources Ltd"
+  },
+  "ADRMF": {
+    "fetched_at": 1790348855.953557,
+    "market_cap": 4500790.0,
+    "name": "Adherium Ltd"
+  },
+  "ADRZF": {
+    "fetched_at": 1790348855.953557,
+    "market_cap": 8399389999.999999,
+    "name": "Andritz AG"
+  },
+  "ADSE": {
+    "fetched_at": 1790348855.953557,
+    "market_cap": 823286465.6420764,
+    "name": "Ads-Tec Energy PLC"
+  },
+  "ADSGF": {
+    "fetched_at": 1790348855.953557,
+    "market_cap": 356440812.0,
+    "name": "adesso SE"
+  },
+  "ADSK": {
+    "fetched_at": 1790348855.953557,
+    "market_cap": 44172148758.08151,
+    "name": "Autodesk Inc"
+  },
+  "ADSLF": {
+    "fetched_at": 1790348855.953557,
+    "market_cap": 455780016.0,
+    "name": "Andean Silver Ltd"
+  },
+  "ADSNF": {
+    "fetched_at": 1790348855.953557,
+    "market_cap": 141285744.0,
+    "name": "Adisyn Ltd"
+  },
+  "ADSV": {
+    "fetched_at": 1790348855.953557,
+    "market_cap": 41124.0,
+    "name": "Allied Security Innovations Inc"
+  },
+  "ADT": {
+    "fetched_at": 1790348855.953557,
+    "market_cap": 4298181966.492113,
+    "name": "ADT Inc"
+  },
+  "ADTC": {
+    "fetched_at": 1790348855.953557,
+    "market_cap": 60000.0,
+    "name": "Great Tahou Holdings Ltd"
+  },
+  "ADTN": {
+    "fetched_at": 1790348855.953557,
+    "market_cap": 565073569.4739803,
+    "name": "ADTRAN Holdings Inc"
+  },
+  "ADTR": {
+    "fetched_at": 1790348855.953557,
+    "market_cap": 8831.4,
+    "name": "Alliance Media Holdings Inc"
+  },
+  "ADTTF": {
+    "fetched_at": 1790348855.953557,
+    "market_cap": 22357126559448.0,
+    "name": "Advantest Corp"
+  },
+  "ADTX": {
+    "fetched_at": 1790348855.953557,
+    "market_cap": 4490894.347826086,
+    "name": "Aditxt Inc"
+  },
+  "ADUR": {
+    "fetched_at": 1790348855.953557,
+    "market_cap": 639829055.0,
+    "name": "Aduro Clean Technologies Inc"
+  },
+  "ADUS": {
+    "fetched_at": 1790348855.953557,
+    "market_cap": 2129804051.9433565,
+    "name": "Addus Homecare Corp"
+  },
+  "ADV": {
+    "fetched_at": 1790348855.953557,
+    "market_cap": 435314731.57871205,
+    "name": "Advantage Solutions Inc"
+  },
+  "ADVB": {
+    "fetched_at": 1790348855.953557,
+    "market_cap": 10424960.66772152,
+    "name": "Advanced Biomed Inc"
+  },
+  "ADVNF": {
+    "fetched_at": 1790348855.953557,
+    "market_cap": 41995504.0,
+    "name": "Advance ZincTek Ltd"
+  },
+  "ADVOF": {
+    "fetched_at": 1790348855.953557,
+    "market_cap": 1138121002.0,
+    "name": "Adtran Networks SE"
+  },
+  "ADVT": {
+    "fetched_at": 1790348855.953557,
+    "market_cap": 878.4658999999999,
+    "name": "Ramoil Management Ltd"
+  },
+  "ADVVF": {
+    "fetched_at": 1790348855.953557,
+    "market_cap": 10917754.0,
+    "name": "Advicenne SA"
+  },
+  "ADWYF": {
+    "fetched_at": 1790348855.953557,
+    "market_cap": 15903191769.0,
+    "name": "Adways Inc"
+  },
+  "ADXDF": {
+    "fetched_at": 1790348855.953557,
+    "market_cap": 66366718.00000001,
+    "name": "Adex Mining Inc"
+  },
+  "ADXRF": {
+    "fetched_at": 1790348855.953557,
+    "market_cap": 20593404.0,
+    "name": "Adx Energy Ltd"
+  },
+  "ADYIF": {
+    "fetched_at": 1790348855.953557,
+    "market_cap": 8720000.0,
+    "name": "Adya Inc"
+  },
+  "ADYRF": {
+    "fetched_at": 1790348855.953557,
+    "market_cap": 112452151.0,
+    "name": "Adyton Resources Corp"
+  },
+  "ADYX": {
+    "fetched_at": 1790348855.953557,
+    "market_cap": 580.8000000000001,
+    "name": "Adynxx Inc"
+  },
+  "ADYYF": {
+    "fetched_at": 1790348855.953557,
+    "market_cap": 27266867178.0,
+    "name": "Adyen NV"
+  },
+  "AEAE": {
+    "fetched_at": 1790348855.953557,
+    "market_cap": 75220000.0,
+    "name": "AltEnergy Acquisition Corp"
+  },
+  "AEAQ": {
+    "fetched_at": 1790348855.953557,
+    "market_cap": 315621612.32111,
+    "name": "Activate Energy Acquisition Corp"
+  },
+  "AEBI": {
+    "fetched_at": 1790348855.953557,
+    "market_cap": 870708477.574138,
+    "name": "Aebi Schmidt Holding AG"
+  },
+  "AEBMF": {
+    "fetched_at": 1790348855.953557,
+    "market_cap": 111434210654.0,
+    "name": "Anadolu Efes Biracilik ve Malt Sanayii AS"
+  },
+  "AEC": {
+    "fetched_at": 1790348855.953557,
+    "market_cap": 103340872.0,
+    "name": "Anfield Energy Inc"
+  },
+  "AECFF": {
+    "fetched_at": 1790348855.953557,
+    "market_cap": 52.931999999999995,
+    "name": "Action Energy Inc"
+  },
+  "AECX": {
+    "fetched_at": 1790348855.953557,
+    "market_cap": 3580.0,
+    "name": "Acadia Energy Corp"
+  },
+  "AEDGF": {
+    "fetched_at": 1790348855.953557,
+    "market_cap": 37113729990.0,
+    "name": "AeroEdge Co Ltd"
+  },
+  "AEE": {
+    "fetched_at": 1790348855.953557,
+    "market_cap": 27462850973.876083,
+    "name": "Ameren Corp"
+  },
+  "AEFSF": {
+    "fetched_at": 1790348855.953557,
+    "market_cap": 12893673.0,
+    "name": "Aeffe SpA"
+  },
+  "AEGOF": {
+    "fetched_at": 1790348855.953557,
+    "market_cap": 11638613653.0,
+    "name": "Aegon Ltd"
+  },
+  "AEGXF": {
+    "fetched_at": 1790348855.953557,
+    "market_cap": 3661999053.0,
+    "name": "Aecon Group Inc"
+  },
+  "AEGY": {
+    "fetched_at": 1790348855.953557,
+    "market_cap": 4112.0,
+    "name": "Alternative Energy Partners Inc"
+  },
+  "AEHL": {
+    "fetched_at": 1790348855.953557,
+    "market_cap": 169925117.82127663,
+    "name": "Antelope Enterprise Holdings Ltd"
+  },
+  "AEHR": {
+    "fetched_at": 1790348855.953557,
+    "market_cap": 3181692871.799137,
+    "name": "Aehr Test Systems"
+  },
+  "AEI": {
+    "fetched_at": 1790348855.953557,
+    "market_cap": 29308005.871251285,
+    "name": "Alset Inc"
+  },
+  "AEIS": {
+    "fetched_at": 1790348855.953557,
+    "market_cap": 11135224026.029022,
+    "name": "Advanced Energy Industries Inc"
+  },
+  "AEM": {
+    "fetched_at": 1790348855.953557,
+    "market_cap": 140360935898.0,
+    "name": "Agnico Eagle Mines Ltd"
+  },
+  "AEMAF": {
+    "fetched_at": 1790348855.953557,
+    "market_cap": 206326129.0,
+    "name": "Advanced Energy Minerals Ltd"
+  },
+  "AEMD": {
+    "fetched_at": 1790348855.953557,
+    "market_cap": 10859723.199706316,
+    "name": "Aethlon Medical Inc"
+  },
+  "AEMFF": {
+    "fetched_at": 1790348855.953557,
+    "market_cap": 3180468927.0,
+    "name": "AEM Holdings Ltd"
+  },
+  "AEMLF": {
+    "fetched_at": 1790348855.953557,
+    "market_cap": 10206633.0,
+    "name": "Aurora Energy Metals Ltd"
+  },
+  "AEMMF": {
+    "fetched_at": 1790348855.953557,
+    "market_cap": 7190017842.0,
+    "name": "A2A SpA"
+  },
+  "AENG": {
+    "fetched_at": 1790348855.953557,
+    "market_cap": 33.855,
+    "name": "Advanced Engine Technologies Inc"
+  },
+  "AENRF": {
+    "fetched_at": 1790348855.953557,
+    "market_cap": 6603013.0,
+    "name": "Aeonian Resources Corp"
+  },
+  "AENT": {
+    "fetched_at": 1790348855.953557,
+    "market_cap": 248780593.0281124,
+    "name": "Alliance Entertainment Holding Corp"
+  },
+  "AEO": {
+    "fetched_at": 1790348855.953557,
+    "market_cap": 2694579219.527638,
+    "name": "American Eagle Outfitters Inc"
+  },
+  "AEOJF": {
+    "fetched_at": 1790348855.953557,
+    "market_cap": 350946157837.0,
+    "name": "Aeon Financial Service Co Ltd"
+  },
+  "AEON": {
+    "fetched_at": 1790348855.953557,
+    "market_cap": 12979502.666919285,
+    "name": "AEON Biopharma Inc"
+  },
+  "AEOXF": {
+    "fetched_at": 1790348855.953557,
+    "market_cap": 10824265948.0,
+    "name": "Aeroports de Paris SA"
+  },
+  "AEP": {
+    "fetched_at": 1790348855.953557,
+    "market_cap": 64004803131.25869,
+    "name": "American Electric Power Company Inc"
+  },
+  "AEPLF": {
+    "fetched_at": 1790348855.953557,
+    "market_cap": 794249103.0,
+    "name": "AEP Plantations PLC"
+  },
+  "AEPT": {
+    "fetched_at": 1790348855.953557,
+    "market_cap": 468.75,
+    "name": "American Environmental Partners Inc"
+  },
+  "AER": {
+    "fetched_at": 1790348855.953557,
+    "market_cap": 22457219777.653496,
+    "name": "AerCap Holdings NV"
+  },
+  "AERA": {
+    "fetched_at": 1790348855.953557,
+    "market_cap": 718647.9999999998,
+    "name": "AI Era Corp"
+  },
+  "AERG": {
+    "fetched_at": 1790348855.953557,
+    "market_cap": 186026310.54999998,
+    "name": "Applied Energetics Inc"
+  },
+  "AERN": {
+    "fetched_at": 1790348855.953557,
+    "market_cap": 1372.9332,
+    "name": "AER Energy Resources Inc"
+  },
+  "AERS": {
+    "fetched_at": 1790348855.953557,
+    "market_cap": 1438728.8615384616,
+    "name": "Aerius International Inc"
+  },
+  "AERT": {
+    "fetched_at": 1790348855.953557,
+    "market_cap": 37994454.62678063,
+    "name": "Aeries Technology Inc"
+  },
+  "AES": {
+    "fetched_at": 1790348855.953557,
+    "market_cap": 10594563489.753544,
+    "name": "AES Corp"
+  },
   "AESI": {
-    "fetched_at": 1790124600.3502493,
-    "market_cap": 1500041525.2449136,
+    "fetched_at": 1790348855.953557,
+    "market_cap": 1373788037.6111112,
     "name": "Atlas Energy Solutions Inc"
+  },
+  "AESP": {
+    "fetched_at": 1790348855.953557,
+    "market_cap": 213246734.8,
+    "name": "Aeon Acquisition I Corp"
+  },
+  "AETHF": {
+    "fetched_at": 1790348855.953557,
+    "market_cap": 5930000.0,
+    "name": "Aether Global Innovations Corp"
+  },
+  "AEUSF": {
+    "fetched_at": 1790348855.953557,
+    "market_cap": 5270962.0,
+    "name": "Active Energy Group PLC"
+  },
+  "AEUXF": {
+    "fetched_at": 1790348855.953557,
+    "market_cap": 177042490.0,
+    "name": "Atomic Eagle Ltd"
+  },
+  "AEVA": {
+    "fetched_at": 1790348855.953557,
+    "market_cap": 1088803945.3377135,
+    "name": "Aeva Technologies Inc"
+  },
+  "AEXA": {
+    "fetched_at": 1790348855.953557,
+    "market_cap": 553465371.8758928,
+    "name": "American Exceptionalism Acquisition Corp A"
+  },
+  "AEXAF": {
+    "fetched_at": 1790348855.953557,
+    "market_cap": 471327687.0,
+    "name": "Atos SE"
+  },
+  "AEXFF": {
+    "fetched_at": 1790348855.953557,
+    "market_cap": 91942523.0,
+    "name": "Aminex PLC"
+  },
+  "AEXNF": {
+    "fetched_at": 1790348855.953557,
+    "market_cap": 3794016462.0,
+    "name": "Aeon Credit Service Asia Co Ltd"
+  },
+  "AEYE": {
+    "fetched_at": 1790348855.953557,
+    "market_cap": 90501647.39495799,
+    "name": "AudioEye Inc"
+  },
+  "AEYGQ": {
+    "fetched_at": 1790348855.953557,
+    "market_cap": 149.471,
+    "name": "ADDvantage Technologies Group Inc"
+  },
+  "AFBL": {
+    "fetched_at": 1790348855.953557,
+    "market_cap": 0.0,
+    "name": "AFB Ltd"
+  },
+  "AFBOF": {
+    "fetched_at": 1790348855.953557,
+    "market_cap": 29316032979.0,
+    "name": "African Rainbow Minerals Ltd"
+  },
+  "AFCG": {
+    "fetched_at": 1790348855.953557,
+    "market_cap": 78191269.88571429,
+    "name": "Advanced Flower Capital Inc"
+  },
+  "AFCJF": {
+    "fetched_at": 1790348855.953557,
+    "market_cap": 155833331.0,
+    "name": "AFC Ajax NV"
+  },
+  "AFCL": {
+    "fetched_at": 1790348855.953557,
+    "market_cap": 15685.000000000002,
+    "name": "Amcor Financial Corp"
+  },
+  "AFFL": {
+    "fetched_at": 1790348855.953557,
+    "market_cap": 2907611.0,
+    "name": "Affiliated Resources Corp"
+  },
+  "AFFN": {
+    "fetched_at": 1790348855.953557,
+    "market_cap": 0.0,
+    "name": "Satelinx International Inc"
+  },
+  "AFFU": {
+    "fetched_at": 1790348855.953557,
+    "market_cap": 21660338.0,
+    "name": "Affluence Corp"
+  },
+  "AFFY": {
+    "fetched_at": 1790348855.953557,
+    "market_cap": 59984.0,
+    "name": "Affymax Inc"
+  },
+  "AFG": {
+    "fetched_at": 1790348855.953557,
+    "market_cap": 11477989916.257519,
+    "name": "American Financial Group Inc"
+  },
+  "AFGVF": {
+    "fetched_at": 1790348855.953557,
+    "market_cap": 57902879.0,
+    "name": "AGFA Gevaert NV"
+  },
+  "AFGYF": {
+    "fetched_at": 1790348855.953557,
+    "market_cap": 117590000.0,
+    "name": "AFC Energy PLC"
+  },
+  "AFGZF": {
+    "fetched_at": 1790348855.953557,
+    "market_cap": 98973898.0,
+    "name": "Amadeus Fire AG"
+  },
+  "AFIB": {
+    "fetched_at": 1790348855.953557,
+    "market_cap": 2991.23,
+    "name": "Acutus Medical Inc"
+  },
+  "AFIIQ": {
+    "fetched_at": 1790348855.953557,
+    "market_cap": 2177.96,
+    "name": "Armstrong Flooring Inc"
+  },
+  "AFJK": {
+    "fetched_at": 1790348855.953557,
+    "market_cap": 38581440.31242175,
+    "name": "Aimei Health Technology Co Ltd"
+  },
+  "AFL": {
+    "fetched_at": 1790348855.953557,
+    "market_cap": 57158153892.420715,
+    "name": "Aflac Inc"
+  },
+  "AFMDQ": {
+    "fetched_at": 1790348855.953557,
+    "market_cap": 750000.0,
+    "name": "Affimed NV"
+  },
+  "AFMJF": {
+    "fetched_at": 1790348855.953557,
+    "market_cap": 1790006587.0,
+    "name": "Alphamin Resources Corp"
+  },
+  "AFML": {
+    "fetched_at": 1790348855.953557,
+    "market_cap": 76.56,
+    "name": "Aerofoam Metals Inc"
+  },
+  "AFNL": {
+    "fetched_at": 1790348855.953557,
+    "market_cap": 56498965.59512631,
+    "name": "Amfin Financial Corp"
+  },
+  "AFOM": {
+    "fetched_at": 1790348855.953557,
+    "market_cap": 9253.000000000002,
+    "name": "All for One Media Corp"
+  },
+  "AFPW": {
+    "fetched_at": 1790348855.953557,
+    "market_cap": 6112.000000000001,
+    "name": "Alumifuel Power Corp"
+  },
+  "AFRAF": {
+    "fetched_at": 1790348855.953557,
+    "market_cap": 3058229154.0,
+    "name": "Air France KLM SA"
+  },
+  "AFRI": {
+    "fetched_at": 1790348855.953557,
+    "market_cap": 299298331.8206522,
+    "name": "Forafric Global PLC"
+  },
+  "AFRM": {
+    "fetched_at": 1790348855.953557,
+    "market_cap": 24149237707.856956,
+    "name": "Affirm Holdings Inc"
+  },
+  "AFRMF": {
+    "fetched_at": 1790348855.953557,
+    "market_cap": 80000.0,
+    "name": "Alphaform AG"
+  },
+  "AFRRF": {
+    "fetched_at": 1790348855.953557,
+    "market_cap": 582152.0,
+    "name": "AFR Nuventure Resources Inc"
+  },
+  "AFTLF": {
+    "fetched_at": 1790348855.953557,
+    "market_cap": 4676135911.0,
+    "name": "Afrimat Ltd"
+  },
+  "AFTM": {
+    "fetched_at": 1790348855.953557,
+    "market_cap": 704.52,
+    "name": "Aftermaster Inc"
+  },
+  "AFTWS": {
+    "fetched_at": 1790348855.953557,
+    "market_cap": 0.0,
+    "name": "Ark7 Properties Plus LLC"
+  },
+  "AFXXF": {
+    "fetched_at": 1790348855.953557,
+    "market_cap": 11649035013.0,
+    "name": "Afry AB"
   },
   "AFYA": {
     "fetched_at": 1790262958.7654493,
     "market_cap": 1241926566.7146034,
     "name": "Afya Ltd"
   },
+  "AFYG": {
+    "fetched_at": 1790348855.953557,
+    "market_cap": 20492.4,
+    "name": "Affinity Gold Corp"
+  },
+  "AG": {
+    "fetched_at": 1790348855.953557,
+    "market_cap": 13244394631.0,
+    "name": "First Majestic Silver Corp"
+  },
+  "AGAGF": {
+    "fetched_at": 1790348855.953557,
+    "market_cap": 135006936.0,
+    "name": "Argenta Silver Corp"
+  },
+  "AGBK": {
+    "fetched_at": 1790348855.953557,
+    "market_cap": 11575790000.0,
+    "name": "Primo Brands Corp"
+  },
+  "AGCC": {
+    "fetched_at": 1790348855.953557,
+    "market_cap": 853282404.9215341,
+    "name": "Agencia Comercial Spirits Ltd"
+  },
   "AGCCF": {
-    "fetched_at": 1790172335.6250398,
-    "market_cap": 66968523.00000001,
+    "fetched_at": 1790348855.953557,
+    "market_cap": 71751991.0,
     "name": "Gensource Potash Corp"
+  },
+  "AGCO": {
+    "fetched_at": 1790348855.953557,
+    "market_cap": 8138386553.09492,
+    "name": "AGCO Corp"
+  },
+  "AGCZ": {
+    "fetched_at": 1790348855.953557,
+    "market_cap": 2872.0284,
+    "name": "Andes Gold Corp"
+  },
+  "AGDY": {
+    "fetched_at": 1790348855.953557,
+    "market_cap": 4848973.0,
+    "name": "Agri-Dynamics Inc"
+  },
+  "AGEN": {
+    "fetched_at": 1790348855.953557,
+    "market_cap": 383876258.27380955,
+    "name": "Agenus Inc"
+  },
+  "AGESF": {
+    "fetched_at": 1790348855.953557,
+    "market_cap": 15530178650.0,
+    "name": "Ageas SA"
+  },
+  "AGFAF": {
+    "fetched_at": 1790348855.953557,
+    "market_cap": 240553.0,
+    "name": "Digicann Ventures Inc"
   },
   "AGFMF": {
     "fetched_at": 1790262959.8675845,
     "market_cap": 1193392667.0,
     "name": "AGF Management Ltd"
   },
+  "AGGG": {
+    "fetched_at": 1790348855.953557,
+    "market_cap": 4.29,
+    "name": "Antilia Group Corp"
+  },
+  "AGGHF": {
+    "fetched_at": 1790348855.953557,
+    "market_cap": 10000.0,
+    "name": "Agrios Global Holdings Ltd"
+  },
   "AGGZF": {
-    "fetched_at": 1790255395.0338435,
-    "market_cap": 255453016.0,
+    "fetched_at": 1790348855.953557,
+    "market_cap": 248844855.0,
     "name": "Ag Growth International Inc"
   },
+  "AGI": {
+    "fetched_at": 1790348855.953557,
+    "market_cap": 20331618576.0,
+    "name": "Alamos Gold Inc"
+  },
+  "AGIG": {
+    "fetched_at": 1790348855.953557,
+    "market_cap": 56512411.0,
+    "name": "Abundia Global Impact Group, Inc"
+  },
+  "AGILQ": {
+    "fetched_at": 1790348855.953557,
+    "market_cap": 52.404399999999995,
+    "name": "AgileThought Inc"
+  },
+  "AGIN": {
+    "fetched_at": 1790348855.953557,
+    "market_cap": 880619.9999999999,
+    "name": "American Graphite Technologies Inc"
+  },
+  "AGIO": {
+    "fetched_at": 1790348855.953557,
+    "market_cap": 1964191819.0903776,
+    "name": "Agios Pharmaceuticals Inc"
+  },
+  "AGL": {
+    "fetched_at": 1790348855.953557,
+    "market_cap": 1273277430.446192,
+    "name": "agilon health inc"
+  },
+  "AGLDF": {
+    "fetched_at": 1790348855.953557,
+    "market_cap": 110237115.0,
+    "name": "Austral Gold Ltd"
+  },
+  "AGLFF": {
+    "fetched_at": 1790348855.953557,
+    "market_cap": 14798342649.0,
+    "name": "Angelalign Technology Inc"
+  },
+  "AGLNF": {
+    "fetched_at": 1790348855.953557,
+    "market_cap": 5523254976.0,
+    "name": "AGL Energy Ltd"
+  },
+  "AGLRF": {
+    "fetched_at": 1790348855.953557,
+    "market_cap": 1890000.0,
+    "name": "Agility Capital Holding Inc"
+  },
+  "AGLY": {
+    "fetched_at": 1790348855.953557,
+    "market_cap": 10270000.0,
+    "name": "Atlantis Glory Inc"
+  },
+  "AGM": {
+    "fetched_at": 1790348855.953557,
+    "market_cap": 2305479310.584749,
+    "name": "Federal Agricultural Mortgage Corp"
+  },
+  "AGMH": {
+    "fetched_at": 1790348855.953557,
+    "market_cap": 3948427.2941778633,
+    "name": "AGM Group Holdings Inc"
+  },
+  "AGMJF": {
+    "fetched_at": 1790348855.953557,
+    "market_cap": 918861055.0,
+    "name": "Algoma Central Corp"
+  },
+  "AGMRF": {
+    "fetched_at": 1790348855.953557,
+    "market_cap": 263748967.0,
+    "name": "Silver Mountain Resources Inc"
+  },
+  "AGNMF": {
+    "fetched_at": 1790348855.953557,
+    "market_cap": 54169056.0,
+    "name": "Agronomics Ltd"
+  },
+  "AGNPF": {
+    "fetched_at": 1790348855.953557,
+    "market_cap": 3260000.0,
+    "name": "Grey Matters Health Inc"
+  },
+  "AGNT": {
+    "fetched_at": 1790348855.953557,
+    "market_cap": 589926304.6666665,
+    "name": "eXp World Holdings Inc"
+  },
+  "AGNY": {
+    "fetched_at": 1790348855.953557,
+    "market_cap": 980000.0,
+    "name": "Agavenny Corp"
+  },
+  "AGO": {
+    "fetched_at": 1790348855.953557,
+    "market_cap": 3008177603.21206,
+    "name": "Assured Guaranty Ltd"
+  },
+  "AGORF": {
+    "fetched_at": 1790348855.953557,
+    "market_cap": 7110443115.0,
+    "name": "Agora Hospitality Group Co Ltd"
+  },
+  "AGPPF": {
+    "fetched_at": 1790348855.953557,
+    "market_cap": 342710690822.0,
+    "name": "Valterra Platinum Ltd"
+  },
+  "AGPU": {
+    "fetched_at": 1790348855.953557,
+    "market_cap": 131559251.10047846,
+    "name": "Axe Compute Inc"
+  },
+  "AGPYF": {
+    "fetched_at": 1790348855.953557,
+    "market_cap": 686262479.0,
+    "name": "Agile Group Holdings Ltd"
+  },
+  "AGRDF": {
+    "fetched_at": 1790348855.953557,
+    "market_cap": 21190296.0,
+    "name": "Minnova Corp"
+  },
+  "AGREF": {
+    "fetched_at": 1790348855.953557,
+    "market_cap": 45924518.0,
+    "name": "Orpheus Uranium Ltd"
+  },
+  "AGRLF": {
+    "fetched_at": 1790348855.953557,
+    "market_cap": 28800249.0,
+    "name": "Aguia Resources Ltd"
+  },
+  "AGRO": {
+    "fetched_at": 1790348855.953557,
+    "market_cap": 1533993754.900461,
+    "name": "Adecoagro SA"
+  },
+  "AGRPF": {
+    "fetched_at": 1790348855.953557,
+    "market_cap": 182624152106.0,
+    "name": "Absa Group Ltd"
+  },
+  "AGRS": {
+    "fetched_at": 1790348855.953557,
+    "market_cap": 50.0,
+    "name": "Agristar Inc"
+  },
+  "AGRUF": {
+    "fetched_at": 1790348855.953557,
+    "market_cap": 22581497478.0,
+    "name": "AF Gruppen ASA"
+  },
+  "AGRZ": {
+    "fetched_at": 1790348855.953557,
+    "market_cap": 4334696.907216495,
+    "name": "Agroz Inc"
+  },
+  "AGSS": {
+    "fetched_at": 1790348855.953557,
+    "market_cap": 1340227.0,
+    "name": "AmeriGuard Security Services Inc"
+  },
+  "AGSVF": {
+    "fetched_at": 1790348855.953557,
+    "market_cap": 5159854.0,
+    "name": "Argentum Silver Corp"
+  },
+  "AGTEF": {
+    "fetched_at": 1790348855.953557,
+    "market_cap": 13913967685.0,
+    "name": "AGTech Holdings Ltd"
+  },
+  "AGTFF": {
+    "fetched_at": 1790348855.953557,
+    "market_cap": 1347227696.0,
+    "name": "AGT Food and Ingredients Inc"
+  },
+  "AGTK": {
+    "fetched_at": 1790348855.953557,
+    "market_cap": 54.358599999999996,
+    "name": "Agritek Holdings Inc"
+  },
+  "AGTT": {
+    "fetched_at": 1790348855.953557,
+    "market_cap": 5079518.0,
+    "name": "Angstrom Technologies Inc"
+  },
+  "AGTX": {
+    "fetched_at": 1790348855.953557,
+    "market_cap": 801339.0,
+    "name": "Agentix Corp"
+  },
+  "AGX": {
+    "fetched_at": 1790348855.953557,
+    "market_cap": 5065614461.473238,
+    "name": "Argan Inc"
+  },
+  "AGXKF": {
+    "fetched_at": 1790348855.953557,
+    "market_cap": 481412481.0,
+    "name": "Anglo Asian Mining PLC"
+  },
+  "AGXPF": {
+    "fetched_at": 1790348855.953557,
+    "market_cap": 272494920.0,
+    "name": "Silver X Mining Corp"
+  },
+  "AGXXF": {
+    "fetched_at": 1790348855.953557,
+    "market_cap": 2095594748.9999998,
+    "name": "Agilyx ASA"
+  },
+  "AGYP": {
+    "fetched_at": 1790348855.953557,
+    "market_cap": 407168.53,
+    "name": "Allied Energy Corp"
+  },
+  "AGYS": {
+    "fetched_at": 1790348855.953557,
+    "market_cap": 2811552922.3830795,
+    "name": "Agilysys Inc"
+  },
+  "AGYTF": {
+    "fetched_at": 1790348855.953557,
+    "market_cap": 300795138.0,
+    "name": "Allergy Therapeutics PLC"
+  },
+  "AGZNF": {
+    "fetched_at": 1790348855.953557,
+    "market_cap": 1009871492.0,
+    "name": "Aegean Airlines SA"
+  },
+  "AHAG": {
+    "fetched_at": 1790348855.953557,
+    "market_cap": 711.0,
+    "name": "Alpha Technologies Group Inc"
+  },
+  "AHCD": {
+    "fetched_at": 1790348855.953557,
+    "market_cap": 0.0,
+    "name": "ArchivalCD Inc"
+  },
+  "AHCHF": {
+    "fetched_at": 1790348855.953557,
+    "market_cap": 85717820991.10876,
+    "name": "Anhui Conch Cement Co Ltd"
+  },
+  "AHCO": {
+    "fetched_at": 1790348855.953557,
+    "market_cap": 759437211.5894737,
+    "name": "Adapthealth Corp"
+  },
+  "AHELF": {
+    "fetched_at": 1790348855.953557,
+    "market_cap": 978040.0,
+    "name": "Auscan Resources Inc"
+  },
+  "AHEXF": {
+    "fetched_at": 1790348855.953557,
+    "market_cap": 4281052555.0,
+    "name": "Adecco Group AG"
+  },
+  "AHFCF": {
+    "fetched_at": 1790348855.953557,
+    "market_cap": 21710000.0,
+    "name": "Flow Capital Corp"
+  },
+  "AHFD": {
+    "fetched_at": 1790348855.953557,
+    "market_cap": 7972.999999999999,
+    "name": "Active Health Foods Inc"
+  },
+  "AHFI": {
+    "fetched_at": 1790348855.953557,
+    "market_cap": 899094.0,
+    "name": "Absolute Health and Fitness Inc"
+  },
+  "AHGIF": {
+    "fetched_at": 1790348855.953557,
+    "market_cap": 10000.0,
+    "name": "Alternate Health Corp"
+  },
+  "AHHLF": {
+    "fetched_at": 1790348855.953557,
+    "market_cap": 308591205940.0,
+    "name": "ARE Holdings Inc"
+  },
+  "AHICF": {
+    "fetched_at": 1790348855.953557,
+    "market_cap": 868937516022.0,
+    "name": "Asahi Intecc Co Ltd"
+  },
+  "AHII": {
+    "fetched_at": 1790348855.953557,
+    "market_cap": 100.0,
+    "name": "Fyolo Technology Corp"
+  },
+  "AHIX": {
+    "fetched_at": 1790348855.953557,
+    "market_cap": 5535916.165901639,
+    "name": "ALUF Holdings Inc"
+  },
+  "AHKMF": {
+    "fetched_at": 1790348855.953557,
+    "market_cap": 23871618.0,
+    "name": "Ark Mines Ltd"
+  },
+  "AHKSF": {
+    "fetched_at": 1790348855.953557,
+    "market_cap": 2174842578125.0,
+    "name": "Asahi Kasei Corp"
+  },
+  "AHLAS": {
+    "fetched_at": 1790348855.953557,
+    "market_cap": 0.0,
+    "name": "RSE Archive LLC"
+  },
+  "AHLBS": {
+    "fetched_at": 1790348855.953557,
+    "market_cap": 0.0,
+    "name": "RSE Archive LLC"
+  },
+  "AHLCS": {
+    "fetched_at": 1790348855.953557,
+    "market_cap": 0.0,
+    "name": "RSE Archive LLC"
+  },
+  "AHLES": {
+    "fetched_at": 1790348855.953557,
+    "market_cap": 0.0,
+    "name": "RSE Archive LLC"
+  },
+  "AHLFS": {
+    "fetched_at": 1790348855.953557,
+    "market_cap": 0.0,
+    "name": "RSE Archive LLC"
+  },
+  "AHLGS": {
+    "fetched_at": 1790348855.953557,
+    "market_cap": 0.0,
+    "name": "RSE Archive LLC"
+  },
+  "AHLHS": {
+    "fetched_at": 1790348855.953557,
+    "market_cap": 0.0,
+    "name": "RSE Archive LLC"
+  },
+  "AHLJS": {
+    "fetched_at": 1790348855.953557,
+    "market_cap": 0.0,
+    "name": "RSE Archive LLC"
+  },
+  "AHLKS": {
+    "fetched_at": 1790348855.953557,
+    "market_cap": 0.0,
+    "name": "RSE Archive LLC"
+  },
+  "AHLLS": {
+    "fetched_at": 1790348855.953557,
+    "market_cap": 0.0,
+    "name": "RSE Archive LLC"
+  },
+  "AHLMS": {
+    "fetched_at": 1790348855.953557,
+    "market_cap": 0.0,
+    "name": "RSE Archive LLC"
+  },
+  "AHLNS": {
+    "fetched_at": 1790348855.953557,
+    "market_cap": 0.0,
+    "name": "RSE Archive LLC"
+  },
+  "AHLOS": {
+    "fetched_at": 1790348855.953557,
+    "market_cap": 0.0,
+    "name": "RSE Archive LLC"
+  },
+  "AHLPS": {
+    "fetched_at": 1790348855.953557,
+    "market_cap": 0.0,
+    "name": "RSE Archive LLC"
+  },
+  "AHLQS": {
+    "fetched_at": 1790348855.953557,
+    "market_cap": 0.0,
+    "name": "RSE Archive LLC"
+  },
+  "AHLRS": {
+    "fetched_at": 1790348855.953557,
+    "market_cap": 0.0,
+    "name": "RSE Archive LLC"
+  },
+  "AHLSS": {
+    "fetched_at": 1790348855.953557,
+    "market_cap": 0.0,
+    "name": "RSE Archive LLC"
+  },
+  "AHLTS": {
+    "fetched_at": 1790348855.953557,
+    "market_cap": 0.0,
+    "name": "RSE Archive LLC"
+  },
+  "AHLUS": {
+    "fetched_at": 1790348855.953557,
+    "market_cap": 0.0,
+    "name": "RSE Archive LLC"
+  },
+  "AHMA": {
+    "fetched_at": 1790348855.953557,
+    "market_cap": 40128752.04545455,
+    "name": "Ambitions Enterprise Management Co LLC"
+  },
+  "AHNRF": {
+    "fetched_at": 1790348855.953557,
+    "market_cap": 8060000.000000001,
+    "name": "Athena Gold Corp"
+  },
+  "AHODF": {
+    "fetched_at": 1790348855.953557,
+    "market_cap": 27321865082.0,
+    "name": "Koninklijke Ahold Delhaize NV"
+  },
+  "AHRO": {
+    "fetched_at": 1790348855.953557,
+    "market_cap": 990471.2000000001,
+    "name": "Authentic Holdings Inc"
+  },
+  "AHVAS": {
+    "fetched_at": 1790348855.953557,
+    "market_cap": 0.0,
+    "name": "RSE Archive LLC"
+  },
+  "AHVBS": {
+    "fetched_at": 1790348855.953557,
+    "market_cap": 0.0,
+    "name": "RSE Archive LLC"
+  },
+  "AHVCS": {
+    "fetched_at": 1790348855.953557,
+    "market_cap": 0.0,
+    "name": "RSE Collection LLC"
+  },
+  "AHVDS": {
+    "fetched_at": 1790348855.953557,
+    "market_cap": 0.0,
+    "name": "RSE Archive LLC"
+  },
+  "AHWSF": {
+    "fetched_at": 1790348855.953557,
+    "market_cap": 1303559976.0,
+    "name": "Athens Water Supply and Sewerage Company SA"
+  },
+  "AI": {
+    "fetched_at": 1790348855.953557,
+    "market_cap": 1692331255.3554327,
+    "name": "C3.ai Inc"
+  },
+  "AIABF": {
+    "fetched_at": 1790348855.953557,
+    "market_cap": 1142200511.0,
+    "name": "Capital A Berhad"
+  },
+  "AIAD": {
+    "fetched_at": 1790348855.953557,
+    "market_cap": 1344.0,
+    "name": "Aiadvertising Inc"
+  },
+  "AIAGF": {
+    "fetched_at": 1790348855.953557,
+    "market_cap": 7334717194.0,
+    "name": "Aurubis AG"
+  },
+  "AIAI": {
+    "fetched_at": 1790348855.953557,
+    "market_cap": 260614982.4495413,
+    "name": "AIAI Holdings Corp"
+  },
+  "AIB": {
+    "fetched_at": 1790348855.953557,
+    "market_cap": 107890849.15068491,
+    "name": "Blockchain Digital Infrastructure Inc"
+  },
+  "AIBRF": {
+    "fetched_at": 1790348855.953557,
+    "market_cap": 21401250000.0,
+    "name": "AIB Group PLC"
+  },
+  "AICAF": {
+    "fetched_at": 1790348855.953557,
+    "market_cap": 98680816065.33623,
+    "name": "Air China Ltd"
+  },
+  "AICFF": {
+    "fetched_at": 1790348855.953557,
+    "market_cap": 485502492966.0,
+    "name": "Aichi Financial Group Inc"
+  },
+  "AICHF": {
+    "fetched_at": 1790348855.953557,
+    "market_cap": 206787570953.0,
+    "name": "Aichi Steel Corp"
+  },
+  "AICOF": {
+    "fetched_at": 1790348855.953557,
+    "market_cap": 10060000.0,
+    "name": "Generative AI Solutions Corp"
+  },
+  "AICXF": {
+    "fetched_at": 1790348855.953557,
+    "market_cap": 94321498787.0,
+    "name": "Aichi Corp"
+  },
+  "AIDA": {
+    "fetched_at": 1790348855.953557,
+    "market_cap": 10000.0,
+    "name": "Aida Pharmaceuticals Inc"
+  },
+  "AIDG": {
+    "fetched_at": 1790348855.953557,
+    "market_cap": 0.0,
+    "name": "AIS Holdings Group, Inc."
+  },
+  "AIDX": {
+    "fetched_at": 1790348855.953557,
+    "market_cap": 5403114.941631504,
+    "name": "20/20 Biolabs Inc"
+  },
+  "AIEV": {
+    "fetched_at": 1790348855.953557,
+    "market_cap": 17851952.0,
+    "name": "Thunder Power Holdings Inc"
+  },
+  "AIFA": {
+    "fetched_at": 1790348855.953557,
+    "market_cap": 26965325.439093485,
+    "name": "Allied Gaming & Entertainment Inc"
+  },
+  "AIFC": {
+    "fetched_at": 1790348855.953557,
+    "market_cap": 75651552.15077204,
+    "name": "AI Financial Corp"
+  },
+  "AIFF": {
+    "fetched_at": 1790348855.953557,
+    "market_cap": 18671475.626086958,
+    "name": "Firefly Neuroscience Inc"
+  },
+  "AIFM": {
+    "fetched_at": 1790348855.953557,
+    "market_cap": 2078.991,
+    "name": "Aifarm Ltd"
+  },
+  "AIFU": {
+    "fetched_at": 1790348855.953557,
+    "market_cap": 56198924.58210422,
+    "name": "AIFU Inc"
+  },
+  "AIG": {
+    "fetched_at": 1790348855.953557,
+    "market_cap": 39122864742.52157,
+    "name": "American International Group Inc"
+  },
+  "AIGFF": {
+    "fetched_at": 1790348855.953557,
+    "market_cap": 440607.0,
+    "name": "Genesis AI Corp"
+  },
+  "AIGI": {
+    "fetched_at": 1790348855.953557,
+    "market_cap": 0.0,
+    "name": "Axia International Group Inc"
+  },
+  "AIGRF": {
+    "fetched_at": 1790348855.953557,
+    "market_cap": 225999999.0,
+    "name": "ASA International Group PLC"
+  },
+  "AIHZF": {
+    "fetched_at": 1790348855.953557,
+    "market_cap": 142550283470.0,
+    "name": "Ai Holdings Corp"
+  },
+  "AII": {
+    "fetched_at": 1790348855.953557,
+    "market_cap": 496301508.76051265,
+    "name": "American Integrity Insurance Group Inc"
+  },
+  "AIIA": {
+    "fetched_at": 1790348855.953557,
+    "market_cap": 198301191.0,
+    "name": "AI Infrastructure Acquisition Corp"
+  },
   "AIIO": {
-    "fetched_at": 1790126718.039929,
-    "market_cap": 185695505.9627329,
+    "fetched_at": 1790348855.953557,
+    "market_cap": 172601590.03333333,
     "name": "Robo.ai Inc"
+  },
+  "AIIR": {
+    "fetched_at": 1790348855.953557,
+    "market_cap": 1198087991.1335592,
+    "name": "Air Global PLC"
+  },
+  "AIKCF": {
+    "fetched_at": 1790348855.953557,
+    "market_cap": 277192100372.0,
+    "name": "Aica Kogyo Co Ltd"
+  },
+  "AIKO": {
+    "fetched_at": 1790348855.953557,
+    "market_cap": 15320000.0,
+    "name": "Alternative Investment Corp"
+  },
+  "AILEQ": {
+    "fetched_at": 1790348855.953557,
+    "market_cap": 141.00000000000003,
+    "name": "iLearningEngines Inc"
+  },
+  "AILQF": {
+    "fetched_at": 1790348855.953557,
+    "market_cap": 13142663.0,
+    "name": "AirIQ Inc"
+  },
+  "AILTF": {
+    "fetched_at": 1790348855.953557,
+    "market_cap": 2115488140.0,
+    "name": "Argent Industrial Ltd"
+  },
+  "AIM": {
+    "fetched_at": 1790348855.953557,
+    "market_cap": 7965060.68904762,
+    "name": "AIM ImmunoTech Inc"
+  },
+  "AIMD": {
+    "fetched_at": 1790348855.953557,
+    "market_cap": 10633065.29032258,
+    "name": "Ainos Inc"
+  },
+  "AIMFF": {
+    "fetched_at": 1790348855.953557,
+    "market_cap": 239709756.0,
+    "name": "Aimia Inc"
+  },
+  "AIMH": {
+    "fetched_at": 1790348855.953557,
+    "market_cap": 2388678.626666667,
+    "name": "AimRite Holdings Corp"
+  },
+  "AIMLF": {
+    "fetched_at": 1790348855.953557,
+    "market_cap": 12699388.0,
+    "name": "AI/ML Innovations Inc"
   },
   "AIN": {
     "fetched_at": 1790304542.7365835,
     "market_cap": 1722175990.0213919,
     "name": "Albany International Corp"
   },
+  "AINHF": {
+    "fetched_at": 1790348855.953557,
+    "market_cap": 55704844.0,
+    "name": "Ai-Media Technologies Ltd"
+  },
+  "AINMF": {
+    "fetched_at": 1790348855.953557,
+    "market_cap": 60286650.0,
+    "name": "NetraMark Holdings Inc"
+  },
+  "AINPF": {
+    "fetched_at": 1790348855.953557,
+    "market_cap": 194419482780.0,
+    "name": "AIN Holdings Inc"
+  },
+  "AINSF": {
+    "fetched_at": 1790348855.953557,
+    "market_cap": 370473314.0,
+    "name": "Ainsworth Game Technology Ltd"
+  },
+  "AIOS": {
+    "fetched_at": 1790348855.953557,
+    "market_cap": 40373010.907196976,
+    "name": "AIOS Tech Inc"
+  },
+  "AIOSF": {
+    "fetched_at": 1790348855.953557,
+    "market_cap": 1186690274.0,
+    "name": "Atresmedia Corporacion de Medios de Comunicacion SA"
+  },
+  "AIOT": {
+    "fetched_at": 1790348855.953557,
+    "market_cap": 379859371.16551733,
+    "name": "PowerFleet Inc"
+  },
   "AIP": {
-    "fetched_at": 1790130887.3767617,
-    "market_cap": 1217989114.9246688,
+    "fetched_at": 1790348855.953557,
+    "market_cap": 1188989408.0,
     "name": "Arteris Inc"
   },
+  "AIPG": {
+    "fetched_at": 1790348855.953557,
+    "market_cap": 75383371.99999999,
+    "name": "AI Technology Group Inc."
+  },
+  "AIPXF": {
+    "fetched_at": 1790348855.953557,
+    "market_cap": 47645795734.0,
+    "name": "Airport Facilities Co Ltd"
+  },
+  "AIQUF": {
+    "fetched_at": 1790348855.953557,
+    "market_cap": 107118563292.0,
+    "name": "L'Air Liquide Societe Anonyme pour l'Etude et l'Exploitation des Procedes Georges Claude SA"
+  },
+  "AIR": {
+    "fetched_at": 1790348855.953557,
+    "market_cap": 4853605551.182321,
+    "name": "AAR Corp"
+  },
+  "AIRDF": {
+    "fetched_at": 1790348855.953557,
+    "market_cap": 57540000.0,
+    "name": "Rocket Doctor AI Inc"
+  },
+  "AIRE": {
+    "fetched_at": 1790348855.953557,
+    "market_cap": 8169008.521739134,
+    "name": "reAlpha Tech Corp"
+  },
+  "AIRG": {
+    "fetched_at": 1790348855.953557,
+    "market_cap": 68776225.33396946,
+    "name": "Airgain Inc"
+  },
+  "AIRI": {
+    "fetched_at": 1790348855.953557,
+    "market_cap": 12466192.486692015,
+    "name": "Air Industries Group"
+  },
+  "AIRJ": {
+    "fetched_at": 1790348855.953557,
+    "market_cap": 304587941.0869565,
+    "name": "Airjoule Technologies Corp"
+  },
   "AIRO": {
-    "fetched_at": 1790167769.0296884,
-    "market_cap": 228464839.01949862,
+    "fetched_at": 1790348855.953557,
+    "market_cap": 227518161.8519553,
     "name": "AIRO Group Holdings Inc"
   },
+  "AIRS": {
+    "fetched_at": 1790348855.953557,
+    "market_cap": 146353276.6759259,
+    "name": "AirSculpt Technologies Inc"
+  },
+  "AIRT": {
+    "fetched_at": 1790348855.953557,
+    "market_cap": 76858899.39686863,
+    "name": "Air T Inc"
+  },
+  "AISNF": {
+    "fetched_at": 1790348855.953557,
+    "market_cap": 53990110000.0,
+    "name": "Asian Terminals Inc"
+  },
+  "AISP": {
+    "fetched_at": 1790348855.953557,
+    "market_cap": 65090777.75257731,
+    "name": "Airship AI Holdings Inc"
+  },
+  "AISSF": {
+    "fetched_at": 1790348855.953557,
+    "market_cap": 6180326.0,
+    "name": "A.I.S. Resources Limited"
+  },
+  "AISXF": {
+    "fetched_at": 1790348855.953557,
+    "market_cap": 3710000.0,
+    "name": "Aisix Solutions Inc"
+  },
+  "AIT": {
+    "fetched_at": 1790348855.953557,
+    "market_cap": 12196387646.000717,
+    "name": "Applied Industrial Technologies Inc"
+  },
+  "AITLF": {
+    "fetched_at": 1790348855.953557,
+    "market_cap": 138003097.0,
+    "name": "Airtificial Intelligence Structures SA"
+  },
+  "AITTF": {
+    "fetched_at": 1790348855.953557,
+    "market_cap": 6060903.0,
+    "name": "Trenchant Technologies Capital Corp"
+  },
+  "AITUF": {
+    "fetched_at": 1790348855.953557,
+    "market_cap": 427617128677.0,
+    "name": "Anritsu Corp"
+  },
+  "AITVF": {
+    "fetched_at": 1790348855.953557,
+    "market_cap": 854102.0,
+    "name": "Asian Television Network International Ltd"
+  },
+  "AITX": {
+    "fetched_at": 1790348855.953557,
+    "market_cap": 1592238.5454545454,
+    "name": "Artificial Intelligence Technology Solutions Inc"
+  },
+  "AIUG": {
+    "fetched_at": 1790348855.953557,
+    "market_cap": 60000.0,
+    "name": "AI Unlimited Group Inc"
+  },
+  "AIVAF": {
+    "fetched_at": 1790348855.953557,
+    "market_cap": 20979200886.0,
+    "name": "Aviva PLC"
+  },
+  "AIVN": {
+    "fetched_at": 1790348855.953557,
+    "market_cap": 413.983,
+    "name": "American International Ventures Inc"
+  },
+  "AIXAF": {
+    "fetched_at": 1790348855.953557,
+    "market_cap": 118110000.0,
+    "name": "Aixia Group AB"
+  },
+  "AIXC": {
+    "fetched_at": 1790348855.953557,
+    "market_cap": 29974615.759036142,
+    "name": "Aixcrypto Holdings Inc"
+  },
+  "AIXN": {
+    "fetched_at": 1790348855.953557,
+    "market_cap": 6500000.0,
+    "name": "AiXin Life International Inc"
+  },
+  "AIXTF": {
+    "fetched_at": 1790348855.953557,
+    "market_cap": 288649994.0,
+    "name": "AI X Tech Inc"
+  },
+  "AIXXF": {
+    "fetched_at": 1790348855.953557,
+    "market_cap": 4393649311.0,
+    "name": "Aixtron SE"
+  },
+  "AIZ": {
+    "fetched_at": 1790348855.953557,
+    "market_cap": 12915921109.716972,
+    "name": "Assurant Inc"
+  },
+  "AJG": {
+    "fetched_at": 1790348855.953557,
+    "market_cap": 58213416072.35326,
+    "name": "Arthur J. Gallagher & Co."
+  },
+  "AJINF": {
+    "fetched_at": 1790348855.953557,
+    "market_cap": 4589465449707.0,
+    "name": "Ajinomoto Co Inc"
+  },
+  "AJLGF": {
+    "fetched_at": 1790348855.953557,
+    "market_cap": 8254378.000000001,
+    "name": "AJ Lucas Group Ltd"
+  },
+  "AJMPF": {
+    "fetched_at": 1790348855.953557,
+    "market_cap": 1438340202.0,
+    "name": "Ashmore Group PLC"
+  },
+  "AJOY": {
+    "fetched_at": 1790348855.953557,
+    "market_cap": 103701.40000000001,
+    "name": "Ayujoy Herbals Ltd"
+  },
+  "AJYG": {
+    "fetched_at": 1790348855.953557,
+    "market_cap": 6473794.0,
+    "name": "AJ1G Inc"
+  },
+  "AKA": {
+    "fetched_at": 1790348855.953557,
+    "market_cap": 120132271.34710741,
+    "name": "AKA Brands Holding Corp"
+  },
+  "AKAAF": {
+    "fetched_at": 1790348855.953557,
+    "market_cap": 109053778961.0,
+    "name": "Aker ASA"
+  },
+  "AKAFF": {
+    "fetched_at": 1790348855.953557,
+    "market_cap": 46023427105.0,
+    "name": "Akatsuki Inc"
+  },
+  "AKAM": {
+    "fetched_at": 1790348855.953557,
+    "market_cap": 15867751653.62428,
+    "name": "Akamai Technologies Inc"
+  },
+  "AKAN": {
+    "fetched_at": 1790348855.953557,
+    "market_cap": 2459100.099678457,
+    "name": "Akanda Corp"
+  },
+  "AKASF": {
+    "fetched_at": 1790348855.953557,
+    "market_cap": 5176289778.0,
+    "name": "Akva Group ASA"
+  },
+  "AKBA": {
+    "fetched_at": 1790348855.953557,
+    "market_cap": 254660660.7484452,
+    "name": "Akebia Therapeutics Inc"
+  },
+  "AKBIF": {
+    "fetched_at": 1790348855.953557,
+    "market_cap": 29312122192.0,
+    "name": "Akebono Brake Industry Co Ltd"
+  },
+  "AKBKF": {
+    "fetched_at": 1790348855.953557,
+    "market_cap": 176778351517.0,
+    "name": "Akita Bank Ltd"
+  },
+  "AKBLF": {
+    "fetched_at": 1790348855.953557,
+    "market_cap": 44076986779.0,
+    "name": "ALK-Abello A/S"
+  },
+  "AKEJF": {
+    "fetched_at": 1790348855.953557,
+    "market_cap": 167211200237.0,
+    "name": "Ariake Japan Co Ltd"
+  },
+  "AKEMF": {
+    "fetched_at": 1790348855.953557,
+    "market_cap": 11948653.0,
+    "name": "Alaska Energy Metals Corp"
+  },
+  "AKESF": {
+    "fetched_at": 1790348855.953557,
+    "market_cap": 89811460876.0,
+    "name": "Akeso Inc"
+  },
+  "AKKVF": {
+    "fetched_at": 1790348855.953557,
+    "market_cap": 3525494713.0,
+    "name": "Akastor ASA"
+  },
+  "AKMLF": {
+    "fetched_at": 1790348855.953557,
+    "market_cap": 6060918.0,
+    "name": "Askari Metals Ltd"
+  },
+  "AKOBF": {
+    "fetched_at": 1790348855.953557,
+    "market_cap": 413132371.0,
+    "name": "Akobo Minerals AB (publ)"
+  },
+  "AKOM": {
+    "fetched_at": 1790348855.953557,
+    "market_cap": 810000.0,
+    "name": "Aerkomm Inc"
+  },
+  "AKPJS": {
+    "fetched_at": 1790348855.953557,
+    "market_cap": 0.0,
+    "name": "Ark7 Properties Plus LLC"
+  },
+  "AKPPS": {
+    "fetched_at": 1790348855.953557,
+    "market_cap": 0.0,
+    "name": "Ark7 Properties Plus LLC"
+  },
+  "AKPXS": {
+    "fetched_at": 1790348855.953557,
+    "market_cap": 0.0,
+    "name": "Ark7 Properties Plus LLC"
+  },
+  "AKPZS": {
+    "fetched_at": 1790348855.953557,
+    "market_cap": 0.0,
+    "name": "Ark7 Properties Plus LLC"
+  },
+  "AKRBF": {
+    "fetched_at": 1790348855.953557,
+    "market_cap": 222219015283.0,
+    "name": "Aker BP ASA"
+  },
+  "AKRTF": {
+    "fetched_at": 1790348855.953557,
+    "market_cap": 20554703701.0,
+    "name": "Aker Solutions ASA"
+  },
+  "AKTAF": {
+    "fetched_at": 1790348855.953557,
+    "market_cap": 205040000.0,
+    "name": "AKITA Drilling Ltd"
+  },
+  "AKTS": {
+    "fetched_at": 1790348855.953557,
+    "market_cap": 1091810797.9406695,
+    "name": "Aktis Oncology Inc"
+  },
+  "AKVA": {
+    "fetched_at": 1790348855.953557,
+    "market_cap": 54.132267,
+    "name": "Arkanova Energy Corp"
+  },
+  "AKZOF": {
+    "fetched_at": 1790348855.953557,
+    "market_cap": 9779088469.0,
+    "name": "Akzo Nobel NV"
+  },
+  "ALAB": {
+    "fetched_at": 1790348855.953557,
+    "market_cap": 62543114594.165474,
+    "name": "Astera Labs, Inc"
+  },
+  "ALAVF": {
+    "fetched_at": 1790348855.953557,
+    "market_cap": 116818541.0,
+    "name": "Alliance Aviation Services Ltd"
+  },
+  "ALB": {
+    "fetched_at": 1790348855.953557,
+    "market_cap": 12774047697.10937,
+    "name": "Albemarle Corp"
+  },
+  "ALBAF": {
+    "fetched_at": 1790348855.953557,
+    "market_cap": 3117738.0,
+    "name": "Alba Mineral Resources PLC"
+  },
+  "ALBC": {
+    "fetched_at": 1790348855.953557,
+    "market_cap": 0.0,
+    "name": "Alternative Ballistics Corp"
+  },
+  "ALBHF": {
+    "fetched_at": 1790348855.953557,
+    "market_cap": 45841906320.0,
+    "name": "Alibaba Health Information Technology Ltd"
+  },
+  "ALBY": {
+    "fetched_at": 1790348855.953557,
+    "market_cap": 43658535.59408451,
+    "name": "Community Capital Bancshares Inc"
+  },
+  "ALC": {
+    "fetched_at": 1790348855.953557,
+    "market_cap": 26993794888.0,
+    "name": "Alcon AG"
+  },
+  "ALCKF": {
+    "fetched_at": 1790348855.953557,
+    "market_cap": 51757489220.0,
+    "name": "Altech Corp"
+  },
+  "ALCLF": {
+    "fetched_at": 1790348855.953557,
+    "market_cap": 35047326.0,
+    "name": "Alchemy Labs Inc"
+  },
+  "ALCN": {
+    "fetched_at": 1790348855.953557,
+    "market_cap": 0.0,
+    "name": "Atlantic Central Enterprises Ltd"
+  },
+  "ALCO": {
+    "fetched_at": 1790348855.953557,
+    "market_cap": 288285266.0476915,
+    "name": "Alico Inc"
+  },
+  "ALCPF": {
+    "fetched_at": 1790348855.953557,
+    "market_cap": 322920522461.0,
+    "name": "Alchip Technologies Ltd"
+  },
+  "ALDA": {
+    "fetched_at": 1790348855.953557,
+    "market_cap": 2458590.0,
+    "name": "Atlantica Inc"
+  },
+  "ALDF": {
+    "fetched_at": 1790348855.953557,
+    "market_cap": 323472753.13585955,
+    "name": "Aldel Financial II Inc"
+  },
+  "ALDS": {
+    "fetched_at": 1790348855.953557,
+    "market_cap": 8100103.000000001,
+    "name": "APPlife Digital Solutions Inc"
+  },
+  "ALDVF": {
+    "fetched_at": 1790348855.953557,
+    "market_cap": 3748069.0,
+    "name": "Kiplin Metals Inc"
+  },
   "ALDX": {
-    "fetched_at": 1790228967.084112,
-    "market_cap": 81440670.96774194,
+    "fetched_at": 1790348855.953557,
+    "market_cap": 73598237.82222222,
     "name": "Aldeyra Therapeutics Inc"
   },
+  "ALEC": {
+    "fetched_at": 1790348855.953557,
+    "market_cap": 214381286.970297,
+    "name": "Alector Inc"
+  },
+  "ALEEF": {
+    "fetched_at": 1790348855.953557,
+    "market_cap": 33701800.0,
+    "name": "Alerio Gold Corp"
+  },
+  "ALEGF": {
+    "fetched_at": 1790348855.953557,
+    "market_cap": 49435411716.0,
+    "name": "Allegro.eu SA"
+  },
+  "ALF": {
+    "fetched_at": 1790348855.953557,
+    "market_cap": 132510449.39226517,
+    "name": "Centurion Acquisition Corp"
+  },
+  "ALFDF": {
+    "fetched_at": 1790348855.953557,
+    "market_cap": 7287250500.0,
+    "name": "Astral Foods Ltd"
+  },
+  "ALFFF": {
+    "fetched_at": 1790348855.953557,
+    "market_cap": 97591870000.0,
+    "name": "Sigma Foods SAB de CV"
+  },
+  "ALFIQ": {
+    "fetched_at": 1790348855.953557,
+    "market_cap": 16.0949,
+    "name": "Alfi Inc"
+  },
+  "ALFMF": {
+    "fetched_at": 1790348855.953557,
+    "market_cap": 633911595.0,
+    "name": "Apollo Future Mobility Group Ltd"
+  },
+  "ALFNF": {
+    "fetched_at": 1790348855.953557,
+    "market_cap": 271182299.0,
+    "name": "Alfen NV"
+  },
+  "ALFVF": {
+    "fetched_at": 1790348855.953557,
+    "market_cap": 231710727403.0,
+    "name": "Alfa Laval AB"
+  },
+  "ALG": {
+    "fetched_at": 1790348855.953557,
+    "market_cap": 1935548587.5185864,
+    "name": "Alamo Group Inc"
+  },
+  "ALGEF": {
+    "fetched_at": 1790348855.953557,
+    "market_cap": 207849031.0,
+    "name": "Alligator Energy Ltd"
+  },
+  "ALGGF": {
+    "fetched_at": 1790348855.953557,
+    "market_cap": 75807901949.0,
+    "name": "Alliance Global Group Inc"
+  },
+  "ALGIF": {
+    "fetched_at": 1790348855.953557,
+    "market_cap": 171850832.0,
+    "name": "Allgeier SE"
+  },
+  "ALGLF": {
+    "fetched_at": 1790348855.953557,
+    "market_cap": 3767094.0,
+    "name": "Alma Gold Inc"
+  },
+  "ALGM": {
+    "fetched_at": 1790348855.953557,
+    "market_cap": 6548304265.141556,
+    "name": "Allegro Microsystems Inc"
+  },
+  "ALGN": {
+    "fetched_at": 1790348855.953557,
+    "market_cap": 10345177785.234022,
+    "name": "Align Technology Inc"
+  },
+  "ALGRF": {
+    "fetched_at": 1790348855.953557,
+    "market_cap": 29214424.0,
+    "name": "Algo Grande Copper Corp"
+  },
+  "ALGS": {
+    "fetched_at": 1790348855.953557,
+    "market_cap": 34657297.419064745,
+    "name": "Aligos Therapeutics Inc"
+  },
+  "ALGT": {
+    "fetched_at": 1790348855.953557,
+    "market_cap": 2100633167.499353,
+    "name": "Allegiant Travel Co"
+  },
+  "ALH": {
+    "fetched_at": 1790348855.953557,
+    "market_cap": 4248122856.0384436,
+    "name": "Alliance Laundry Holdings Inc"
+  },
+  "ALHC": {
+    "fetched_at": 1790348855.953557,
+    "market_cap": 1591027628.7989821,
+    "name": "Alignment Healthcare Inc"
+  },
+  "ALHDF": {
+    "fetched_at": 1790348855.953557,
+    "market_cap": 147491954.0,
+    "name": "Alco Holdings Ltd"
+  },
+  "ALHGF": {
+    "fetched_at": 1790348855.953557,
+    "market_cap": 2349200000.0,
+    "name": "Amal Holdings AD Ltd"
+  },
+  "ALHPF": {
+    "fetched_at": 1790348855.953557,
+    "market_cap": 900175752.0,
+    "name": "Alpha HPA Ltd"
+  },
+  "ALID": {
+    "fetched_at": 1790348855.953557,
+    "market_cap": 115.49499999999999,
+    "name": "Allied Corp"
+  },
+  "ALIF": {
+    "fetched_at": 1790348855.953557,
+    "market_cap": 79.426,
+    "name": "Artificial Life Inc"
+  },
   "ALIS": {
-    "fetched_at": 1790126718.2265582,
-    "market_cap": 87140348.49344341,
+    "fetched_at": 1790348855.953557,
+    "market_cap": 87140348.99999999,
     "name": "Calisa Acquisition Corp"
   },
+  "ALIT": {
+    "fetched_at": 1790348855.953557,
+    "market_cap": 303872976.0382775,
+    "name": "Alight Inc"
+  },
+  "ALIZF": {
+    "fetched_at": 1790348855.953557,
+    "market_cap": 156438519026.0,
+    "name": "Allianz SE"
+  },
+  "ALK": {
+    "fetched_at": 1790348855.953557,
+    "market_cap": 4467472934.940805,
+    "name": "Alaska Air Group Inc"
+  },
+  "ALKEF": {
+    "fetched_at": 1790348855.953557,
+    "market_cap": 2725578650.0,
+    "name": "Alkane Resources Ltd"
+  },
+  "ALKHF": {
+    "fetched_at": 1790348855.953557,
+    "market_cap": 1017482.0,
+    "name": "Alaska Hydro Corp"
+  },
+  "ALKM": {
+    "fetched_at": 1790348855.953557,
+    "market_cap": 8646.0,
+    "name": "Alkame Holdings Inc"
+  },
+  "ALKN": {
+    "fetched_at": 1790348855.953557,
+    "market_cap": 20000.0,
+    "name": "Alkane Inc"
+  },
+  "ALKS": {
+    "fetched_at": 1790348855.953557,
+    "market_cap": 6843063544.05934,
+    "name": "Alkermes Plc"
+  },
+  "ALKT": {
+    "fetched_at": 1790348855.953557,
+    "market_cap": 1516437293.882192,
+    "name": "Alkami Technology Inc"
+  },
+  "ALL": {
+    "fetched_at": 1790348855.953557,
+    "market_cap": 57441742781.656204,
+    "name": "Allstate Corp"
+  },
+  "ALLDF": {
+    "fetched_at": 1790348855.953557,
+    "market_cap": 7968260236.0,
+    "name": "Ayvens SA"
+  },
+  "ALLE": {
+    "fetched_at": 1790348855.953557,
+    "market_cap": 12966409269.064053,
+    "name": "Allegion PLC"
+  },
+  "ALLGF": {
+    "fetched_at": 1790348855.953557,
+    "market_cap": 8213889.999999999,
+    "name": "Allego NV"
+  },
+  "ALLIF": {
+    "fetched_at": 1790348855.953557,
+    "market_cap": 126637527.0,
+    "name": "Atlantic Lithium Ltd"
+  },
+  "ALLO": {
+    "fetched_at": 1790348855.953557,
+    "market_cap": 576969747.0,
+    "name": "Allogene Therapeutics Inc"
+  },
+  "ALLR": {
+    "fetched_at": 1790348855.953557,
+    "market_cap": 17342688.153846156,
+    "name": "Allarity Therapeutics Inc"
+  },
+  "ALLT": {
+    "fetched_at": 1790348855.953557,
+    "market_cap": 424992675.1853601,
+    "name": "Allot Ltd"
+  },
+  "ALLY": {
+    "fetched_at": 1790348855.953557,
+    "market_cap": 11784696027.55262,
+    "name": "Ally Financial Inc"
+  },
+  "ALM": {
+    "fetched_at": 1790348855.953557,
+    "market_cap": 3577161188.017622,
+    "name": "Almonty Industries Inc"
+  },
+  "ALME": {
+    "fetched_at": 1790348855.953557,
+    "market_cap": 137.0,
+    "name": "Microbonds Applied Solutions Corp"
+  },
+  "ALMMF": {
+    "fetched_at": 1790348855.953557,
+    "market_cap": 147302626203.5379,
+    "name": "Aluminum Corporation of China Ltd"
+  },
+  "ALMOF": {
+    "fetched_at": 1790348855.953557,
+    "market_cap": 8340707880.0,
+    "name": "Alphamab Oncology"
+  },
+  "ALMP": {
+    "fetched_at": 1790348855.953557,
+    "market_cap": 96850000.0,
+    "name": "Almco Plumbing Inc"
+  },
+  "ALMR": {
+    "fetched_at": 1790348855.953557,
+    "market_cap": 2303839882.6011205,
+    "name": "Alamar Biosciences Inc"
+  },
+  "ALMS": {
+    "fetched_at": 1790348855.953557,
+    "market_cap": 973179648.3991934,
+    "name": "Alumis Inc"
+  },
+  "ALMU": {
+    "fetched_at": 1790348855.953557,
+    "market_cap": 257389393.16540217,
+    "name": "Aeluma Inc"
+  },
+  "ALMY": {
+    "fetched_at": 1790348855.953557,
+    "market_cap": 5.28,
+    "name": "Alchemy Creative Inc"
+  },
+  "ALNIF": {
+    "fetched_at": 1790348855.953557,
+    "market_cap": 10750000.0,
+    "name": "Aleen Inc"
+  },
+  "ALNPF": {
+    "fetched_at": 1790348855.953557,
+    "market_cap": 1419152236435.0,
+    "name": "ANA Holdings Inc"
+  },
   "ALNT": {
-    "fetched_at": 1790258055.3373806,
-    "market_cap": 1931485317.238571,
+    "fetched_at": 1790348855.953557,
+    "market_cap": 1913802722.7781692,
     "name": "Allient Inc"
+  },
+  "ALNXF": {
+    "fetched_at": 1790348855.953557,
+    "market_cap": 102235851936.0,
+    "name": "Alconix Corp"
+  },
+  "ALNY": {
+    "fetched_at": 1790348855.953557,
+    "market_cap": 33397419465.465862,
+    "name": "Alnylam Pharmaceuticals Inc"
+  },
+  "ALOD": {
+    "fetched_at": 1790348855.953557,
+    "market_cap": 910698.0,
+    "name": "Allied Resources Inc"
+  },
+  "ALOV": {
+    "fetched_at": 1790348855.953557,
+    "market_cap": 375187510.9780439,
+    "name": "Aldabra 4 Liquidity Opportunity Vehicle Inc"
+  },
+  "ALOY": {
+    "fetched_at": 1790348855.953557,
+    "market_cap": 591449289.3979238,
+    "name": "REalloys Inc"
+  },
+  "ALP": {
+    "fetched_at": 1790348855.953557,
+    "market_cap": 8694646.143171808,
+    "name": "Alpha Compute Corp"
+  },
+  "ALPE": {
+    "fetched_at": 1790348855.953557,
+    "market_cap": 3888.0,
+    "name": "alpha-En Corp"
+  },
+  "ALPIB": {
+    "fetched_at": 1790348855.953557,
+    "market_cap": 785365704.0000001,
+    "name": "Alpine Banks of Colorado"
+  },
+  "ALPKF": {
+    "fetched_at": 1790348855.953557,
+    "market_cap": 26992020000.0,
+    "name": "Alpek SAB de CV"
+  },
+  "ALPMF": {
+    "fetched_at": 1790348855.953557,
+    "market_cap": 4292107118958.0,
+    "name": "Astellas Pharma Inc"
+  },
+  "ALPP": {
+    "fetched_at": 1790348855.953557,
+    "market_cap": 2465.1,
+    "name": "Alpine 4 Holdings Inc"
+  },
+  "ALPS": {
+    "fetched_at": 1790348855.953557,
+    "market_cap": 66560126.99999999,
+    "name": "Alps Group Inc"
+  },
+  "ALPX": {
+    "fetched_at": 1790348855.953557,
+    "market_cap": 140170000.0,
+    "name": "Alpex Acquisition Corp"
+  },
+  "ALRDF": {
+    "fetched_at": 1790348855.953557,
+    "market_cap": 31100000.0,
+    "name": "Defence Holdings PLC"
+  },
+  "ALRGF": {
+    "fetched_at": 1790348855.953557,
+    "market_cap": 2724928.0,
+    "name": "Antler Gold Inc"
+  },
+  "ALRHF": {
+    "fetched_at": 1790348855.953557,
+    "market_cap": 3171771646.0,
+    "name": "Allreal Holding AG"
+  },
+  "ALRM": {
+    "fetched_at": 1790348855.953557,
+    "market_cap": 2623381561.144142,
+    "name": "Alarm.com Holdings Inc"
+  },
+  "ALRPF": {
+    "fetched_at": 1790348855.953557,
+    "market_cap": 358619785.0,
+    "name": "Alantra Partners SA"
+  },
+  "ALRS": {
+    "fetched_at": 1790348855.953557,
+    "market_cap": 802915577.9688386,
+    "name": "Alerus Financial Corp"
+  },
+  "ALRTF": {
+    "fetched_at": 1790348855.953557,
+    "market_cap": 10972936.71641791,
+    "name": "ALR Technologies SG Ltd"
+  },
+  "ALSAF": {
+    "fetched_at": 1790348855.953557,
+    "market_cap": 49700000.0,
+    "name": "Alpha Star Acquisition Corp"
+  },
+  "ALSHF": {
+    "fetched_at": 1790348855.953557,
+    "market_cap": 2502634421.0,
+    "name": "Also Holding AG"
+  },
+  "ALSI": {
+    "fetched_at": 1790348855.953557,
+    "market_cap": 1347.1100000000001,
+    "name": "Atlas Resources International Inc"
+  },
+  "ALSN": {
+    "fetched_at": 1790348855.953557,
+    "market_cap": 9309848053.88341,
+    "name": "Allison Transmission Holdings Inc"
+  },
+  "ALSSF": {
+    "fetched_at": 1790348855.953557,
+    "market_cap": 35292644337.0,
+    "name": "Alsea SAB de CV"
+  },
+  "ALST": {
+    "fetched_at": 1790348855.953557,
+    "market_cap": 128451.00000000001,
+    "name": "Allstar Health Brands Inc"
+  },
+  "ALT": {
+    "fetched_at": 1790348855.953557,
+    "market_cap": 591333819.4357367,
+    "name": "Altimmune Inc"
+  },
+  "ALTAF": {
+    "fetched_at": 1790348855.953557,
+    "market_cap": 11927495.0,
+    "name": "Morella Corporation Ltd"
+  },
+  "ALTB": {
+    "fetched_at": 1790348855.953557,
+    "market_cap": 9960999756.0,
+    "name": "Alpine Auto Brokers Inc"
+  },
+  "ALTCF": {
+    "fetched_at": 1790348855.953557,
+    "market_cap": 2912643.0,
+    "name": "Alturas Minerals Corp"
+  },
+  "ALTD": {
+    "fetched_at": 1790348855.953557,
+    "market_cap": 492.177,
+    "name": "Altitude International Holdings Inc"
+  },
+  "ALTG": {
+    "fetched_at": 1790348855.953557,
+    "market_cap": 190121191.437604,
+    "name": "Alta Equipment Group Inc"
+  },
+  "ALTHF": {
+    "fetched_at": 1790348855.953557,
+    "market_cap": 2669056.0,
+    "name": "Altech Batteries Ltd"
+  },
+  "ALTI": {
+    "fetched_at": 1790348855.953557,
+    "market_cap": 477186892.57894737,
+    "name": "AlTi Global, Inc"
+  },
+  "ALTNF": {
+    "fetched_at": 1790348855.953557,
+    "market_cap": 1550000.0,
+    "name": "Alternus Energy Group PLC"
+  },
+  "ALTO": {
+    "fetched_at": 1790348855.953557,
+    "market_cap": 290106164.93297595,
+    "name": "Alto Ingredients Inc"
+  },
+  "ALTPF": {
+    "fetched_at": 1790348855.953557,
+    "market_cap": 1775618.0,
+    "name": "Altiplano Metals Inc"
+  },
+  "ALTUF": {
+    "fetched_at": 1790348855.953557,
+    "market_cap": 14889322.0,
+    "name": "Altura Energy Corp"
+  },
+  "ALTX": {
+    "fetched_at": 1790348855.953557,
+    "market_cap": 1901899.0,
+    "name": "Altex Industries Inc"
+  },
+  "ALUB": {
+    "fetched_at": 1790348855.953557,
+    "market_cap": 363687496.0,
+    "name": "Alussa Energy Acquisition Corp II"
+  },
+  "ALUNF": {
+    "fetched_at": 1790348855.953557,
+    "market_cap": 116988791.0,
+    "name": "Alurion Resources Ltd"
+  },
+  "ALUR": {
+    "fetched_at": 1790348855.953557,
+    "market_cap": 1110463.3043478262,
+    "name": "Allurion Technologies Inc"
+  },
+  "ALV": {
+    "fetched_at": 1790348855.953557,
+    "market_cap": 8343184299.835008,
+    "name": "Autoliv Inc"
+  },
+  "ALVLF": {
+    "fetched_at": 1790348855.953557,
+    "market_cap": 197346051.0,
+    "name": "Big Ridge Gold Corp"
+  },
+  "ALVO": {
+    "fetched_at": 1790348855.953557,
+    "market_cap": 2295736947.7590365,
+    "name": "Alvotech SA"
+  },
+  "ALVOF": {
+    "fetched_at": 1790348855.953557,
+    "market_cap": 363749268.0,
+    "name": "Alvopetro Energy Ltd"
+  },
+  "ALVRQ": {
+    "fetched_at": 1790348855.953557,
+    "market_cap": 70000.0,
+    "name": "Alvarion Ltd"
+  },
+  "ALVSF": {
+    "fetched_at": 1790348855.953557,
+    "market_cap": 2300401193.0,
+    "name": "A-Living Smart City Services Co Ltd"
+  },
+  "ALXO": {
+    "fetched_at": 1790348855.953557,
+    "market_cap": 187365328.54761901,
+    "name": "ALX Oncology Holdings Inc"
+  },
+  "ALXPF": {
+    "fetched_at": 1790348855.953557,
+    "market_cap": 25881569.0,
+    "name": "Alpha Exploration Ltd"
+  },
+  "ALXXF": {
+    "fetched_at": 1790348855.953557,
+    "market_cap": 45720000.0,
+    "name": "Avante Corp"
+  },
+  "ALYAF": {
+    "fetched_at": 1790348855.953557,
+    "market_cap": 103539149.0,
+    "name": "Alithya Group Inc"
+  },
+  "ALZCF": {
+    "fetched_at": 1790348855.953557,
+    "market_cap": 1632284126.0,
+    "name": "Alzchem Group AG"
+  },
+  "ALZIF": {
+    "fetched_at": 1790348855.953557,
+    "market_cap": 0.0,
+    "name": "Alzai Health Corp"
+  },
+  "ALZN": {
+    "fetched_at": 1790348855.953557,
+    "market_cap": 8782816.216494845,
+    "name": "Alzamend Neuro Inc"
+  },
+  "AM": {
+    "fetched_at": 1790348855.953557,
+    "market_cap": 10077328863.108513,
+    "name": "Antero Midstream Corp"
+  },
+  "AMADF": {
+    "fetched_at": 1790348855.953557,
+    "market_cap": 21857648634.0,
+    "name": "Amadeus IT Group SA"
+  },
+  "AMAL": {
+    "fetched_at": 1790348855.953557,
+    "market_cap": 1411585956.7828608,
+    "name": "Amalgamated Financial Corp"
+  },
+  "AMAN": {
+    "fetched_at": 1790348855.953557,
+    "market_cap": 105934504.98127341,
+    "name": "Amanat Acquisition Corp"
+  },
+  "AMANF": {
+    "fetched_at": 1790348855.953557,
+    "market_cap": 264510221497.00003,
+    "name": "Amano Corp"
+  },
+  "AMAT": {
+    "fetched_at": 1790348855.953557,
+    "market_cap": 376363576566.364,
+    "name": "Applied Materials Inc"
+  },
+  "AMBA": {
+    "fetched_at": 1790348855.953557,
+    "market_cap": 3083688438.5983434,
+    "name": "Ambarella Inc"
+  },
+  "AMBD": {
+    "fetched_at": 1790348855.953557,
+    "market_cap": 856.25,
+    "name": "American Mobile Dental Corp"
+  },
+  "AMBFF": {
+    "fetched_at": 1790348855.953557,
+    "market_cap": 17935491312.0,
+    "name": "Ambu A/S"
+  },
+  "AMBK": {
+    "fetched_at": 1790348855.953557,
+    "market_cap": 148480688.27143764,
+    "name": "American Bank Inc"
+  },
+  "AMBP": {
+    "fetched_at": 1790348855.953557,
+    "market_cap": 2576114037.7438197,
+    "name": "Ardagh Metal Packaging SA"
+  },
+  "AMBQ": {
+    "fetched_at": 1790348855.953557,
+    "market_cap": 1666798153.6455953,
+    "name": "Ambiq Micro Inc"
+  },
+  "AMBS": {
+    "fetched_at": 1790348855.953557,
+    "market_cap": 630.4069999999999,
+    "name": "Amarantus Bioscience Holdings Inc"
+  },
+  "AMBZ": {
+    "fetched_at": 1790348855.953557,
+    "market_cap": 647078101.9999999,
+    "name": "American Business Bank"
+  },
+  "AMC": {
+    "fetched_at": 1790348855.953557,
+    "market_cap": 2597479324.149826,
+    "name": "AMC Entertainment Holdings Inc"
+  },
+  "AMCF": {
+    "fetched_at": 1790348855.953557,
+    "market_cap": 10.256,
+    "name": "Andatee China Marine Fuel Services Corp"
+  },
+  "AMCHF": {
+    "fetched_at": 1790348855.953557,
+    "market_cap": 116298335743.0,
+    "name": "Aimechatec Ltd"
+  },
+  "AMCI": {
+    "fetched_at": 1790348855.953557,
+    "market_cap": 73366139.86996903,
+    "name": "AMC Robotics Corp"
+  },
+  "AMCOF": {
+    "fetched_at": 1790348855.953557,
+    "market_cap": 7606324.0,
+    "name": "Americore Resources Corp"
+  },
+  "AMCR": {
+    "fetched_at": 1790348855.953557,
+    "market_cap": 19464752469.941593,
+    "name": "Amcor PLC"
+  },
+  "AMCT": {
+    "fetched_at": 1790348855.953557,
+    "market_cap": 10000.0,
+    "name": "American Education Center Inc"
+  },
+  "AMCX": {
+    "fetched_at": 1790348855.953557,
+    "market_cap": 496237140.1024999,
+    "name": "AMC Global Media Inc"
+  },
+  "AMD": {
+    "fetched_at": 1790348855.953557,
+    "market_cap": 1027251178654.3406,
+    "name": "Advanced Micro Devices Inc"
+  },
+  "AMDUF": {
+    "fetched_at": 1790348855.953557,
+    "market_cap": 18877033302.0,
+    "name": "Amundi SA"
+  },
+  "AMDWF": {
+    "fetched_at": 1790348855.953557,
+    "market_cap": 737531244278.0,
+    "name": "Amada Co Ltd"
+  },
+  "AME": {
+    "fetched_at": 1790348855.953557,
+    "market_cap": 56797180313.32684,
+    "name": "AMETEK Inc"
+  },
+  "AMEGF": {
+    "fetched_at": 1790348855.953557,
+    "market_cap": 228134422.0,
+    "name": "American Eagle Gold Corp"
+  },
+  "AMEN": {
+    "fetched_at": 1790348855.953557,
+    "market_cap": 27104460.0,
+    "name": "AMEN Properties Inc"
+  },
+  "AMFC": {
+    "fetched_at": 1790348855.953557,
+    "market_cap": 34462730.85721629,
+    "name": "AMB Financial Corp"
+  },
+  "AMFL": {
+    "fetched_at": 1790348855.953557,
+    "market_cap": 8527440.385185186,
+    "name": "American Films Inc"
+  },
+  "AMFPF": {
+    "fetched_at": 1790348855.953557,
+    "market_cap": 3192542311.0,
+    "name": "Amplifon SpA"
+  },
+  "AMG": {
+    "fetched_at": 1790348855.953557,
+    "market_cap": 9586536429.995522,
+    "name": "Affiliated Managers Group Inc"
+  },
+  "AMGDF": {
+    "fetched_at": 1790348855.953557,
+    "market_cap": 330586662.0,
+    "name": "Aston Martin Lagonda Global Holdings PLC"
+  },
+  "AMGN": {
+    "fetched_at": 1790348855.953557,
+    "market_cap": 219518223032.29172,
+    "name": "Amgen Inc"
+  },
+  "AMGRF": {
+    "fetched_at": 1790348855.953557,
+    "market_cap": 240446548.0,
+    "name": "AMA Group Ltd"
+  },
+  "AMGXF": {
+    "fetched_at": 1790348855.953557,
+    "market_cap": 14358071777.0,
+    "name": "AnGes Inc"
+  },
+  "AMGY": {
+    "fetched_at": 1790348855.953557,
+    "market_cap": 1201.1999999999998,
+    "name": "American Metal & Technology Inc"
+  },
+  "AMHD": {
+    "fetched_at": 1790348855.953557,
+    "market_cap": 953.2,
+    "name": "HLK Biotec Holding Group Inc"
+  },
+  "AMIGF": {
+    "fetched_at": 1790348855.953557,
+    "market_cap": 11247508499.0,
+    "name": "Admiral Group PLC"
+  },
+  "AMIH": {
+    "fetched_at": 1790348855.953557,
+    "market_cap": 233999.99999999997,
+    "name": "American International Holdings Corp"
+  },
+  "AMIVF": {
+    "fetched_at": 1790348855.953557,
+    "market_cap": 560333383.0,
+    "name": "Atrium Mortgage Investment Corp"
+  },
+  "AMIX": {
+    "fetched_at": 1790348855.953557,
+    "market_cap": 7976947.414572865,
+    "name": "Autonomix Medical Inc"
+  },
+  "AMJT": {
+    "fetched_at": 1790348855.953557,
+    "market_cap": 1242345.3,
+    "name": "AMJ Global Technology"
+  },
+  "AMKAF": {
+    "fetched_at": 1790348855.953557,
+    "market_cap": 326222865362.0,
+    "name": "AP Moeller - Maersk A/S"
+  },
+  "AMKBF": {
+    "fetched_at": 1790348855.953557,
+    "market_cap": 326222865362.0,
+    "name": "AP Moeller - Maersk A/S"
+  },
+  "AMKR": {
+    "fetched_at": 1790348855.953557,
+    "market_cap": 13090960509.511627,
+    "name": "Amkor Technology Inc"
+  },
+  "AMKYF": {
+    "fetched_at": 1790348855.953557,
+    "market_cap": 664607971436.0,
+    "name": "ABC-Mart Inc"
+  },
+  "AMLDF": {
+    "fetched_at": 1790348855.953557,
+    "market_cap": 87954100.0,
+    "name": "AML3D Ltd"
+  },
+  "AMLH": {
+    "fetched_at": 1790348855.953557,
+    "market_cap": 6062.75,
+    "name": "American Leisure Holdings Inc"
+  },
+  "AMLIF": {
+    "fetched_at": 1790348855.953557,
+    "market_cap": 113770764.0,
+    "name": "American Lithium Corp"
+  },
+  "AMLM": {
+    "fetched_at": 1790348855.953557,
+    "market_cap": 5265543.4061538465,
+    "name": "American Lithium Minerals Inc"
+  },
+  "AMLTF": {
+    "fetched_at": 1790348855.953557,
+    "market_cap": 6313216585.0,
+    "name": "AMP Ltd"
+  },
+  "AMLX": {
+    "fetched_at": 1790348855.953557,
+    "market_cap": 3782963157.367097,
+    "name": "Amylyx Pharmaceuticals Inc"
+  },
+  "AMMHF": {
+    "fetched_at": 1790348855.953557,
+    "market_cap": 21904228469.0,
+    "name": "AMMB Holdings Bhd"
+  },
+  "AMMJ": {
+    "fetched_at": 1790348855.953557,
+    "market_cap": 74319.99999999999,
+    "name": "American Cannabis Company Inc"
+  },
+  "AMMNF": {
+    "fetched_at": 1790348855.953557,
+    "market_cap": 353163725312500.0,
+    "name": "Amman Mineral Internasional Tbk PT"
+  },
+  "AMMPF": {
+    "fetched_at": 1790348855.953557,
+    "market_cap": 5160000.0,
+    "name": "AmmPower Corp"
+  },
+  "AMMX": {
+    "fetched_at": 1790348855.953557,
+    "market_cap": 1511298.5232067513,
+    "name": "AmeraMex International Inc"
+  },
+  "AMN": {
+    "fetched_at": 1790348855.953557,
+    "market_cap": 1338508514.632852,
+    "name": "AMN Healthcare Services Inc"
+  },
+  "AMNC": {
+    "fetched_at": 1790348855.953557,
+    "market_cap": 333977.6448,
+    "name": "Amincor Inc"
+  },
+  "AMNCB": {
+    "fetched_at": 1790348855.953557,
+    "market_cap": 333977.6448,
+    "name": "Amincor Inc"
+  },
+  "AMNE": {
+    "fetched_at": 1790348855.953557,
+    "market_cap": 19998.0,
+    "name": "American Green Group Inc"
+  },
+  "AMNF": {
+    "fetched_at": 1790348855.953557,
+    "market_cap": 367642487.58666676,
+    "name": "Armanino Foods Of Distinction Inc"
+  },
+  "AMNNF": {
+    "fetched_at": 1790348855.953557,
+    "market_cap": 10300000.0,
+    "name": "ADSL Holdings Inc"
+  },
+  "AMNP": {
+    "fetched_at": 1790348855.953557,
+    "market_cap": 76210780.0,
+    "name": "American Sierra Gold Corp"
+  },
+  "AMNTF": {
+    "fetched_at": 1790348855.953557,
+    "market_cap": 2553967045.0,
+    "name": "Asia Cement (China) Holdings Corp"
+  },
+  "AMOD": {
+    "fetched_at": 1790348855.953557,
+    "market_cap": 8232709.662650603,
+    "name": "Alpha Modus Holdings Inc"
+  },
+  "AMOEF": {
+    "fetched_at": 1790348855.953557,
+    "market_cap": 38697470.0,
+    "name": "Amoeba SA"
+  },
+  "AMOIF": {
+    "fetched_at": 1790348855.953557,
+    "market_cap": 26850000.0,
+    "name": "American Future Fuel Corp"
+  },
+  "AMOSF": {
+    "fetched_at": 1790348855.953557,
+    "market_cap": 22337475.0,
+    "name": "Atomos Ltd"
+  },
+  "AMP": {
+    "fetched_at": 1790348855.953557,
+    "market_cap": 42854863107.40865,
+    "name": "Ameriprise Financial Inc"
+  },
+  "AMPDF": {
+    "fetched_at": 1790348855.953557,
+    "market_cap": 600000.0,
+    "name": "Ampd Ventures Inc"
+  },
+  "AMPE": {
+    "fetched_at": 1790348855.953557,
+    "market_cap": 210000.0,
+    "name": "Ampio Pharmaceuticals Inc"
+  },
+  "AMPG": {
+    "fetched_at": 1790348855.953557,
+    "market_cap": 103350972.2366864,
+    "name": "Amplitech Group Inc"
   },
   "AMPH": {
     "fetched_at": 1790300048.8927922,
     "market_cap": 1117471768.6302083,
     "name": "Amphastar Pharmaceuticals, Inc"
   },
+  "AMPL": {
+    "fetched_at": 1790348855.953557,
+    "market_cap": 1710094950.1664846,
+    "name": "Amplitude Inc"
+  },
+  "AMPX": {
+    "fetched_at": 1790348855.953557,
+    "market_cap": 1415521213.1778007,
+    "name": "Amprius Technologies Inc"
+  },
+  "AMPY": {
+    "fetched_at": 1790348855.953557,
+    "market_cap": 179920983.25295505,
+    "name": "Amplify Energy Corp"
+  },
+  "AMQFF": {
+    "fetched_at": 1790348855.953557,
+    "market_cap": 117630559.0,
+    "name": "Abitibi Metals Corp"
+  },
+  "AMR": {
+    "fetched_at": 1790348855.953557,
+    "market_cap": 2180922409.3564854,
+    "name": "Alpha Metallurgical Resources Inc"
+  },
+  "AMRA": {
+    "fetched_at": 1790348855.953557,
+    "market_cap": 3131.0,
+    "name": "American Racing Capital Inc"
+  },
+  "AMRC": {
+    "fetched_at": 1790348855.953557,
+    "market_cap": 1149944784.7144744,
+    "name": "Ameresco Inc"
+  },
+  "AMRQF": {
+    "fetched_at": 1790348855.953557,
+    "market_cap": 903540000.0,
+    "name": "Amaroq Ltd"
+  },
+  "AMRU": {
+    "fetched_at": 1790348855.953557,
+    "market_cap": 1829949.0000000002,
+    "name": "Amaru Inc"
+  },
+  "AMRX": {
+    "fetched_at": 1790348855.953557,
+    "market_cap": 6324804208.758666,
+    "name": "Amneal Pharmaceuticals Inc"
+  },
+  "AMRZ": {
+    "fetched_at": 1790348855.953557,
+    "market_cap": 20362040838.49393,
+    "name": "Amrize AG"
+  },
+  "AMS": {
+    "fetched_at": 1790348855.953557,
+    "market_cap": 9709000.0,
+    "name": "American Shared Hospital Services"
+  },
+  "AMSC": {
+    "fetched_at": 1790348855.953557,
+    "market_cap": 1473610054.5739133,
+    "name": "American Superconductor Corp"
+  },
+  "AMSF": {
+    "fetched_at": 1790348855.953557,
+    "market_cap": 441714287.1140746,
+    "name": "Amerisafe Inc"
+  },
+  "AMSLF": {
+    "fetched_at": 1790348855.953557,
+    "market_cap": 66010282.0,
+    "name": "Australian Mines Ltd"
+  },
+  "AMSS": {
+    "fetched_at": 1790348855.953557,
+    "market_cap": 7857800.0672268905,
+    "name": "Amass Brands Inc"
+  },
+  "AMST": {
+    "fetched_at": 1790348855.953557,
+    "market_cap": 6877343.509615384,
+    "name": "Amesite Inc"
+  },
+  "AMSYF": {
+    "fetched_at": 1790348855.953557,
+    "market_cap": 47142848650.0,
+    "name": "ArcelorMittal SA"
+  },
+  "AMTB": {
+    "fetched_at": 1790348855.953557,
+    "market_cap": 1148262845.5071452,
+    "name": "Amerant Bancorp Inc"
+  },
+  "AMTFF": {
+    "fetched_at": 1790348855.953557,
+    "market_cap": 294778419.0,
+    "name": "AmeriTrust Financial Technologies Inc"
+  },
+  "AMTM": {
+    "fetched_at": 1790348855.953557,
+    "market_cap": 4743424107.833587,
+    "name": "Amentum Holdings Inc"
+  },
+  "AMTTF": {
+    "fetched_at": 1790348855.953557,
+    "market_cap": 9718509553.0,
+    "name": "Amot Investments Ltd"
+  },
+  "AMTX": {
+    "fetched_at": 1790348855.953557,
+    "market_cap": 127740179.8894737,
+    "name": "Aemetis Inc"
+  },
+  "AMTY": {
+    "fetched_at": 1790348855.953557,
+    "market_cap": 2148409.0,
+    "name": "Amerityre Corp"
+  },
+  "AMUIF": {
+    "fetched_at": 1790348855.953557,
+    "market_cap": 8730000.0,
+    "name": "American Uranium Ltd"
+  },
+  "AMVIF": {
+    "fetched_at": 1790348855.953557,
+    "market_cap": 3671871588.0,
+    "name": "Aumovio Se"
+  },
   "AMVMF": {
-    "fetched_at": 1790257517.6424797,
-    "market_cap": 1097793510.0,
+    "fetched_at": 1790348855.953557,
+    "market_cap": 1083214523.0,
     "name": "AMG Critical Materials NV"
   },
+  "AMWK": {
+    "fetched_at": 1790348855.953557,
+    "market_cap": 86.05,
+    "name": "Ameristar Network Inc"
+  },
+  "AMWL": {
+    "fetched_at": 1790348855.953557,
+    "market_cap": 229107964.97804695,
+    "name": "American Well Corp"
+  },
+  "AMXEF": {
+    "fetched_at": 1790348855.953557,
+    "market_cap": 675719600.0,
+    "name": "Amex Exploration Inc"
+  },
+  "AMXOF": {
+    "fetched_at": 1790348855.953557,
+    "market_cap": 1320022000000.0,
+    "name": "America Movil SAB de CV"
+  },
+  "AMXX": {
+    "fetched_at": 1790348855.953557,
+    "market_cap": 20000.0,
+    "name": "Reconditioned Systems Inc"
+  },
+  "AMYZF": {
+    "fetched_at": 1790348855.953557,
+    "market_cap": 12949706.0,
+    "name": "RecycLiCo Battery Materials Inc"
+  },
+  "AMZE": {
+    "fetched_at": 1790348855.953557,
+    "market_cap": 2765449.333333333,
+    "name": "Amaze Holdings Inc"
+  },
+  "AMZN": {
+    "fetched_at": 1790348855.953557,
+    "market_cap": 2689891144425.18,
+    "name": "Amazon.com Inc"
+  },
+  "AN": {
+    "fetched_at": 1790348855.953557,
+    "market_cap": 5385274833.133231,
+    "name": "AutoNation Inc"
+  },
+  "ANAB": {
+    "fetched_at": 1790348855.953557,
+    "market_cap": 1545584159.7281861,
+    "name": "AnaptysBio Inc"
+  },
+  "ANANF": {
+    "fetched_at": 1790348855.953557,
+    "market_cap": 1890000.0,
+    "name": "Ananda Pharma Ltd"
+  },
+  "ANAPF": {
+    "fetched_at": 1790348855.953557,
+    "market_cap": 4942494347.0,
+    "name": "ANAP Holdings Inc"
+  },
+  "ANAS": {
+    "fetched_at": 1790348855.953557,
+    "market_cap": 1433399.0,
+    "name": "Alternaturals Inc"
+  },
+  "ANCE": {
+    "fetched_at": 1790348855.953557,
+    "market_cap": 2408.6000000000004,
+    "name": "Restance Inc"
+  },
+  "ANCMF": {
+    "fetched_at": 1790348855.953557,
+    "market_cap": 996911255.0,
+    "name": "Ancom Nylex Bhd"
+  },
+  "ANCPF": {
+    "fetched_at": 1790348855.953557,
+    "market_cap": 832715132699.0,
+    "name": "Archion Corp"
+  },
+  "ANCTF": {
+    "fetched_at": 1790348855.953557,
+    "market_cap": 72050886162.0,
+    "name": "Alimentation Couche-Tard Inc"
+  },
+  "ANDC": {
+    "fetched_at": 1790348855.953557,
+    "market_cap": 46040170.48638132,
+    "name": "Andover Bancorp Inc"
+  },
+  "ANDE": {
+    "fetched_at": 1790348855.953557,
+    "market_cap": 2269228344.780086,
+    "name": "Andersons Inc"
+  },
+  "ANDG": {
+    "fetched_at": 1790348855.953557,
+    "market_cap": 6030193825.296199,
+    "name": "Andersen Group Inc"
+  },
+  "ANDI": {
+    "fetched_at": 1790348855.953557,
+    "market_cap": 4919.0,
+    "name": "Andiamo Corp"
+  },
+  "ANDMF": {
+    "fetched_at": 1790348855.953557,
+    "market_cap": 35962894.0,
+    "name": "Andromeda Metals Ltd"
+  },
+  "ANDR": {
+    "fetched_at": 1790348855.953557,
+    "market_cap": 13620.999999999998,
+    "name": "Andrea Electronics Corp"
+  },
+  "ANEB": {
+    "fetched_at": 1790348855.953557,
+    "market_cap": 13255037.25,
+    "name": "Anebulo Pharmaceuticals Inc"
+  },
+  "ANET": {
+    "fetched_at": 1790348855.953557,
+    "market_cap": 259433903704.77853,
+    "name": "Arista Networks Inc"
+  },
+  "ANF": {
+    "fetched_at": 1790348855.953557,
+    "market_cap": 5698937177.131948,
+    "name": "Abercrombie & Fitch Co"
+  },
+  "ANFGF": {
+    "fetched_at": 1790348855.953557,
+    "market_cap": 36930190684.0,
+    "name": "Antofagasta PLC"
+  },
+  "ANFIF": {
+    "fetched_at": 1790348855.953557,
+    "market_cap": 222.109,
+    "name": "Amira Nature Foods Ltd"
+  },
+  "ANGCF": {
+    "fetched_at": 1790348855.953557,
+    "market_cap": 350000.0,
+    "name": "Eon Lithium Corp"
+  },
+  "ANGGF": {
+    "fetched_at": 1790348855.953557,
+    "market_cap": 17300649890.72585,
+    "name": "Angang Steel Co Ltd"
+  },
+  "ANGH": {
+    "fetched_at": 1790348855.953557,
+    "market_cap": 33086548.491462316,
+    "name": "Anghami Inc"
+  },
+  "ANGI": {
+    "fetched_at": 1790348855.953557,
+    "market_cap": 209270265.83762378,
+    "name": "Angi Inc"
+  },
+  "ANGO": {
+    "fetched_at": 1790348855.953557,
+    "market_cap": 631558926.194713,
+    "name": "AngioDynamics Inc"
+  },
+  "ANGX": {
+    "fetched_at": 1790348855.953557,
+    "market_cap": 907635729.228866,
+    "name": "Angel Studios Inc"
+  },
+  "ANICF": {
+    "fetched_at": 1790348855.953557,
+    "market_cap": 5407906.0,
+    "name": "Anonymous Intelligence Company Inc"
+  },
+  "ANIK": {
+    "fetched_at": 1790348855.953557,
+    "market_cap": 270737402.9246626,
+    "name": "Anika Therapeutics Inc"
+  },
   "ANIP": {
-    "fetched_at": 1790172335.738202,
-    "market_cap": 1789620082.623082,
+    "fetched_at": 1790348855.953557,
+    "market_cap": 1700724862.7166464,
     "name": "ANI Pharmaceuticals Inc"
   },
+  "ANIX": {
+    "fetched_at": 1790348855.953557,
+    "market_cap": 96643368.04363635,
+    "name": "Anixa Biosciences Inc"
+  },
+  "ANKM": {
+    "fetched_at": 1790348855.953557,
+    "market_cap": 27350000.0,
+    "name": "Ankam Inc"
+  },
+  "ANKOF": {
+    "fetched_at": 1790348855.953557,
+    "market_cap": 90697101.0,
+    "name": "Angkor Resources Corp"
+  },
+  "ANLBF": {
+    "fetched_at": 1790348855.953557,
+    "market_cap": 69292692.0,
+    "name": "Aton Resources Inc"
+  },
+  "ANMP": {
+    "fetched_at": 1790348855.953557,
+    "market_cap": 1480000.0,
+    "name": "Anacomp Inc"
+  },
+  "ANNA": {
+    "fetched_at": 1790348855.953557,
+    "market_cap": 184738939.9854545,
+    "name": "AleAnna Inc"
+  },
+  "ANNSF": {
+    "fetched_at": 1790348855.953557,
+    "market_cap": 38849999428.0,
+    "name": "Aena SME SA"
+  },
   "ANNX": {
-    "fetched_at": 1790262047.5587022,
-    "market_cap": 733671269.763158,
+    "fetched_at": 1790348855.953557,
+    "market_cap": 720400739.0697674,
     "name": "Annexon Inc"
   },
+  "ANORF": {
+    "fetched_at": 1790348855.953557,
+    "market_cap": 23184120.0,
+    "name": "AnorTech Inc"
+  },
+  "ANPA": {
+    "fetched_at": 1790348855.953557,
+    "market_cap": 31260633.532994922,
+    "name": "Rich Sparkle Holdings Ltd"
+  },
+  "ANPCF": {
+    "fetched_at": 1790348855.953557,
+    "market_cap": 9943523.0,
+    "name": "Cellbxhealth PLC"
+  },
+  "ANPDF": {
+    "fetched_at": 1790348855.953557,
+    "market_cap": 199309674048.0,
+    "name": "ANTA Sports Products Ltd"
+  },
+  "ANPMF": {
+    "fetched_at": 1790348855.953557,
+    "market_cap": 878350000.0,
+    "name": "Andean Precious Metals Corp"
+  },
+  "ANRCF": {
+    "fetched_at": 1790348855.953557,
+    "market_cap": 7093825.0,
+    "name": "Altona Rare Earths PLC"
+  },
+  "ANRGF": {
+    "fetched_at": 1790348855.953557,
+    "market_cap": 428976051.0,
+    "name": "Anaergia Inc"
+  },
+  "ANRO": {
+    "fetched_at": 1790348855.953557,
+    "market_cap": 1066600374.8596363,
+    "name": "Alto Neuroscience Inc"
+  },
+  "ANSLF": {
+    "fetched_at": 1790348855.953557,
+    "market_cap": 5971919248.0,
+    "name": "Ansell Ltd"
+  },
+  "ANSNF": {
+    "fetched_at": 1790348855.953557,
+    "market_cap": 73062963.0,
+    "name": "Anson Resources Ltd"
+  },
+  "ANTA": {
+    "fetched_at": 1790348855.953557,
+    "market_cap": 69938180.75483872,
+    "name": "Antalpha Platform Holding Co"
+  },
+  "ANTCF": {
+    "fetched_at": 1790348855.953557,
+    "market_cap": 2380000.0,
+    "name": "Aion Therapeutic Inc"
+  },
+  "ANTH": {
+    "fetched_at": 1790348855.953557,
+    "market_cap": 26.0,
+    "name": "Anthera Pharmaceuticals Inc"
+  },
+  "ANTMF": {
+    "fetched_at": 1790348855.953557,
+    "market_cap": 25535170.0,
+    "name": "Antilles Gold Ltd"
+  },
+  "ANTOF": {
+    "fetched_at": 1790348855.953557,
+    "market_cap": 608868360886.0,
+    "name": "Iida Group Holdings Co Ltd"
+  },
+  "ANTRF": {
+    "fetched_at": 1790348855.953557,
+    "market_cap": 26491874027.0,
+    "name": "Artnature Inc"
+  },
+  "ANTX": {
+    "fetched_at": 1790348855.953557,
+    "market_cap": 184530194.16149068,
+    "name": "AN2 Therapeutics Inc"
+  },
+  "ANVI": {
+    "fetched_at": 1790348855.953557,
+    "market_cap": 6000000.0,
+    "name": "Anvi Global Holdings Inc"
+  },
+  "ANVS": {
+    "fetched_at": 1790348855.953557,
+    "market_cap": 56763146.4488189,
+    "name": "Annovis Bio Inc"
+  },
+  "ANVV": {
+    "fetched_at": 1790348855.953557,
+    "market_cap": 42.7387,
+    "name": "Anvia Holdings Corp"
+  },
+  "ANXMF": {
+    "fetched_at": 1790348855.953557,
+    "market_cap": 69743407.0,
+    "name": "Anax Metals Ltd"
+  },
+  "ANYCF": {
+    "fetched_at": 1790348855.953557,
+    "market_cap": 189991537666.0,
+    "name": "Anycolor Inc"
+  },
+  "ANZFF": {
+    "fetched_at": 1790348855.953557,
+    "market_cap": 1309592619.0,
+    "name": "Air New Zealand Ltd"
+  },
+  "ANZGF": {
+    "fetched_at": 1790348855.953557,
+    "market_cap": 113972393432.0,
+    "name": "ANZ Group Holdings Ltd"
+  },
+  "AOAO": {
+    "fetched_at": 1790348855.953557,
+    "market_cap": 38954458.99999999,
+    "name": "Alpha One Inc"
+  },
+  "AOBI": {
+    "fetched_at": 1790348855.953557,
+    "market_cap": 949.0,
+    "name": "American Oriental Bioengineering Inc"
+  },
+  "AOCIF": {
+    "fetched_at": 1790348855.953557,
+    "market_cap": 504348926.0,
+    "name": "AutoCanada Inc"
+  },
+  "AOECF": {
+    "fetched_at": 1790348855.953557,
+    "market_cap": 610000.0,
+    "name": "Aferian PLC"
+  },
+  "AOGC": {
+    "fetched_at": 1790348855.953557,
+    "market_cap": 49.451,
+    "name": "Australian Oil & Gas Corp"
+  },
+  "AOGO": {
+    "fetched_at": 1790348855.953557,
+    "market_cap": 8750000.0,
+    "name": "Arogo Capital Acquisition Corp"
+  },
+  "AOHLF": {
+    "fetched_at": 1790348855.953557,
+    "market_cap": 525483386.0,
+    "name": "Autohellas SA"
+  },
+  "AOKNF": {
+    "fetched_at": 1790348855.953557,
+    "market_cap": 144229610893.0,
+    "name": "Aoki Holdings Inc"
+  },
+  "AOLS": {
+    "fetched_at": 1790348855.953557,
+    "market_cap": 152.08599999999998,
+    "name": "Aeolus Pharmaceuticals Inc"
+  },
+  "AOMFF": {
+    "fetched_at": 1790348855.953557,
+    "market_cap": 6860595657.0,
+    "name": "Alstom SA"
+  },
+  "AOMSF": {
+    "fetched_at": 1790348855.953557,
+    "market_cap": 604389267.0,
+    "name": "Automated Systems Holdings Ltd"
+  },
+  "AON": {
+    "fetched_at": 1790348855.953557,
+    "market_cap": 58565714690.46647,
+    "name": "Aon PLC"
+  },
+  "AONC": {
+    "fetched_at": 1790348855.953557,
+    "market_cap": 338473102.0,
+    "name": "American Oncology Network Inc"
+  },
+  "AONNF": {
+    "fetched_at": 1790348855.953557,
+    "market_cap": 3641830431030.0,
+    "name": "Aeon Co Ltd"
+  },
+  "AOOO": {
+    "fetched_at": 1790348855.953557,
+    "market_cap": 2150.0,
+    "name": "Autoco Inc"
+  },
+  "AOREF": {
+    "fetched_at": 1790348855.953557,
+    "market_cap": 46978998.947614044,
+    "name": "American Overseas Group Ltd"
+  },
+  "AORT": {
+    "fetched_at": 1790348855.953557,
+    "market_cap": 1122855820.3977902,
+    "name": "Artivion Inc"
+  },
+  "AOS": {
+    "fetched_at": 1790348855.953557,
+    "market_cap": 7841924699.054383,
+    "name": "A O Smith Corp"
+  },
+  "AOSL": {
+    "fetched_at": 1790348855.953557,
+    "market_cap": 826380263.8563695,
+    "name": "Alpha and Omega Semiconductor Ltd"
+  },
+  "AOTXF": {
+    "fetched_at": 1790348855.953557,
+    "market_cap": 7688992023.0,
+    "name": "Apotex Health Corp"
+  },
   "AOUT": {
-    "fetched_at": 1790127293.13428,
-    "market_cap": 210522022.34581107,
+    "fetched_at": 1790348855.953557,
+    "market_cap": 214939454.7874016,
     "name": "American Outdoor Brands Inc"
   },
+  "AOVTF": {
+    "fetched_at": 1790348855.953557,
+    "market_cap": 10000.0,
+    "name": "Andover Mining Corp"
+  },
+  "AOWDF": {
+    "fetched_at": 1790348855.953557,
+    "market_cap": 515410670.0,
+    "name": "AO World plc"
+  },
+  "AOXG": {
+    "fetched_at": 1790348855.953557,
+    "market_cap": 838660.0,
+    "name": "Aoxing Pharmaceutical Company Inc"
+  },
+  "AOXY": {
+    "fetched_at": 1790348855.953557,
+    "market_cap": 250264.0,
+    "name": "Advanced Oxygen Technologies Inc"
+  },
+  "AOZOF": {
+    "fetched_at": 1790348855.953557,
+    "market_cap": 482191577545.0,
+    "name": "Aozora Bank Ltd"
+  },
+  "AP": {
+    "fetched_at": 1790348855.953557,
+    "market_cap": 179110244.25534442,
+    "name": "Ampco-Pittsburgh Corp"
+  },
+  "APA": {
+    "fetched_at": 1790348855.953557,
+    "market_cap": 15303353850.848515,
+    "name": "APA Corp (US)"
+  },
+  "APAAF": {
+    "fetched_at": 1790348855.953557,
+    "market_cap": 37025241.0,
+    "name": "Appia Rare Earths & Uranium Corp"
+  },
+  "APAC": {
+    "fetched_at": 1790348855.953557,
+    "market_cap": 82597281.82667965,
+    "name": "StoneBridge Acquisition II Corp"
+  },
+  "APAM": {
+    "fetched_at": 1790348855.953557,
+    "market_cap": 2900779882.079731,
+    "name": "Artisan Partners Asset Management Inc"
+  },
+  "APC": {
+    "fetched_at": 1790348855.953557,
+    "market_cap": 797752604.8161461,
+    "name": "Arko Petroleum Corp"
+  },
+  "APCFF": {
+    "fetched_at": 1790348855.953557,
+    "market_cap": 34878434.0,
+    "name": "Atlas Pearls Ltd"
+  },
+  "APCOF": {
+    "fetched_at": 1790348855.953557,
+    "market_cap": 19015577.0,
+    "name": "American Critical Minerals Corp"
+  },
+  "APCX": {
+    "fetched_at": 1790348855.953557,
+    "market_cap": 10281191.158762887,
+    "name": "AppTech Payments Corp"
+  },
+  "APD": {
+    "fetched_at": 1790348855.953557,
+    "market_cap": 63351807159.24034,
+    "name": "Air Products and Chemicals Inc"
+  },
+  "APEAF": {
+    "fetched_at": 1790348855.953557,
+    "market_cap": 5402950783.0,
+    "name": "Eagers Automotive Ltd"
+  },
+  "APEI": {
+    "fetched_at": 1790348855.953557,
+    "market_cap": 781658890.8576607,
+    "name": "American Public Education Inc"
+  },
+  "APELF": {
+    "fetched_at": 1790348855.953557,
+    "market_cap": 434791085205.0,
+    "name": "Alps Alpine Co Ltd"
+  },
+  "APEOF": {
+    "fetched_at": 1790348855.953557,
+    "market_cap": 8681818.0,
+    "name": "Coloured Ties Capital Inc"
+  },
+  "APETF": {
+    "fetched_at": 1790348855.953557,
+    "market_cap": 8720000.0,
+    "name": "AlphaGen Intelligence Corp"
+  },
+  "APEUF": {
+    "fetched_at": 1790348855.953557,
+    "market_cap": 43702048.0,
+    "name": "Atlas Engineered Products Ltd"
+  },
+  "APG": {
+    "fetched_at": 1790348855.953557,
+    "market_cap": 16499944350.053144,
+    "name": "APi Group Corp"
+  },
+  "APGI": {
+    "fetched_at": 1790348855.953557,
+    "market_cap": 10383553.988950277,
+    "name": "American Power Group Corp"
+  },
+  "APGOF": {
+    "fetched_at": 1790348855.953557,
+    "market_cap": 187652919.0,
+    "name": "Apollo Silver Corp"
+  },
+  "APH": {
+    "fetched_at": 1790348855.953557,
+    "market_cap": 204872547853.70193,
+    "name": "Amphenol Corp"
+  },
+  "APHBF": {
+    "fetched_at": 1790348855.953557,
+    "market_cap": 9967488765.0,
+    "name": "Alpha Bank SA"
+  },
+  "APHD": {
+    "fetched_at": 1790348855.953557,
+    "market_cap": 24474226.000000004,
+    "name": "Apogee 21 Holdings Inc"
+  },
+  "APHP": {
+    "fetched_at": 1790348855.953557,
+    "market_cap": 6996208.0,
+    "name": "American Picture House Corp"
+  },
+  "APLD": {
+    "fetched_at": 1790348855.953557,
+    "market_cap": 7887154152.077119,
+    "name": "Applied Digital Corp"
+  },
+  "APLIF": {
+    "fetched_at": 1790348855.953557,
+    "market_cap": 1323661.0,
+    "name": "Appili Therapeutics Inc"
+  },
+  "APLM": {
+    "fetched_at": 1790348855.953557,
+    "market_cap": 68443380.20683761,
+    "name": "Apollomics Inc"
+  },
+  "APLO": {
+    "fetched_at": 1790348855.953557,
+    "market_cap": 25632752.373464372,
+    "name": "Apollo Bancorp Inc"
+  },
+  "APMC": {
+    "fetched_at": 1790348855.953557,
+    "market_cap": 198787400.99999997,
+    "name": "AmperCap Acquisition Co"
+  },
+  "APMCF": {
+    "fetched_at": 1790348855.953557,
+    "market_cap": 12637986.0,
+    "name": "Morien Resources Corp"
+  },
+  "APMD": {
+    "fetched_at": 1790348855.953557,
+    "market_cap": 900473663.4904401,
+    "name": "Apnimed Inc"
+  },
+  "APMLF": {
+    "fetched_at": 1790348855.953557,
+    "market_cap": 1930000.0,
+    "name": "Apartmentlove Inc"
+  },
+  "APMOF": {
+    "fetched_at": 1790348855.953557,
+    "market_cap": 14695857.0,
+    "name": "Aspermont Ltd"
+  },
+  "APMRF": {
+    "fetched_at": 1790348855.953557,
+    "market_cap": 380771122.0,
+    "name": "Amper SA"
+  },
+  "APMSF": {
+    "fetched_at": 1790348855.953557,
+    "market_cap": 3210511512.0,
+    "name": "Aperam SA"
+  },
+  "APNHF": {
+    "fetched_at": 1790348855.953557,
+    "market_cap": 68359146364.99999,
+    "name": "Aspen Pharmacare Holdings Ltd"
+  },
+  "APNYF": {
+    "fetched_at": 1790348855.953557,
+    "market_cap": 86903961609.0,
+    "name": "Alpen Co Ltd"
+  },
+  "APO": {
+    "fetched_at": 1790348855.953557,
+    "market_cap": 71272660714.0402,
+    "name": "Apollo Global Management Inc"
+  },
   "APOG": {
-    "fetched_at": 1790127293.2549598,
-    "market_cap": 784230576.7725182,
+    "fetched_at": 1790348855.953557,
+    "market_cap": 757727790.3640566,
     "name": "Apogee Enterprises Inc"
   },
+  "APP": {
+    "fetched_at": 1790348855.953557,
+    "market_cap": 104568395834.00365,
+    "name": "Applovin Corp"
+  },
+  "APPB": {
+    "fetched_at": 1790348855.953557,
+    "market_cap": 2200.26,
+    "name": "Applied Biosciences Corp"
+  },
+  "APPCF": {
+    "fetched_at": 1790348855.953557,
+    "market_cap": 3200423448.0,
+    "name": "APAC Resources Ltd"
+  },
+  "APPEF": {
+    "fetched_at": 1790348855.953557,
+    "market_cap": 327598862.0,
+    "name": "Appen Ltd"
+  },
+  "APPF": {
+    "fetched_at": 1790348855.953557,
+    "market_cap": 7240372353.652968,
+    "name": "Appfolio Inc"
+  },
+  "APPIF": {
+    "fetched_at": 1790348855.953557,
+    "market_cap": 155839195038.0,
+    "name": "Appier Group Inc"
+  },
+  "APPLF": {
+    "fetched_at": 1790348855.953557,
+    "market_cap": 31822842264.0,
+    "name": "AlphaPolis Co Ltd"
+  },
+  "APPM": {
+    "fetched_at": 1790348855.953557,
+    "market_cap": 0.0,
+    "name": "Apparel Manufacturing Associates Inc"
+  },
+  "APPN": {
+    "fetched_at": 1790348855.953557,
+    "market_cap": 2693940137.102213,
+    "name": "Appian Corp"
+  },
+  "APPS": {
+    "fetched_at": 1790348855.953557,
+    "market_cap": 1316656801.8856153,
+    "name": "Digital Turbine Inc"
+  },
+  "APPZ": {
+    "fetched_at": 1790348855.953557,
+    "market_cap": 3327.6639999999998,
+    "name": "Monster Arts Inc"
+  },
+  "APQT": {
+    "fetched_at": 1790348855.953557,
+    "market_cap": 540.54,
+    "name": "Appliqate Inc"
+  },
+  "APRAF": {
+    "fetched_at": 1790348855.953557,
+    "market_cap": 22136032.0,
+    "name": "Trailbreaker Resources Ltd"
+  },
+  "APRE": {
+    "fetched_at": 1790348855.953557,
+    "market_cap": 9817308.659230767,
+    "name": "Aprea Therapeutics Inc"
+  },
+  "APRM": {
+    "fetched_at": 1790348855.953557,
+    "market_cap": 3227.0,
+    "name": "American Pacific Rim Commerce Group"
+  },
+  "APRO": {
+    "fetched_at": 1790348855.953557,
+    "market_cap": 10000.0,
+    "name": "Conau Global Inc"
+  },
+  "APRU": {
+    "fetched_at": 1790348855.953557,
+    "market_cap": 5906.679999999999,
+    "name": "Apple Rush Company Inc"
+  },
+  "APSI": {
+    "fetched_at": 1790348855.953557,
+    "market_cap": 161719.0,
+    "name": "Aqua Power Systems Inc"
+  },
+  "APT": {
+    "fetched_at": 1790348855.953557,
+    "market_cap": 50826965.65949119,
+    "name": "Alpha Pro Tech Ltd"
+  },
+  "APTHF": {
+    "fetched_at": 1790348855.953557,
+    "market_cap": 25009899742.0,
+    "name": "AP Thailand PCL"
+  },
+  "APTL": {
+    "fetched_at": 1790348855.953557,
+    "market_cap": 77848014.13311422,
+    "name": "Alaska Power & Telephone Co"
+  },
+  "APTN": {
+    "fetched_at": 1790348855.953557,
+    "market_cap": 57894502.70999999,
+    "name": "Adaptin Bio Inc"
+  },
+  "APTV": {
+    "fetched_at": 1790348855.953557,
+    "market_cap": 9048660211.602833,
+    "name": "APTIV PLC"
+  },
+  "APTY": {
+    "fetched_at": 1790348855.953557,
+    "market_cap": 428029.4,
+    "name": "APT Systems Inc"
+  },
+  "APUR": {
+    "fetched_at": 1790348855.953557,
+    "market_cap": 147778038.09,
+    "name": "Aperture AC"
+  },
+  "APUS": {
+    "fetched_at": 1790348855.953557,
+    "market_cap": 3455880.0,
+    "name": "Apimeds Pharmaceuticals US Inc"
+  },
+  "APVO": {
+    "fetched_at": 1790348855.953557,
+    "market_cap": 3312693.1111111115,
+    "name": "Aptevo Therapeutics Inc"
+  },
+  "APVS": {
+    "fetched_at": 1790348855.953557,
+    "market_cap": 10772.9,
+    "name": "Applied Visual Sciences Inc"
+  },
+  "APWC": {
+    "fetched_at": 1790348855.953557,
+    "market_cap": 27419582.0,
+    "name": "Asia Pacific Wire & Cable Corporation Ltd"
+  },
+  "APWL": {
+    "fetched_at": 1790348855.953557,
+    "market_cap": 203.554,
+    "name": "Advanced Powerline Technologies Inc"
+  },
+  "APXCF": {
+    "fetched_at": 1790348855.953557,
+    "market_cap": 144608311.0,
+    "name": "Apex Critical Metals Corp"
+  },
+  "APXNF": {
+    "fetched_at": 1790348855.953557,
+    "market_cap": 104038307506.0,
+    "name": "Apex Mining Co Inc"
+  },
+  "APXT": {
+    "fetched_at": 1790348855.953557,
+    "market_cap": 466034418.017769,
+    "name": "Apex Treasury Corp"
+  },
+  "APYI": {
+    "fetched_at": 1790348855.953557,
+    "market_cap": 34.06,
+    "name": "Arypsa Inc"
+  },
+  "APYLF": {
+    "fetched_at": 1790348855.953557,
+    "market_cap": 183619006.0,
+    "name": "Asiasec Properties Ltd"
+  },
+  "APYX": {
+    "fetched_at": 1790348855.953557,
+    "market_cap": 119210988.1118644,
+    "name": "Apyx Medical Inc"
+  },
+  "AQB": {
+    "fetched_at": 1790348855.953557,
+    "market_cap": 4536230.749615384,
+    "name": "AquaBounty Technologies Inc"
+  },
+  "AQBN": {
+    "fetched_at": 1790348855.953557,
+    "market_cap": 30.0,
+    "name": "Diamond Energy Partners Inc"
+  },
+  "AQCP": {
+    "fetched_at": 1790348855.953557,
+    "market_cap": 0.0,
+    "name": "AQ Corp"
+  },
+  "AQFD": {
+    "fetched_at": 1790348855.953557,
+    "market_cap": 3024.0,
+    "name": "Click To Raffle.Com Inc"
+  },
+  "AQIMD": {
+    "fetched_at": 1790348855.953557,
+    "market_cap": 206940000.0,
+    "name": "Alicanto Minerals Ltd"
+  },
+  "AQMS": {
+    "fetched_at": 1790348855.953557,
+    "market_cap": 8873192.386921635,
+    "name": "Aqua Metals Inc"
+  },
+  "AQN": {
+    "fetched_at": 1790348855.953557,
+    "market_cap": 5520196362.0,
+    "name": "Algonquin Power & Utilities Corp"
+  },
+  "AQPW": {
+    "fetched_at": 1790348855.953557,
+    "market_cap": 740000.0,
+    "name": "Golden Ally Lifetech Group Inc"
+  },
+  "AQQRF": {
+    "fetched_at": 1790348855.953557,
+    "market_cap": 275992.0,
+    "name": "Aquarius Surgical Technologies Inc"
+  },
+  "AQST": {
+    "fetched_at": 1790348855.953557,
+    "market_cap": 604966128.387234,
+    "name": "Aquestive Therapeutics Inc"
+  },
+  "AQSZF": {
+    "fetched_at": 1790348855.953557,
+    "market_cap": 660000.0,
+    "name": "Aequus Pharmaceuticals Inc"
+  },
+  "AQUC": {
+    "fetched_at": 1790348855.953557,
+    "market_cap": 18900000.0,
+    "name": "Aquaron Acquisition Corp"
+  },
+  "AQUEF": {
+    "fetched_at": 1790348855.953557,
+    "market_cap": 127620000.0,
+    "name": "Veloryx Ltd"
+  },
+  "AQUI": {
+    "fetched_at": 1790348855.953557,
+    "market_cap": 3797854.0,
+    "name": "Aquagold International Inc"
+  },
+  "AR": {
+    "fetched_at": 1790348855.953557,
+    "market_cap": 11095473817.752035,
+    "name": "Antero Resources Corp"
+  },
+  "ARAAF": {
+    "fetched_at": 1790348855.953557,
+    "market_cap": 932643912.0,
+    "name": "Aclara Resources Inc"
+  },
+  "ARAFF": {
+    "fetched_at": 1790348855.953557,
+    "market_cap": 1123631570.0,
+    "name": "Arafura Rare Earths Ltd"
+  },
+  "ARAI": {
+    "fetched_at": 1790348855.953557,
+    "market_cap": 12144220.599917594,
+    "name": "Arrive AI Inc"
+  },
+  "ARAO": {
+    "fetched_at": 1790348855.953557,
+    "market_cap": 30000.0,
+    "name": "AuraSource Inc"
+  },
+  "ARAT": {
+    "fetched_at": 1790348855.953557,
+    "market_cap": 4132513.0000000005,
+    "name": "Arax Holdings Corp."
+  },
+  "ARAY": {
+    "fetched_at": 1790348855.953557,
+    "market_cap": 26634965.729490023,
+    "name": "Accuray Inc"
+  },
+  "ARBB": {
+    "fetched_at": 1790348855.953557,
+    "market_cap": 7414158.999999999,
+    "name": "ARB IOT Group Ltd"
+  },
+  "ARBE": {
+    "fetched_at": 1790348855.953557,
+    "market_cap": 85857593.11132608,
+    "name": "Arbe Robotics Ltd"
+  },
+  "ARBFF": {
+    "fetched_at": 1790348855.953557,
+    "market_cap": 1526796459.0,
+    "name": "ARB Corporation Ltd"
+  },
+  "ARBH": {
+    "fetched_at": 1790348855.953557,
+    "market_cap": 4535.0,
+    "name": "Arboreta Healthcare Inc"
+  },
+  "ARBTF": {
+    "fetched_at": 1790348855.953557,
+    "market_cap": 8038555.000000001,
+    "name": "Argo Gold Inc"
+  },
+  "ARBU": {
+    "fetched_at": 1790348855.953557,
+    "market_cap": 69.9,
+    "name": "American Business Corp"
+  },
+  "ARBV": {
+    "fetched_at": 1790348855.953557,
+    "market_cap": 164473513.17972025,
+    "name": "American Riviera Bank"
+  },
+  "ARCB": {
+    "fetched_at": 1790348855.953557,
+    "market_cap": 2846444805.2883735,
+    "name": "ArcBest Corp"
+  },
+  "ARCC": {
+    "fetched_at": 1790348855.953557,
+    "market_cap": 13735777577.522194,
+    "name": "Ares Capital Corp"
+  },
+  "ARCI": {
+    "fetched_at": 1790348855.953557,
+    "market_cap": 356146224.0,
+    "name": "Archimedes Tech SPAC Partners III Co"
+  },
+  "ARCL": {
+    "fetched_at": 1790348855.953557,
+    "market_cap": 179150670.0,
+    "name": "ARC Group Acquisition I Corp"
+  },
+  "ARCNF": {
+    "fetched_at": 1790348855.953557,
+    "market_cap": 330119059.0,
+    "name": "K33 AB (publ)"
+  },
+  "ARCO": {
+    "fetched_at": 1790348855.953557,
+    "market_cap": 1506399306.8178139,
+    "name": "Arcos Dorados Holdings Inc"
+  },
+  "ARCPF": {
+    "fetched_at": 1790348855.953557,
+    "market_cap": 641794.0,
+    "name": "ARCpoint Inc"
+  },
+  "ARCS": {
+    "fetched_at": 1790348855.953557,
+    "market_cap": 114086.78,
+    "name": "Arcis Resources Corp"
+  },
   "ARCT": {
-    "fetched_at": 1790258386.6938367,
-    "market_cap": 378026820.27120996,
+    "fetched_at": 1790348855.953557,
+    "market_cap": 401333739.9067669,
     "name": "Arcturus Therapeutics Holdings Inc"
   },
+  "ARCVF": {
+    "fetched_at": 1790348855.953557,
+    "market_cap": 3587181082.0,
+    "name": "Arcadis NV"
+  },
+  "ARCXF": {
+    "fetched_at": 1790348855.953557,
+    "market_cap": 1538165817.0,
+    "name": "Arcelormittal South Africa Ltd"
+  },
+  "ARDDF": {
+    "fetched_at": 1790348855.953557,
+    "market_cap": 69840000.0,
+    "name": "Ardiden Ltd"
+  },
+  "ARDLF": {
+    "fetched_at": 1790348855.953557,
+    "market_cap": 186509703.0,
+    "name": "Coast Entertainment Holdings Ltd"
+  },
+  "ARDNF": {
+    "fetched_at": 1790348855.953557,
+    "market_cap": 40861758.0,
+    "name": "Argent Minerals Ltd"
+  },
+  "ARDS": {
+    "fetched_at": 1790348855.953557,
+    "market_cap": 4457.0,
+    "name": "Aridis Pharmaceuticals Inc"
+  },
   "ARDT": {
-    "fetched_at": 1790231462.5368469,
-    "market_cap": 1500728495.5178087,
+    "fetched_at": 1790348855.953557,
+    "market_cap": 1478161223.0827065,
     "name": "Ardent Health Inc"
   },
+  "ARDX": {
+    "fetched_at": 1790348855.953557,
+    "market_cap": 859697142.672414,
+    "name": "Ardelyx Inc"
+  },
+  "AREB": {
+    "fetched_at": 1790348855.953557,
+    "market_cap": 2483895.079545455,
+    "name": "American Rebel Holdings Inc"
+  },
+  "AREC": {
+    "fetched_at": 1790348855.953557,
+    "market_cap": 201105996.62599468,
+    "name": "American Resources Corp"
+  },
+  "AREHF": {
+    "fetched_at": 1790348855.953557,
+    "market_cap": 28256777.0,
+    "name": "Australian Rare Earths Ltd"
+  },
+  "ARES": {
+    "fetched_at": 1790348855.953557,
+    "market_cap": 26899564072.10446,
+    "name": "Ares Management Corp"
+  },
+  "ARET": {
+    "fetched_at": 1790348855.953557,
+    "market_cap": 1661.5900000000001,
+    "name": "Arete Industries Inc"
+  },
+  "AREVF": {
+    "fetched_at": 1790348855.953557,
+    "market_cap": 2840000.0,
+    "name": "AREV Life Sciences Global Corp"
+  },
+  "ARGC": {
+    "fetched_at": 1790348855.953557,
+    "market_cap": 19070000.0,
+    "name": "Arion Group Corp"
+  },
+  "ARGHF": {
+    "fetched_at": 1790348855.953557,
+    "market_cap": 86918365.0,
+    "name": "Argo Corp"
+  },
+  "ARGNF": {
+    "fetched_at": 1790348855.953557,
+    "market_cap": 52288477348.0,
+    "name": "argenx SE"
+  },
+  "ARGPF": {
+    "fetched_at": 1790348855.953557,
+    "market_cap": 88275452934.0,
+    "name": "Argo Graphics Inc"
+  },
+  "ARGTF": {
+    "fetched_at": 1790348855.953557,
+    "market_cap": 9322967303.0,
+    "name": "Artemis Gold Inc"
+  },
+  "ARGYF": {
+    "fetched_at": 1790348855.953557,
+    "market_cap": 59321099.0,
+    "name": "Avanti Helium Corp"
+  },
+  "ARHBS": {
+    "fetched_at": 1790348855.953557,
+    "market_cap": 0.0,
+    "name": "RSE Archive LLC"
+  },
+  "ARHCF": {
+    "fetched_at": 1790348855.953557,
+    "market_cap": 449019762955.0,
+    "name": "Alfresa Holdings Corp"
+  },
+  "ARHES": {
+    "fetched_at": 1790348855.953557,
+    "market_cap": 0.0,
+    "name": "RSE Archive LLC"
+  },
+  "ARHGS": {
+    "fetched_at": 1790348855.953557,
+    "market_cap": 0.0,
+    "name": "RSE Collection LLC"
+  },
+  "ARHHS": {
+    "fetched_at": 1790348855.953557,
+    "market_cap": 0.0,
+    "name": "RSE Archive LLC"
+  },
+  "ARHIS": {
+    "fetched_at": 1790348855.953557,
+    "market_cap": 0.0,
+    "name": "RSE Archive LLC"
+  },
+  "ARHKS": {
+    "fetched_at": 1790348855.953557,
+    "market_cap": 0.0,
+    "name": "RSE Archive LLC"
+  },
+  "ARHLF": {
+    "fetched_at": 1790348855.953557,
+    "market_cap": 35316407.0,
+    "name": "Archtis Ltd"
+  },
+  "ARHMS": {
+    "fetched_at": 1790348855.953557,
+    "market_cap": 0.0,
+    "name": "RSE Archive LLC"
+  },
+  "ARHN": {
+    "fetched_at": 1790348855.953557,
+    "market_cap": 34758000.0,
+    "name": "Archon Corp"
+  },
+  "ARHOF": {
+    "fetched_at": 1790348855.953557,
+    "market_cap": 2152450986.0,
+    "name": "Amrest Holdings SE"
+  },
+  "ARHPS": {
+    "fetched_at": 1790348855.953557,
+    "market_cap": 0.0,
+    "name": "RSE Archive LLC"
+  },
+  "ARHQS": {
+    "fetched_at": 1790348855.953557,
+    "market_cap": 0.0,
+    "name": "RSE Archive LLC"
+  },
+  "ARHRS": {
+    "fetched_at": 1790348855.953557,
+    "market_cap": 0.0,
+    "name": "RSE Archive LLC"
+  },
+  "ARHS": {
+    "fetched_at": 1790348855.953557,
+    "market_cap": 1342388963.31153,
+    "name": "Arhaus Inc"
+  },
+  "ARHUF": {
+    "fetched_at": 1790348855.953557,
+    "market_cap": 47682000488.0,
+    "name": "AAK AB (publ)"
+  },
+  "ARHVF": {
+    "fetched_at": 1790348855.953557,
+    "market_cap": 2153424566.0,
+    "name": "Archer Ltd"
+  },
+  "ARHWS": {
+    "fetched_at": 1790348855.953557,
+    "market_cap": 0.0,
+    "name": "RSE Archive LLC"
+  },
+  "ARHXS": {
+    "fetched_at": 1790348855.953557,
+    "market_cap": 0.0,
+    "name": "RSE Archive LLC"
+  },
+  "ARHYS": {
+    "fetched_at": 1790348855.953557,
+    "market_cap": 0.0,
+    "name": "RSE Archive LLC"
+  },
+  "ARHZS": {
+    "fetched_at": 1790348855.953557,
+    "market_cap": 0.0,
+    "name": "RSE Archive LLC"
+  },
+  "ARIKF": {
+    "fetched_at": 1790348855.953557,
+    "market_cap": 53954072.0,
+    "name": "Arika Resources Ltd"
+  },
+  "ARIS": {
+    "fetched_at": 1790348855.953557,
+    "market_cap": 5488175869.0,
+    "name": "Aris Gold Corp"
+  },
+  "ARIZF": {
+    "fetched_at": 1790348855.953557,
+    "market_cap": 1738954.0,
+    "name": "Affinity Metals Corp"
+  },
+  "ARKAF": {
+    "fetched_at": 1790348855.953557,
+    "market_cap": 4353423214.0,
+    "name": "Arkema SA"
+  },
+  "ARKO": {
+    "fetched_at": 1790348855.953557,
+    "market_cap": 474545608.0,
+    "name": "Arko Corp."
+  },
+  "ARKPS": {
+    "fetched_at": 1790348855.953557,
+    "market_cap": 0.0,
+    "name": "Ark7 Properties Plus LLC"
+  },
+  "ARKR": {
+    "fetched_at": 1790348855.953557,
+    "market_cap": 16444075.74683544,
+    "name": "Ark Restaurants Corp"
+  },
+  "ARL": {
+    "fetched_at": 1790348855.953557,
+    "market_cap": 254233140.94846797,
+    "name": "American Realty Investors Inc"
+  },
+  "ARLCF": {
+    "fetched_at": 1790348855.953557,
+    "market_cap": 45255476486.0,
+    "name": "Arealink Co Ltd"
+  },
+  "ARLO": {
+    "fetched_at": 1790348855.953557,
+    "market_cap": 1401125204.125915,
+    "name": "Arlo Technologies Inc"
+  },
+  "ARLSF": {
+    "fetched_at": 1790348855.953557,
+    "market_cap": 31442160.0,
+    "name": "Argo Graphene Solutions Corp"
+  },
+  "ARLUF": {
+    "fetched_at": 1790348855.953557,
+    "market_cap": 35646048841.0,
+    "name": "Aristocrat Leisure Ltd"
+  },
+  "ARLYF": {
+    "fetched_at": 1790348855.953557,
+    "market_cap": 2842015.0,
+    "name": "Argyle Resources Corp"
+  },
+  "ARMC": {
+    "fetched_at": 1790348855.953557,
+    "market_cap": 1620000.0,
+    "name": "Un Monde International Ltd"
+  },
+  "ARMK": {
+    "fetched_at": 1790348855.953557,
+    "market_cap": 14320111775.602652,
+    "name": "Aramark"
+  },
+  "ARMM": {
+    "fetched_at": 1790348855.953557,
+    "market_cap": 20000.0,
+    "name": "Current Energy and Renewables Corp"
+  },
   "ARMP": {
-    "fetched_at": 1790171126.9315941,
-    "market_cap": 156164325.07042253,
+    "fetched_at": 1790348855.953557,
+    "market_cap": 134598772.37362635,
     "name": "Armata Pharmaceuticals Inc"
   },
+  "ARMV": {
+    "fetched_at": 1790348855.953557,
+    "market_cap": 2448.0,
+    "name": "Arma Services Inc"
+  },
+  "ARNI": {
+    "fetched_at": 1790348855.953557,
+    "market_cap": 4984.35,
+    "name": "Arno Therapeutics Inc"
+  },
+  "ARNMF": {
+    "fetched_at": 1790348855.953557,
+    "market_cap": 87356027.0,
+    "name": "ARN Media Ltd"
+  },
+  "AROAF": {
+    "fetched_at": 1790348855.953557,
+    "market_cap": 183328394.0,
+    "name": "Aroa Biosurgery Ltd"
+  },
+  "AROC": {
+    "fetched_at": 1790348855.953557,
+    "market_cap": 5379375405.972762,
+    "name": "Archrock Inc"
+  },
+  "AROW": {
+    "fetched_at": 1790348855.953557,
+    "market_cap": 691490624.7151743,
+    "name": "Arrow Financial Corp"
+  },
+  "ARPC": {
+    "fetched_at": 1790348855.953557,
+    "market_cap": 373.95052999999996,
+    "name": "Arem Pacific Corp"
+  },
+  "ARPRF": {
+    "fetched_at": 1790348855.953557,
+    "market_cap": 892856262207.0,
+    "name": "Airports of Thailand PCL"
+  },
+  "ARPTF": {
+    "fetched_at": 1790348855.953557,
+    "market_cap": 5628557617.0,
+    "name": "Airport City Ltd"
+  },
+  "ARQ": {
+    "fetched_at": 1790348855.953557,
+    "market_cap": 87773650.51470588,
+    "name": "Arq Inc"
+  },
   "ARQQ": {
-    "fetched_at": 1790261400.6409807,
-    "market_cap": 392250348.4010417,
+    "fetched_at": 1790348855.953557,
+    "market_cap": 402343747.51020414,
     "name": "Arqit Quantum Inc"
   },
+  "ARQT": {
+    "fetched_at": 1790348855.953557,
+    "market_cap": 3301927768.4867325,
+    "name": "Arcutis Biotherapeutics Inc"
+  },
+  "ARREF": {
+    "fetched_at": 1790348855.953557,
+    "market_cap": 1409386600.0,
+    "name": "Amerigo Resources Ltd"
+  },
+  "ARRJF": {
+    "fetched_at": 1790348855.953557,
+    "market_cap": 7849691047.0,
+    "name": "Arjo AB (publ)"
+  },
+  "ARRKF": {
+    "fetched_at": 1790348855.953557,
+    "market_cap": 206660421.0,
+    "name": "Arras Minerals Corp."
+  },
+  "ARRNF": {
+    "fetched_at": 1790348855.953557,
+    "market_cap": 227217029.0,
+    "name": "American Rare Earths Ltd"
+  },
+  "ARRRF": {
+    "fetched_at": 1790348855.953557,
+    "market_cap": 94477069.0,
+    "name": "Ardea Resources Ltd"
+  },
+  "ARRT": {
+    "fetched_at": 1790348855.953557,
+    "market_cap": 1520066.8096349996,
+    "name": "Artisan Consumer Goods Inc"
+  },
+  "ARRXF": {
+    "fetched_at": 1790348855.953557,
+    "market_cap": 51174681.0,
+    "name": "Archer Materials Ltd"
+  },
   "ARRY": {
-    "fetched_at": 1790254740.8417933,
-    "market_cap": 594469690.8080808,
+    "fetched_at": 1790348855.953557,
+    "market_cap": 605250207.0388601,
     "name": "Array Technologies Inc"
+  },
+  "ARSC": {
+    "fetched_at": 1790348855.953557,
+    "market_cap": 22430.0,
+    "name": "Bitcoin Crypto Currency Exchange Corp"
+  },
+  "ARSEF": {
+    "fetched_at": 1790348855.953557,
+    "market_cap": 2520000.0,
+    "name": "Altai Resources Inc"
+  },
+  "ARSLF": {
+    "fetched_at": 1790348855.953557,
+    "market_cap": 36690000.0,
+    "name": "Altima Energy Inc"
+  },
+  "ARSMF": {
+    "fetched_at": 1790348855.953557,
+    "market_cap": 87626922.0,
+    "name": "Ares Strategic Mining Inc"
+  },
+  "ARSRF": {
+    "fetched_at": 1790348855.953557,
+    "market_cap": 750361084.0,
+    "name": "Aeris Resources Ltd"
+  },
+  "ARSUF": {
+    "fetched_at": 1790348855.953557,
+    "market_cap": 1603266489.0,
+    "name": "Fagron NV"
+  },
+  "ARSWF": {
+    "fetched_at": 1790348855.953557,
+    "market_cap": 88552768661.0,
+    "name": "Arisawa Mfg Co Ltd"
+  },
+  "ARTC": {
+    "fetched_at": 1790348855.953557,
+    "market_cap": 348333313.6272544,
+    "name": "Art Technology Acquisition Corp"
+  },
+  "ARTGF": {
+    "fetched_at": 1790348855.953557,
+    "market_cap": 158660000.0,
+    "name": "Airthings ASA"
+  },
+  "ARTL": {
+    "fetched_at": 1790348855.953557,
+    "market_cap": 2831991.622435021,
+    "name": "Artelo Biosciences Inc"
+  },
+  "ARTM": {
+    "fetched_at": 1790348855.953557,
+    "market_cap": 1919744.0,
+    "name": "American Nortel Communications Inc"
+  },
+  "ARTNA": {
+    "fetched_at": 1790348855.953557,
+    "market_cap": 343890823.1940741,
+    "name": "Artesian Resources Corp"
+  },
+  "ARTNB": {
+    "fetched_at": 1790348855.953557,
+    "market_cap": 343890823.1940741,
+    "name": "Artesian Resources Corp"
+  },
+  "ARTR": {
+    "fetched_at": 1790348855.953557,
+    "market_cap": 32.25,
+    "name": "Airtrona International Inc"
+  },
+  "ARTTF": {
+    "fetched_at": 1790348855.953557,
+    "market_cap": 20307228.0,
+    "name": "Artemis Resources Ltd"
+  },
+  "ARTV": {
+    "fetched_at": 1790348855.953557,
+    "market_cap": 366186999.38212436,
+    "name": "Artiva Biotherapeutics Inc"
+  },
+  "ARTW": {
+    "fetched_at": 1790348855.953557,
+    "market_cap": 17060547.507886436,
+    "name": "Art's Way Manufacturing Co Inc"
+  },
+  "ARUXF": {
+    "fetched_at": 1790348855.953557,
+    "market_cap": 5799314.0,
+    "name": "Acrux Ltd"
+  },
+  "ARVLF": {
+    "fetched_at": 1790348855.953557,
+    "market_cap": 18.0,
+    "name": "Arrival SA"
   },
   "ARVN": {
     "fetched_at": 1790348054.6352067,
     "market_cap": 509358433.33205616,
     "name": "Arvinas Inc"
+  },
+  "ARVY": {
+    "fetched_at": 1790348855.953557,
+    "market_cap": 9089126.0,
+    "name": "Alliance Recovery Corp"
+  },
+  "ARW": {
+    "fetched_at": 1790348855.953557,
+    "market_cap": 11572330005.16652,
+    "name": "Arrow Electronics Inc"
+  },
+  "ARWD": {
+    "fetched_at": 1790348855.953557,
+    "market_cap": 767.54,
+    "name": "Arrow Resources Development Inc"
+  },
+  "ARWR": {
+    "fetched_at": 1790348855.953557,
+    "market_cap": 9332682759.68623,
+    "name": "Arrowhead Pharmaceuticals Inc"
+  },
+  "ARWYF": {
+    "fetched_at": 1790348855.953557,
+    "market_cap": 1738852.0,
+    "name": "Arway Corp"
+  },
+  "ARX": {
+    "fetched_at": 1790348855.953557,
+    "market_cap": 4287301948.9716015,
+    "name": "Accelerant Holdings"
+  },
+  "ARXRF": {
+    "fetched_at": 1790348855.953557,
+    "market_cap": 5163420.0,
+    "name": "Imagine Lithium Inc"
+  },
+  "ARXS": {
+    "fetched_at": 1790348855.953557,
+    "market_cap": 22101391093.1939,
+    "name": "Arxis Inc"
+  },
+  "ARYC": {
+    "fetched_at": 1790348855.953557,
+    "market_cap": 793.4749999999999,
+    "name": "Arrayit Corp"
+  },
+  "ARYMF": {
+    "fetched_at": 1790348855.953557,
+    "market_cap": 52057417.0,
+    "name": "Argosy Minerals Ltd"
+  },
+  "ARYTF": {
+    "fetched_at": 1790348855.953557,
+    "market_cap": 1668242366.0,
+    "name": "Aryt Industries Ltd"
+  },
+  "ARZGF": {
+    "fetched_at": 1790348855.953557,
+    "market_cap": 66084097829.00001,
+    "name": "Assicurazioni Generali SpA"
+  },
+  "ARZTF": {
+    "fetched_at": 1790348855.953557,
+    "market_cap": 915124310.0,
+    "name": "Aryzta AG"
+  },
+  "AS": {
+    "fetched_at": 1790348855.953557,
+    "market_cap": 15575375294.279552,
+    "name": "Amer Sports Inc"
+  },
+  "ASAAF": {
+    "fetched_at": 1790348855.953557,
+    "market_cap": 5221440000.0,
+    "name": "AT & S Austria Technologie & Systemtechnik AG"
+  },
+  "ASAGF": {
+    "fetched_at": 1790348855.953557,
+    "market_cap": 783262587.0,
+    "name": "Australian Agricultural Company Ltd"
+  },
+  "ASAKF": {
+    "fetched_at": 1790348855.953557,
+    "market_cap": 1666643184.0,
+    "name": "Ashot Ashkelon Industries Ltd"
+  },
+  "ASAN": {
+    "fetched_at": 1790348855.953557,
+    "market_cap": 2097366359.750792,
+    "name": "Asana Inc"
+  },
+  "ASAPF": {
+    "fetched_at": 1790348855.953557,
+    "market_cap": 10542447.0,
+    "name": "Aurora Spine Corp"
+  },
+  "ASAPQ": {
+    "fetched_at": 1790348855.953557,
+    "market_cap": 13.595099999999999,
+    "name": "Waitr Holdings Inc"
+  },
+  "ASASF": {
+    "fetched_at": 1790348855.953557,
+    "market_cap": 241508016.0,
+    "name": "Asia Standard International Group Ltd"
+  },
+  "ASAZF": {
+    "fetched_at": 1790348855.953557,
+    "market_cap": 396658236083.0,
+    "name": "Assa Abloy AB"
+  },
+  "ASB": {
+    "fetched_at": 1790348855.953557,
+    "market_cap": 5489859533.287657,
+    "name": "Associated Banc-Corp"
+  },
+  "ASBFF": {
+    "fetched_at": 1790348855.953557,
+    "market_cap": 12777671388.0,
+    "name": "Associated British Foods PLC"
+  },
+  "ASBP": {
+    "fetched_at": 1790348855.953557,
+    "market_cap": 12202246.098439375,
+    "name": "Aspire Biopharma Holdings Inc"
+  },
+  "ASBRF": {
+    "fetched_at": 1790348855.953557,
+    "market_cap": 2448302354736.0,
+    "name": "Asahi Group Holdings Ltd"
+  },
+  "ASC": {
+    "fetched_at": 1790348855.953557,
+    "market_cap": 728388894.0408857,
+    "name": "Ardmore Shipping Corp"
+  },
+  "ASCBF": {
+    "fetched_at": 1790348855.953557,
+    "market_cap": 64069999.99999999,
+    "name": "A SPAC II Acquisition Corp"
+  },
+  "ASCC": {
+    "fetched_at": 1790348855.953557,
+    "market_cap": 4276586.516129033,
+    "name": "Aristocrat Group Corp"
+  },
+  "ASCCF": {
+    "fetched_at": 1790348855.953557,
+    "market_cap": 2839246057983.0,
+    "name": "Asics Corp"
   },
   "ASRV": {
     "fetched_at": 1790255395.1836503,
