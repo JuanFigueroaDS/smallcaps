@@ -209,11 +209,6 @@
     "market_cap": 1438608989.2963314,
     "name": "Avalyn Pharma Inc"
   },
-  "AVO": {
-    "fetched_at": 1790045842.5345557,
-    "market_cap": 1122283560.6821706,
-    "name": "Mission Produce Inc"
-  },
   "BALY": {
     "fetched_at": 1790233564.3499517,
     "market_cap": 616232913.3923639,
@@ -239,20 +234,10 @@
     "market_cap": 1230513164.5639744,
     "name": "Beta Bionics Inc"
   },
-  "BHLL": {
-    "fetched_at": 1790045843.4392238,
-    "market_cap": 208185457.0,
-    "name": "Bunker Hill Mining Corp"
-  },
   "BJRI": {
     "fetched_at": 1790297085.2612882,
     "market_cap": 1318122533.6678586,
     "name": "BJ's Restaurants Inc"
-  },
-  "BL": {
-    "fetched_at": 1790045844.3440278,
-    "market_cap": 1660638951.9196875,
-    "name": "BlackLine Inc"
   },
   "BLDP": {
     "fetched_at": 1790127294.1828153,
