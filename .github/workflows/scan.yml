@@ -1,11 +1,7 @@
 name: Small Cap News Scanner
 
 on:
-  schedule:
-    # GitHub Actions no garantiza el minuto exacto bajo carga, pero en la
-    # práctica corre cada ~5 min. LOOKBACK_MINUTES en config.py absorbe el jitter.
-    - cron: "*/5 * * * *"
-  workflow_dispatch: {}   # permite correrlo manualmente desde la pestaña Actions
+ workflow_dispatch: {}   # permite correrlo manualmente desde la pestaña Actions
 
 
 permissions:
