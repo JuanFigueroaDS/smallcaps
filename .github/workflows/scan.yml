@@ -7,10 +7,6 @@ on:
     - cron: "*/5 * * * *"
   workflow_dispatch: {}   # permite correrlo manualmente desde la pestaña Actions
 
-# Evita que se acumulen corridas superpuestas si una tarda más de 5 min.
-concurrency:
-  group: smallcap-scanner
-  cancel-in-progress: false
 
 permissions:
   contents: write   # necesario para commitear el estado de dedup
