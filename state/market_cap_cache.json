@@ -2669,11 +2669,6 @@
     "market_cap": 118110000.0,
     "name": "Aixia Group AB"
   },
-  "AIXC": {
-    "fetched_at": 1790618637.9736025,
-    "market_cap": 36518370.1971831,
-    "name": "Aixcrypto Holdings Inc"
-  },
   "AIXN": {
     "fetched_at": 1790873933.3417552,
     "market_cap": 6500000.0,
@@ -5333,11 +5328,6 @@
     "fetched_at": 1790873933.3417552,
     "market_cap": 14155345811.880207,
     "name": "Aramark"
-  },
-  "ARMM": {
-    "fetched_at": 1790618637.9736025,
-    "market_cap": 20000.0,
-    "name": "Current Energy and Renewables Corp"
   },
   "ARMP": {
     "fetched_at": 1790873933.3417552,
