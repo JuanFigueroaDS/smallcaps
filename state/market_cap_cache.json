@@ -5510,8 +5510,8 @@
     "name": "Artemis Resources Ltd"
   },
   "ARTV": {
-    "fetched_at": 1790873933.3417552,
-    "market_cap": 343941998.7450843,
+    "fetched_at": 1790988150.0891323,
+    "market_cap": 333919527.84830636,
     "name": "Artiva Biotherapeutics Inc"
   },
   "ARTW": {
@@ -5733,5 +5733,10 @@
     "fetched_at": 1790816852.445076,
     "market_cap": 1889135916.7936277,
     "name": "Blackbaud Inc"
+  },
+  "BMRC": {
+    "fetched_at": 1790988150.5690658,
+    "market_cap": 448742621.75715333,
+    "name": "Bank of Marin Bancorp"
   }
 }
