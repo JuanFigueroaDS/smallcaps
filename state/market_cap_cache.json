@@ -3884,11 +3884,6 @@
     "market_cap": 1090460191.8179002,
     "name": "Amphastar Pharmaceuticals, Inc"
   },
-  "AMPL": {
-    "fetched_at": 1790821787.5739298,
-    "market_cap": 1730081480.3739002,
-    "name": "Amplitude Inc"
-  },
   "AMPX": {
     "fetched_at": 1790873933.3417552,
     "market_cap": 1396355545.3985953,
@@ -4273,11 +4268,6 @@
     "fetched_at": 1790873933.3417552,
     "market_cap": 7322659.0,
     "name": "Altona Rare Earths PLC"
-  },
-  "ANRGF": {
-    "fetched_at": 1790821789.6200483,
-    "market_cap": 405492892.0,
-    "name": "Anaergia Inc"
   },
   "ANRO": {
     "fetched_at": 1790873933.3417552,
@@ -5703,16 +5693,6 @@
     "fetched_at": 1790991126.4890668,
     "market_cap": 1811938550.0,
     "name": "Austal Ltd"
-  },
-  "BAGFF": {
-    "fetched_at": 1790821791.667417,
-    "market_cap": 643012623.0,
-    "name": "A G Barr PLC"
-  },
-  "BBAI": {
-    "fetched_at": 1790821792.9777162,
-    "market_cap": 1270660489.0000002,
-    "name": "BigBear.ai Holdings Inc"
   },
   "BBCP": {
     "fetched_at": 1790901193.1510952,
