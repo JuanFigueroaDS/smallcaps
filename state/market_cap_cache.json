@@ -160,13 +160,18 @@
     "name": "A&W Food Services of Canada Inc"
   },
   "BBAI": {
-    "fetched_at": 1792025572.8263152,
-    "market_cap": 1045298071.1129708,
+    "fetched_at": 1792204670.7644813,
+    "market_cap": 1035708100.5321889,
     "name": "BigBear.ai Holdings Inc"
   },
+  "BBCP": {
+    "fetched_at": 1792204671.767477,
+    "market_cap": 457572258.17982453,
+    "name": "Concrete Pumping Holdings Inc"
+  },
   "BCML": {
-    "fetched_at": 1792116470.3467097,
-    "market_cap": 338086827.8717277,
+    "fetched_at": 1792204672.7598765,
+    "market_cap": 340161646.2403101,
     "name": "BayCom Corp"
   },
   "BDIMF": {
