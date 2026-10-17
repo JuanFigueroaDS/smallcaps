@@ -129,6 +129,11 @@
     "market_cap": 520545984.34173656,
     "name": "Array Technologies Inc"
   },
+  "ARVN": {
+    "fetched_at": 1792202554.190007,
+    "market_cap": 455741750.72486025,
+    "name": "Arvinas Inc"
+  },
   "ASIC": {
     "fetched_at": 1792026761.1384487,
     "market_cap": 1254727005.8780391,
@@ -178,6 +183,16 @@
     "fetched_at": 1792116793.6590142,
     "market_cap": 1319857624.0,
     "name": "Black Diamond Group Ltd"
+  },
+  "BIREF": {
+    "fetched_at": 1792202555.080811,
+    "market_cap": 1819627892.0,
+    "name": "Birchcliff Energy Ltd"
+  },
+  "BIRNF": {
+    "fetched_at": 1792202555.8828347,
+    "market_cap": 1543551968.0,
+    "name": "BCI Minerals Ltd"
   },
   "BJRI": {
     "fetched_at": 1792116163.2565122,
