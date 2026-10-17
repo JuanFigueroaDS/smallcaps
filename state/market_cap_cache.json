@@ -54,6 +54,11 @@
     "market_cap": 873619090.2506511,
     "name": "Agencia Comercial Spirits Ltd"
   },
+  "AGIO": {
+    "fetched_at": 1792199548.2356954,
+    "market_cap": 1869862908.1522279,
+    "name": "Agios Pharmaceuticals Inc"
+  },
   "AGXKF": {
     "fetched_at": 1792072552.5479167,
     "market_cap": 485997358.0,
@@ -200,8 +205,8 @@
     "name": "Blacksky Technology Inc"
   },
   "BLBD": {
-    "fetched_at": 1792028266.124033,
-    "market_cap": 1779259295.04485,
+    "fetched_at": 1792199549.194104,
+    "market_cap": 1799007896.5425143,
     "name": "Blue Bird Corp"
   },
   "BMBL": {
