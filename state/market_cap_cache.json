@@ -1,18 +1,13 @@
 {
-  "ABX": {
-    "fetched_at": 1791942749.741809,
-    "market_cap": 794073072.0000001,
-    "name": "Abacus Global Management Inc"
-  },
   "ACB": {
     "fetched_at": 1792196525.512671,
     "market_cap": 381977354.0,
     "name": "Aurora Cannabis Inc"
   },
-  "ACDC": {
-    "fetched_at": 1791942750.6590881,
-    "market_cap": 830479802.7382551,
-    "name": "ProFrac Holding Corp"
+  "ACCO": {
+    "fetched_at": 1792201959.7194724,
+    "market_cap": 417230215.8078602,
+    "name": "ACCO Brands Corp"
   },
   "ACHV": {
     "fetched_at": 1792029155.9712543,
@@ -134,11 +129,6 @@
     "market_cap": 520545984.34173656,
     "name": "Array Technologies Inc"
   },
-  "ARVN": {
-    "fetched_at": 1791942751.5757096,
-    "market_cap": 447241543.73154354,
-    "name": "Arvinas Inc"
-  },
   "ASIC": {
     "fetched_at": 1792026761.1384487,
     "market_cap": 1254727005.8780391,
@@ -203,6 +193,11 @@
     "fetched_at": 1792199549.194104,
     "market_cap": 1799007896.5425143,
     "name": "Blue Bird Corp"
+  },
+  "BLMN": {
+    "fetched_at": 1792201960.7464316,
+    "market_cap": 851928087.2658612,
+    "name": "Bloomin' Brands Inc"
   },
   "BMBL": {
     "fetched_at": 1792197463.7165482,
