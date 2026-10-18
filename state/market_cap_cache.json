@@ -79,11 +79,6 @@
     "market_cap": 1137681559.8222535,
     "name": "Amerant Bancorp Inc"
   },
-  "ANGX": {
-    "fetched_at": 1792024368.304032,
-    "market_cap": 659249836.4772117,
-    "name": "Angel Studios Inc"
-  },
   "AQST": {
     "fetched_at": 1792175562.4637184,
     "market_cap": 509577314.41214746,
@@ -93,11 +88,6 @@
     "fetched_at": 1792029752.0768094,
     "market_cap": 1645996463.5544431,
     "name": "Arcos Dorados Holdings Inc"
-  },
-  "ARRY": {
-    "fetched_at": 1792024062.5604138,
-    "market_cap": 520545984.34173656,
-    "name": "Array Technologies Inc"
   },
   "ARVN": {
     "fetched_at": 1792202554.190007,
@@ -198,6 +188,11 @@
     "fetched_at": 1792199549.194104,
     "market_cap": 1799007896.5425143,
     "name": "Blue Bird Corp"
+  },
+  "BLDP": {
+    "fetched_at": 1792283581.2379947,
+    "market_cap": 832084987.0,
+    "name": "Ballard Power Systems Inc"
   },
   "BLMN": {
     "fetched_at": 1792201960.7464316,
