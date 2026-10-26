@@ -9,10 +9,20 @@
     "market_cap": 811675709.6239719,
     "name": "Abacus Global Management Inc"
   },
+  "ACCV": {
+    "fetched_at": 1793023657.2724764,
+    "market_cap": 1485878160.9142857,
+    "name": "Accelevation Holdings Corp"
+  },
   "AFYA": {
     "fetched_at": 1792974744.8959243,
     "market_cap": 1380020031.5492957,
     "name": "Afya Ltd"
+  },
+  "AGBK": {
+    "fetched_at": 1793023663.051669,
+    "market_cap": 1212269922.3631365,
+    "name": "AGI Inc"
   },
   "AII": {
     "fetched_at": 1792817244.0102282,
@@ -54,6 +64,11 @@
     "market_cap": 1134633177.0,
     "name": "Avino Silver & Gold Mines Ltd"
   },
+  "ASPI": {
+    "fetched_at": 1793023664.9944732,
+    "market_cap": 298186715.9952153,
+    "name": "ASP Isotopes Inc"
+  },
   "ATEX": {
     "fetched_at": 1792805551.048933,
     "market_cap": 1468772975.7408419,
@@ -88,6 +103,11 @@
     "fetched_at": 1792809461.5853302,
     "market_cap": 329465383.99999994,
     "name": "Bold Eagle Acquisition Corp"
+  },
+  "BFST": {
+    "fetched_at": 1793023665.0725482,
+    "market_cap": 1035086232.5860989,
+    "name": "Business First Bancshares Inc"
   },
   "BHB": {
     "fetched_at": 1792847564.7090697,
