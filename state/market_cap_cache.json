@@ -104,9 +104,19 @@
     "market_cap": 1427223278.3507597,
     "name": "Burke & Herbert Financial Services Corp"
   },
+  "BMRC": {
+    "fetched_at": 1793022149.9019077,
+    "market_cap": 439026070.89539135,
+    "name": "Bank of Marin Bancorp"
+  },
   "BOC": {
     "fetched_at": 1793020660.140943,
     "market_cap": 378992187.0,
     "name": "Boston Omaha Corp"
+  },
+  "BORR": {
+    "fetched_at": 1793022165.3400795,
+    "market_cap": 1357456102.1568627,
+    "name": "Borr Drilling Ltd"
   }
 }
