@@ -19,11 +19,6 @@
     "market_cap": 407912838.0,
     "name": "Acacia Research Corp"
   },
-  "AEVA": {
-    "fetched_at": 1792716742.9028447,
-    "market_cap": 688692905.0716981,
-    "name": "Aeva Technologies Inc"
-  },
   "AFYA": {
     "fetched_at": 1792974744.8959243,
     "market_cap": 1380020031.5492957,
@@ -83,11 +78,6 @@
     "fetched_at": 1792802542.7450283,
     "market_cap": 491284525.3,
     "name": "Array Technologies Inc"
-  },
-  "ASC": {
-    "fetched_at": 1792716743.9038284,
-    "market_cap": 790075228.4923546,
-    "name": "Ardmore Shipping Corp"
   },
   "ATEX": {
     "fetched_at": 1792805551.048933,
