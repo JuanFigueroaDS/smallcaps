@@ -103,5 +103,10 @@
     "fetched_at": 1792900962.8992505,
     "market_cap": 1427223278.3507597,
     "name": "Burke & Herbert Financial Services Corp"
+  },
+  "BOC": {
+    "fetched_at": 1793020660.140943,
+    "market_cap": 378992187.0,
+    "name": "Boston Omaha Corp"
   }
 }
