@@ -9,11 +9,6 @@
     "market_cap": 811675709.6239719,
     "name": "Abacus Global Management Inc"
   },
-  "ACCO": {
-    "fetched_at": 1792718551.3634932,
-    "market_cap": 431999454.3576159,
-    "name": "ACCO Brands Corp"
-  },
   "AFYA": {
     "fetched_at": 1792974744.8959243,
     "market_cap": 1380020031.5492957,
@@ -53,11 +48,6 @@
     "fetched_at": 1792891940.163369,
     "market_cap": 1685583864.0349128,
     "name": "Arcos Dorados Holdings Inc"
-  },
-  "ARDT": {
-    "fetched_at": 1792718552.188202,
-    "market_cap": 1743327553.5721393,
-    "name": "Ardent Health Inc"
   },
   "ARLO": {
     "fetched_at": 1792839444.8491397,
