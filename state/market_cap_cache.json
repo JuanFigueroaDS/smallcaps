@@ -19,11 +19,6 @@
     "market_cap": 564928671.1429552,
     "name": "American Integrity Insurance Group Inc"
   },
-  "ALOY": {
-    "fetched_at": 1792760578.4246004,
-    "market_cap": 484544140.92264414,
-    "name": "REalloys Inc"
-  },
   "AMTB": {
     "fetched_at": 1792817536.2206764,
     "market_cap": 1178047109.913014,
@@ -53,6 +48,11 @@
     "fetched_at": 1792977140.312771,
     "market_cap": 1155518232.6617649,
     "name": "Ategrity Specialty Insurance Company Holdings"
+  },
+  "ASM": {
+    "fetched_at": 1793020333.5672927,
+    "market_cap": 1134633177.0,
+    "name": "Avino Silver & Gold Mines Ltd"
   },
   "ATEX": {
     "fetched_at": 1792805551.048933,
