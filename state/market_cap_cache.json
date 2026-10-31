@@ -869,11 +869,6 @@
     "market_cap": 2078726.4,
     "name": "Atacama Resources International Inc"
   },
-  "ACRS": {
-    "fetched_at": 1793149928.0395901,
-    "market_cap": 557883761.0000001,
-    "name": "Aclaris Therapeutics, Inc."
-  },
   "ACRU": {
     "fetched_at": 1793205192.7866173,
     "market_cap": 173629.0,
@@ -5815,8 +5810,8 @@
     "name": "Proximus NV"
   },
   "BJRI": {
-    "fetched_at": 1793290965.0900455,
-    "market_cap": 1287275519.0,
+    "fetched_at": 1793409170.202571,
+    "market_cap": 1330248535.1338494,
     "name": "BJ's Restaurants Inc"
   },
   "BKSY": {
