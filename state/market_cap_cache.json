@@ -5489,11 +5489,6 @@
     "market_cap": 17406195.0,
     "name": "Artemis Resources Ltd"
   },
-  "ARTV": {
-    "fetched_at": 1793153529.8495715,
-    "market_cap": 208760813.64772725,
-    "name": "Artiva Biotherapeutics Inc"
-  },
   "ARTW": {
     "fetched_at": 1793205192.7866173,
     "market_cap": 15306775.0,
@@ -5808,6 +5803,11 @@
     "fetched_at": 1793369056.1840558,
     "market_cap": 1776408500.0,
     "name": "Proximus NV"
+  },
+  "BIRNF": {
+    "fetched_at": 1793412755.3760502,
+    "market_cap": 1528851487.0,
+    "name": "BCI Minerals Ltd"
   },
   "BJRI": {
     "fetched_at": 1793409170.202571,
