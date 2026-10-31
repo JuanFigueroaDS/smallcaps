@@ -1104,11 +1104,6 @@
     "market_cap": 1327137486.5935555,
     "name": "ADI Global Distribution Inc."
   },
-  "ADIL": {
-    "fetched_at": 1793205192.7866173,
-    "market_cap": 9742051.698369564,
-    "name": "Adial Pharmaceuticals Inc"
-  },
   "ADKCF": {
     "fetched_at": 1793461277.3974872,
     "market_cap": 453601506042.0,
@@ -5713,26 +5708,6 @@
     "fetched_at": 1793461277.3974872,
     "market_cap": 635245125.0,
     "name": "Ascopiave SpA"
-  },
-  "ASDZF": {
-    "fetched_at": 1793205192.7866173,
-    "market_cap": 2390000.0,
-    "name": "Arctic Star Exploration Corp"
-  },
-  "ASEJF": {
-    "fetched_at": 1793205192.7866173,
-    "market_cap": 1680716190.0,
-    "name": "APT Satellite Holdings Ltd"
-  },
-  "ASEKF": {
-    "fetched_at": 1793205192.7866173,
-    "market_cap": 1520766892517.0,
-    "name": "Aisin Corp"
-  },
-  "ASFH": {
-    "fetched_at": 1793205192.7866173,
-    "market_cap": 24574752.0,
-    "name": "AsiaFIN Holdings Corp"
   },
   "ASM": {
     "fetched_at": 1793412166.5357738,
