@@ -2989,11 +2989,6 @@
     "market_cap": 227164137834.0,
     "name": "Alfa Laval AB"
   },
-  "ALG": {
-    "fetched_at": 1793148797.5700881,
-    "market_cap": 1773066194.857815,
-    "name": "Alamo Group Inc."
-  },
   "ALGEF": {
     "fetched_at": 1793205192.7866173,
     "market_cap": 145010944.0,
@@ -3918,11 +3913,6 @@
     "fetched_at": 1793205192.7866173,
     "market_cap": 3131.0,
     "name": "American Racing Capital Inc"
-  },
-  "AMRC": {
-    "fetched_at": 1793148799.3667507,
-    "market_cap": 1057078919.2925766,
-    "name": "Ameresco Inc"
   },
   "AMRQF": {
     "fetched_at": 1793205192.7866173,
