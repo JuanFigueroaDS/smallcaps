@@ -2980,8 +2980,8 @@
     "name": "Alfa Laval AB"
   },
   "ALG": {
-    "fetched_at": 1793624541.34948,
-    "market_cap": 1798380000.0,
+    "fetched_at": 1793710961.3009188,
+    "market_cap": 1858871444.7583919,
     "name": "Alamo Group Inc."
   },
   "ALGEF": {
@@ -3025,8 +3025,8 @@
     "name": "Aligos Therapeutics, Inc."
   },
   "ALGT": {
-    "fetched_at": 1793624542.0625596,
-    "market_cap": 1950280000.0,
+    "fetched_at": 1793710964.6964366,
+    "market_cap": 2093525185.9052424,
     "name": "Allegiant Travel Company"
   },
   "ALH": {
@@ -3385,7 +3385,7 @@
     "name": "Altech Batteries Ltd"
   },
   "ALTI": {
-    "fetched_at": 1793461277.3974872,
+    "fetched_at": 1793710964.815301,
     "market_cap": 399215174.0,
     "name": "AlTi Global, Inc."
   },
@@ -3438,6 +3438,11 @@
     "fetched_at": 1793461277.3974872,
     "market_cap": 165568038.0,
     "name": "Big Ridge Gold Corp"
+  },
+  "ALVO": {
+    "fetched_at": 1793710965.7247264,
+    "market_cap": 1749132965.8494627,
+    "name": "Alvotech SA"
   },
   "ALVOF": {
     "fetched_at": 1793700120.0657852,
