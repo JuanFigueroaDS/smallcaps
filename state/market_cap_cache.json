@@ -429,6 +429,11 @@
     "market_cap": 52898868.0,
     "name": "AB Science SA"
   },
+  "ABSI": {
+    "fetched_at": 1793670114.3004572,
+    "market_cap": 1662939809.7466304,
+    "name": "Absci Corp"
+  },
   "ABSSF": {
     "fetched_at": 1793461277.3974872,
     "market_cap": 172537794.0,
@@ -4508,6 +4513,11 @@
     "fetched_at": 1793461277.3974872,
     "market_cap": 2965638052.175873,
     "name": "Artisan Partners Asset Management Inc"
+  },
+  "APC": {
+    "fetched_at": 1793670115.6142135,
+    "market_cap": 713553364.5139813,
+    "name": "Arko Petroleum Corp"
   },
   "APCFF": {
     "fetched_at": 1793461277.3974872,
