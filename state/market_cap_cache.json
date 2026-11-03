@@ -5069,6 +5069,11 @@
     "market_cap": 1696782367.719512,
     "name": "Ardent Health Inc"
   },
+  "ARDX": {
+    "fetched_at": 1793715425.8096461,
+    "market_cap": 755038349.0000001,
+    "name": "Ardelyx, Inc."
+  },
   "AREB": {
     "fetched_at": 1793461277.3974872,
     "market_cap": 1540877.6595744684,
@@ -5640,8 +5645,8 @@
     "name": "Asahi Group Holdings Ltd"
   },
   "ASC": {
-    "fetched_at": 1793461277.3974872,
-    "market_cap": 856663714.8845071,
+    "fetched_at": 1793715426.7760234,
+    "market_cap": 799062580.0915593,
     "name": "Ardmore Shipping Corp"
   },
   "ASCBF": {
