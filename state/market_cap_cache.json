@@ -429,11 +429,6 @@
     "market_cap": 52898868.0,
     "name": "AB Science SA"
   },
-  "ABSI": {
-    "fetched_at": 1793407942.1861174,
-    "market_cap": 1910064032.4818184,
-    "name": "Absci Corp"
-  },
   "ABSSF": {
     "fetched_at": 1793461277.3974872,
     "market_cap": 172537794.0,
@@ -5708,11 +5703,6 @@
     "fetched_at": 1793576510.263519,
     "market_cap": 504005206.0229226,
     "name": "Algoma Steel Group Inc"
-  },
-  "ATEC": {
-    "fetched_at": 1793407942.682925,
-    "market_cap": 1087335594.7792437,
-    "name": "Alphatec Holdings, Inc."
   },
   "ATEX": {
     "fetched_at": 1793583698.748025,
