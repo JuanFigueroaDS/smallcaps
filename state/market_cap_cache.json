@@ -3799,11 +3799,6 @@
     "market_cap": 1206771.970945946,
     "name": "AmeraMex International Inc"
   },
-  "AMN": {
-    "fetched_at": 1794006114.9099681,
-    "market_cap": 1836576281.151655,
-    "name": "AMN Healthcare Services, Inc."
-  },
   "AMNC": {
     "fetched_at": 1794068188.8681054,
     "market_cap": 256896.0,
@@ -4013,11 +4008,6 @@
     "fetched_at": 1794068188.8681054,
     "market_cap": 3386726024.0,
     "name": "Aumovio Se"
-  },
-  "AMVMF": {
-    "fetched_at": 1794006115.8119135,
-    "market_cap": 883483190.0,
-    "name": "AMG Critical Materials NV"
   },
   "AMWK": {
     "fetched_at": 1794068188.8681054,
