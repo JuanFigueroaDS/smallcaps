@@ -3709,11 +3709,6 @@
     "market_cap": 253500.0,
     "name": "American International Holdings Corp"
   },
-  "AMIVF": {
-    "fetched_at": 1794027713.5123641,
-    "market_cap": 548730287.0,
-    "name": "Atrium Mortgage Investment Corp"
-  },
   "AMIX": {
     "fetched_at": 1794068188.8681054,
     "market_cap": 2979105.590062112,
@@ -3873,11 +3868,6 @@
     "fetched_at": 1794068188.8681054,
     "market_cap": 69443691.3891129,
     "name": "Amplitech Group Inc"
-  },
-  "AMPH": {
-    "fetched_at": 1794027714.7188325,
-    "market_cap": 1211906067.3865094,
-    "name": "Amphastar Pharmaceuticals, Inc."
   },
   "AMPL": {
     "fetched_at": 1794068188.8681054,
