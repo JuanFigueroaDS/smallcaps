@@ -474,11 +474,6 @@
     "market_cap": 4863.0,
     "name": "Airborne Wireless Network"
   },
-  "ABX": {
-    "fetched_at": 1794052579.5965953,
-    "market_cap": 858615987.5005524,
-    "name": "Abacus Global Management Inc"
-  },
   "ABXXF": {
     "fetched_at": 1794068188.8681054,
     "market_cap": 581838000.0,
@@ -1813,11 +1808,6 @@
     "fetched_at": 1794068188.8681054,
     "market_cap": 503211.4285714285,
     "name": "American Graphite Technologies Inc"
-  },
-  "AGIO": {
-    "fetched_at": 1794052580.9663455,
-    "market_cap": 1755832285.739006,
-    "name": "Agios Pharmaceuticals, Inc."
   },
   "AGL": {
     "fetched_at": 1794188491.8738585,
