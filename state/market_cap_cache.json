@@ -454,6 +454,11 @@
     "market_cap": 1216024.7648870638,
     "name": "Abits Group Inc"
   },
+  "ABUS": {
+    "fetched_at": 1794323489.0728219,
+    "market_cap": 736953359.2120384,
+    "name": "Arbutus Biopharma Corp"
+  },
   "ABVC": {
     "fetched_at": 1794068188.8681054,
     "market_cap": 25861609.3176,
@@ -5565,8 +5570,8 @@
     "name": "Asahi Group Holdings Ltd"
   },
   "ASC": {
-    "fetched_at": 1794068188.8681054,
-    "market_cap": 711639574.551164,
+    "fetched_at": 1794323489.9326336,
+    "market_cap": 705920341.9701492,
     "name": "Ardmore Shipping Corp"
   },
   "ASCBF": {
