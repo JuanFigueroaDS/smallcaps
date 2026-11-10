@@ -5444,11 +5444,6 @@
     "market_cap": 1838.0,
     "name": "Arrival SA"
   },
-  "ARVN": {
-    "fetched_at": 1794050483.9538732,
-    "market_cap": 419758907.01617247,
-    "name": "Arvinas, Inc."
-  },
   "ARVY": {
     "fetched_at": 1794068188.8681054,
     "market_cap": 9089126.0,
@@ -5720,8 +5715,8 @@
     "name": "Astika Holdings Inc"
   },
   "ASM": {
-    "fetched_at": 1794126091.6786025,
-    "market_cap": 1129537564.0,
+    "fetched_at": 1794309686.9370196,
+    "market_cap": 1119346258.0,
     "name": "Avino Silver & Gold Mines Ltd"
   },
   "BKSY": {
