@@ -454,11 +454,6 @@
     "market_cap": 1216024.7648870638,
     "name": "Abits Group Inc"
   },
-  "ABUS": {
-    "fetched_at": 1794040898.329521,
-    "market_cap": 724076482.0406405,
-    "name": "Arbutus Biopharma Corp"
-  },
   "ABVC": {
     "fetched_at": 1794068188.8681054,
     "market_cap": 25861609.3176,
@@ -5743,5 +5738,10 @@
     "fetched_at": 1794268590.5058382,
     "market_cap": 872927002.8032199,
     "name": "BlackSky Technology Inc."
+  },
+  "BLMN": {
+    "fetched_at": 1794300105.78582,
+    "market_cap": 880182961.6533333,
+    "name": "Bloomin' Brands Inc"
   }
 }
