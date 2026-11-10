@@ -1914,11 +1914,6 @@
     "market_cap": 3840000.0,
     "name": "Grey Matters Health Inc"
   },
-  "AGNT": {
-    "fetched_at": 1794028326.3615854,
-    "market_cap": 518065596.7213115,
-    "name": "AGNT, Inc."
-  },
   "AGNY": {
     "fetched_at": 1794068188.8681054,
     "market_cap": 980000.0,
@@ -3074,11 +3069,6 @@
     "market_cap": 71212371.97132617,
     "name": "Calisa Acquisition Corp"
   },
-  "ALIT": {
-    "fetched_at": 1794028327.175318,
-    "market_cap": 346723679.6470588,
-    "name": "Alight Inc"
-  },
   "ALIZF": {
     "fetched_at": 1794068188.8681054,
     "market_cap": 173593355379.0,
@@ -3448,11 +3438,6 @@
     "fetched_at": 1794068188.8681054,
     "market_cap": 1897496914.124197,
     "name": "Alvotech SA"
-  },
-  "ALVOF": {
-    "fetched_at": 1794028327.9355474,
-    "market_cap": 343603156.0,
-    "name": "Alvopetro Energy Ltd"
   },
   "ALVRQ": {
     "fetched_at": 1794068188.8681054,
