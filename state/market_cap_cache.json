@@ -19,11 +19,6 @@
     "market_cap": 620627200.0,
     "name": "Abaxx Technologies Inc"
   },
-  "ACB": {
-    "fetched_at": 1794450099.0966768,
-    "market_cap": 475994523.0,
-    "name": "Aurora Cannabis Inc"
-  },
   "ACCMF": {
     "fetched_at": 1794495106.8092523,
     "market_cap": 851656720.0,
@@ -183,11 +178,6 @@
     "fetched_at": 1794509207.7791443,
     "market_cap": 306752965.0,
     "name": "Anaergia Inc"
-  },
-  "APC": {
-    "fetched_at": 1794450100.0643811,
-    "market_cap": 732581412.805369,
-    "name": "Arko Petroleum Corp"
   },
   "APEI": {
     "fetched_at": 1794701795.350641,
