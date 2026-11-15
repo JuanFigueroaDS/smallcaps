@@ -199,11 +199,6 @@
     "market_cap": 1632962317.6934738,
     "name": "ANI Pharmaceuticals, Inc."
   },
-  "ANPMF": {
-    "fetched_at": 1794443508.0886197,
-    "market_cap": 683240000.0,
-    "name": "Andean Precious Metals Corp"
-  },
   "ANRGF": {
     "fetched_at": 1794509207.7791443,
     "market_cap": 306752965.0,
@@ -243,10 +238,5 @@
     "fetched_at": 1794702090.8927417,
     "market_cap": 338635231.4465602,
     "name": "Artesian Resources Corp"
-  },
-  "ASC": {
-    "fetched_at": 1794443508.9567707,
-    "market_cap": 750040344.4826815,
-    "name": "Ardmore Shipping Corp"
   }
 }
