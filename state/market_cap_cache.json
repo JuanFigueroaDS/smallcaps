@@ -99,11 +99,6 @@
     "market_cap": 905485550.762911,
     "name": "Aktis Oncology Inc"
   },
-  "ALEC": {
-    "fetched_at": 1794488523.6532688,
-    "market_cap": 391546703.35177875,
-    "name": "Alector, Inc."
-  },
   "ALLT": {
     "fetched_at": 1794493935.9270904,
     "market_cap": 442248730.3769933,
@@ -123,11 +118,6 @@
     "fetched_at": 1794574943.2430577,
     "market_cap": 259137873.67164186,
     "name": "AlTi Global, Inc."
-  },
-  "ALVO": {
-    "fetched_at": 1794488524.3712614,
-    "market_cap": 1920922815.6639345,
-    "name": "Alvotech SA"
   },
   "ALVOF": {
     "fetched_at": 1794571322.9277408,
