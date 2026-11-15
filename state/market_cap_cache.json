@@ -74,20 +74,10 @@
     "market_cap": 1222288515.727072,
     "name": "Adecoagro S.A."
   },
-  "AHCO": {
-    "fetched_at": 1794492137.3007677,
-    "market_cap": 1064897661.2953366,
-    "name": "AdaptHealth Corp."
-  },
   "AIIR": {
     "fetched_at": 1794495767.521023,
     "market_cap": 1215730546.1558783,
     "name": "Air Global PLC"
-  },
-  "AIP": {
-    "fetched_at": 1794492138.0962286,
-    "market_cap": 1010616460.2870612,
-    "name": "Arteris Inc"
   },
   "AKTS": {
     "fetched_at": 1794574938.8142438,
@@ -133,11 +123,6 @@
     "fetched_at": 1794549716.4084926,
     "market_cap": 1373884232.4692569,
     "name": "Ameresco Inc"
-  },
-  "AMSC": {
-    "fetched_at": 1794492139.6926868,
-    "market_cap": 1248686838.3262663,
-    "name": "American Superconductor Corp"
   },
   "ANAB": {
     "fetched_at": 1794532907.2971218,
