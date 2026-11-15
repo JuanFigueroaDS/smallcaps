@@ -39,11 +39,6 @@
     "market_cap": 1109823487.8948495,
     "name": "Accel Entertainment, Inc."
   },
-  "ACGAF": {
-    "fetched_at": 1794447679.2116833,
-    "market_cap": 406558638.0,
-    "name": "ACG Metals Ltd"
-  },
   "ACRS": {
     "fetched_at": 1794529888.3233545,
     "market_cap": 634448630.4147465,
@@ -223,6 +218,11 @@
     "fetched_at": 1794533505.0336752,
     "market_cap": 370366324.89599645,
     "name": "American Realty Investors Inc"
+  },
+  "ARTNA": {
+    "fetched_at": 1794706901.3653018,
+    "market_cap": 338635231.4465602,
+    "name": "Artesian Resources Corp"
   },
   "ARTNB": {
     "fetched_at": 1794702090.8927417,
