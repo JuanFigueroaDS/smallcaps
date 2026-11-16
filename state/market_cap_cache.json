@@ -69,11 +69,6 @@
     "market_cap": 1373884232.4692569,
     "name": "Ameresco Inc"
   },
-  "ANAB": {
-    "fetched_at": 1794532907.2971218,
-    "market_cap": 1428095848.11585,
-    "name": "AnaptysBio, Inc."
-  },
   "ANGX": {
     "fetched_at": 1794560517.7434845,
     "market_cap": 857478394.3906977,
@@ -88,11 +83,6 @@
     "fetched_at": 1794701795.350641,
     "market_cap": 744149985.2925172,
     "name": "American Public Education, Inc."
-  },
-  "ARHVF": {
-    "fetched_at": 1794532912.6707802,
-    "market_cap": 1750690998.0,
-    "name": "Archer Ltd"
   },
   "ARL": {
     "fetched_at": 1794533505.0336752,
