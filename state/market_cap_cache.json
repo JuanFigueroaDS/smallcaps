@@ -9,11 +9,6 @@
     "market_cap": 1744203990.0,
     "name": "Advantage Energy Ltd"
   },
-  "ABXXF": {
-    "fetched_at": 1794529887.5469697,
-    "market_cap": 620627200.0,
-    "name": "Abaxx Technologies Inc"
-  },
   "ACCV": {
     "fetched_at": 1794732090.2952042,
     "market_cap": 2906999965.081081,
@@ -23,16 +18,6 @@
     "fetched_at": 1794565900.4808304,
     "market_cap": 1109823487.8948495,
     "name": "Accel Entertainment, Inc."
-  },
-  "ACRS": {
-    "fetched_at": 1794529888.3233545,
-    "market_cap": 634448630.4147465,
-    "name": "Aclaris Therapeutics, Inc."
-  },
-  "ADEA": {
-    "fetched_at": 1794529889.1445417,
-    "market_cap": 1835412545.1351824,
-    "name": "Adeia Inc."
   },
   "ADRX": {
     "fetched_at": 1794535303.7301345,
