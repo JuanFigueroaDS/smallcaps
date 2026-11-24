@@ -5634,25 +5634,4880 @@
     "market_cap": 14.0,
     "name": "Waitr Holdings Inc"
   },
+  "ASASF": {
+    "fetched_at": 1795552531.091761,
+    "market_cap": 181841337.0,
+    "name": "Asia Standard International Group Ltd"
+  },
+  "ASAZF": {
+    "fetched_at": 1795552531.091761,
+    "market_cap": 434202462654.0,
+    "name": "Assa Abloy AB"
+  },
+  "ASB": {
+    "fetched_at": 1795552531.091761,
+    "market_cap": 5409608829.597767,
+    "name": "Associated Banc-Corp"
+  },
+  "ASBFF": {
+    "fetched_at": 1795552531.091761,
+    "market_cap": 14089082608.0,
+    "name": "Associated British Foods PLC"
+  },
+  "ASBH": {
+    "fetched_at": 1795552531.091761,
+    "market_cap": 1287285170.0570626,
+    "name": "American Savings Bank NA"
+  },
+  "ASBP": {
+    "fetched_at": 1795552531.091761,
+    "market_cap": 11220456.723716384,
+    "name": "Aspire-lakewood Holdings, Inc."
+  },
+  "ASBRF": {
+    "fetched_at": 1795552531.091761,
+    "market_cap": 2712901491211.0,
+    "name": "Asahi Group Holdings Ltd"
+  },
+  "ASC": {
+    "fetched_at": 1795552531.091761,
+    "market_cap": 725937777.8157151,
+    "name": "Ardmore Shipping Corp"
+  },
+  "ASCBF": {
+    "fetched_at": 1795552531.091761,
+    "market_cap": 64069999.99999999,
+    "name": "A SPAC II Acquisition Corp"
+  },
+  "ASCC": {
+    "fetched_at": 1795552531.091761,
+    "market_cap": 8909555.6,
+    "name": "Aristocrat Group Corp"
+  },
+  "ASCCF": {
+    "fetched_at": 1795552531.091761,
+    "market_cap": 2763854357605.0,
+    "name": "Asics Corp"
+  },
+  "ASCK": {
+    "fetched_at": 1795552531.091761,
+    "market_cap": 8334.390000000001,
+    "name": "Auscrete Corp"
+  },
+  "ASCLF": {
+    "fetched_at": 1795552531.091761,
+    "market_cap": 4828898794.0,
+    "name": "Ascletis Pharma Inc"
+  },
+  "ASCN": {
+    "fetched_at": 1795552531.091761,
+    "market_cap": 14023295.999999998,
+    "name": "Absecon Bancorp"
+  },
+  "ASCOF": {
+    "fetched_at": 1795552531.091761,
+    "market_cap": 597368509.0,
+    "name": "Ascopiave SpA"
+  },
+  "ASDZF": {
+    "fetched_at": 1795552531.091761,
+    "market_cap": 2380000.0,
+    "name": "Arctic Star Exploration Corp"
+  },
+  "ASEJF": {
+    "fetched_at": 1795552531.091761,
+    "market_cap": 1597144743.0,
+    "name": "APT Satellite Holdings Ltd"
+  },
+  "ASEKF": {
+    "fetched_at": 1795552531.091761,
+    "market_cap": 1523647814880.0,
+    "name": "Aisin Corp"
+  },
+  "ASFH": {
+    "fetched_at": 1795552531.091761,
+    "market_cap": 58078330.559999995,
+    "name": "AsiaFIN Holdings Corp"
+  },
+  "ASFJ": {
+    "fetched_at": 1795552531.091761,
+    "market_cap": 0.0,
+    "name": "VirtualFund.com Inc"
+  },
+  "ASFT": {
+    "fetched_at": 1795552531.091761,
+    "market_cap": 1120000.0,
+    "name": "AppSoft Technologies Inc"
+  },
+  "ASFX": {
+    "fetched_at": 1795552531.091761,
+    "market_cap": 5250.54,
+    "name": "American Scientific Resources Inc"
+  },
+  "ASGLF": {
+    "fetched_at": 1795552531.091761,
+    "market_cap": 956445869873.0,
+    "name": "AGC Inc"
+  },
+  "ASGOF": {
+    "fetched_at": 1795552531.091761,
+    "market_cap": 140205126.0,
+    "name": "Asante Gold Corp"
+  },
+  "ASGTF": {
+    "fetched_at": 1795552531.091761,
+    "market_cap": 1632850233.0,
+    "name": "Altus Group Ltd"
+  },
+  "ASGXF": {
+    "fetched_at": 1795552531.091761,
+    "market_cap": 68.5,
+    "name": "Asia Global Crossing Ltd"
+  },
+  "ASH": {
+    "fetched_at": 1795552531.091761,
+    "market_cap": 3209747683.236578,
+    "name": "Ashland Inc."
+  },
+  "ASHI": {
+    "fetched_at": 1795552531.091761,
+    "market_cap": 236.028,
+    "name": "Asberry 22 Holdings Inc"
+  },
+  "ASHPF": {
+    "fetched_at": 1795552531.091761,
+    "market_cap": 5266389037.0,
+    "name": "Ashtrom Group Ltd"
+  },
+  "ASHXF": {
+    "fetched_at": 1795552531.091761,
+    "market_cap": 33450584.999999996,
+    "name": "Progressive Planet Solutions Inc"
+  },
+  "ASIC": {
+    "fetched_at": 1795552531.091761,
+    "market_cap": 1212767343.0145886,
+    "name": "Ategrity Specialty Insurance Company Holdings"
+  },
+  "ASII": {
+    "fetched_at": 1795552531.091761,
+    "market_cap": 384497.0,
+    "name": "Accredited Solutions Inc"
+  },
+  "ASIX": {
+    "fetched_at": 1795552531.091761,
+    "market_cap": 359214496.09494644,
+    "name": "AdvanSix Inc."
+  },
+  "ASKH": {
+    "fetched_at": 1795552531.091761,
+    "market_cap": 15978.019999999999,
+    "name": "Astika Holdings Inc"
+  },
+  "ASKLF": {
+    "fetched_at": 1795552531.091761,
+    "market_cap": 110689193695.0,
+    "name": "Askul Corp"
+  },
+  "ASKPF": {
+    "fetched_at": 1795552531.091761,
+    "market_cap": 55141094467.0,
+    "name": "ASKA Pharmaceutical Holdings Co Ltd"
+  },
+  "ASLE": {
+    "fetched_at": 1795552531.091761,
+    "market_cap": 240560511.78082192,
+    "name": "AerSale Corp"
+  },
+  "ASLRF": {
+    "fetched_at": 1795552531.091761,
+    "market_cap": 6497323.0,
+    "name": "Alien Metals Ltd"
+  },
+  "ASM": {
+    "fetched_at": 1795552531.091761,
+    "market_cap": 892572473.0,
+    "name": "Avino Silver & Gold Mines Ltd"
+  },
+  "ASMB": {
+    "fetched_at": 1795552531.091761,
+    "market_cap": 502716332.79110336,
+    "name": "Assembly Biosciences Inc"
+  },
+  "ASMLF": {
+    "fetched_at": 1795552531.091761,
+    "market_cap": 485961163239.0,
+    "name": "ASML Holding NV"
+  },
+  "ASMOF": {
+    "fetched_at": 1795552531.091761,
+    "market_cap": 38234435324.0,
+    "name": "Asmodee Group AB"
+  },
+  "ASMTF": {
+    "fetched_at": 1795552531.091761,
+    "market_cap": 20170000.0,
+    "name": "Venari Minerals NL"
+  },
+  "ASMVF": {
+    "fetched_at": 1795552531.091761,
+    "market_cap": 35293203501.0,
+    "name": "ASMPT Ltd"
+  },
+  "ASMXF": {
+    "fetched_at": 1795552531.091761,
+    "market_cap": 33702292521.000004,
+    "name": "ASM International NV"
+  },
+  "ASNCF": {
+    "fetched_at": 1795552531.091761,
+    "market_cap": 48575672.0,
+    "name": "A-Sonic Aerospace Ltd"
+  },
+  "ASND": {
+    "fetched_at": 1795552531.091761,
+    "market_cap": 17711689957.278767,
+    "name": "Ascendis Pharma A/S"
+  },
+  "ASNFF": {
+    "fetched_at": 1795552531.091761,
+    "market_cap": 2458071120.0,
+    "name": "AsiaInfo Technologies Ltd"
+  },
+  "ASNS": {
+    "fetched_at": 1795552531.091761,
+    "market_cap": 1324250.0,
+    "name": "Actelis Networks Inc"
+  },
+  "ASNXF": {
+    "fetched_at": 1795552531.091761,
+    "market_cap": 11500147259.0,
+    "name": "Asante Inc"
+  },
+  "ASO": {
+    "fetched_at": 1795552531.091761,
+    "market_cap": 4409048572.367205,
+    "name": "Academy Sports and Outdoors, Inc."
+  },
+  "ASOMF": {
+    "fetched_at": 1795552531.091761,
+    "market_cap": 597504776.0,
+    "name": "ASOS PLC"
+  },
+  "ASOZF": {
+    "fetched_at": 1795552531.091761,
+    "market_cap": 17521364929.0,
+    "name": "Asseco Poland SA"
+  },
+  "ASPC": {
+    "fetched_at": 1795552531.091761,
+    "market_cap": 23597713.0,
+    "name": "A SPAC III Acquisition Corp"
+  },
+  "ASPD": {
+    "fetched_at": 1795552531.091761,
+    "market_cap": 1675000.0,
+    "name": "Aspen Digital Inc"
+  },
+  "ASPHF": {
+    "fetched_at": 1795552531.091761,
+    "market_cap": 9270160937.0,
+    "name": "Ascentage Pharma Group International"
+  },
+  "ASPI": {
+    "fetched_at": 1795552531.091761,
+    "market_cap": 183884634.0,
+    "name": "ASP Isotopes Inc."
+  },
+  "ASPLF": {
+    "fetched_at": 1795552531.091761,
+    "market_cap": 53020101379.0,
+    "name": "Asia Pile Holdings Corp"
+  },
+  "ASPN": {
+    "fetched_at": 1795552531.091761,
+    "market_cap": 352464604.2373627,
+    "name": "Aspen Aerogels, Inc."
+  },
+  "ASPR": {
+    "fetched_at": 1795552531.091761,
+    "market_cap": 85097.99999999999,
+    "name": "Adsouth Partners Inc"
+  },
+  "ASPS": {
+    "fetched_at": 1795552531.091761,
+    "market_cap": 65966689.15845071,
+    "name": "Altisource Portfolio Solutions S.A."
+  },
+  "ASPT": {
+    "fetched_at": 1795552531.091761,
+    "market_cap": 172.517,
+    "name": "Aladdin Separation Technologies Inc"
+  },
+  "ASPU": {
+    "fetched_at": 1795552531.091761,
+    "market_cap": 7458316.91891892,
+    "name": "Aspen Group Inc"
+  },
+  "ASPW": {
+    "fetched_at": 1795552531.091761,
+    "market_cap": 20.98,
+    "name": "Arista Power Inc"
+  },
+  "ASRE": {
+    "fetched_at": 1795552531.091761,
+    "market_cap": 75.1104,
+    "name": "Astra Energy Inc"
+  },
+  "ASRFF": {
+    "fetched_at": 1795552531.091761,
+    "market_cap": 11290000.0,
+    "name": "Americas Uranium Corp"
+  },
+  "ASRHF": {
+    "fetched_at": 1795552531.091761,
+    "market_cap": 115169922180.0,
+    "name": "Astroscale Holdings Inc"
+  },
+  "ASRMF": {
+    "fetched_at": 1795552531.091761,
+    "market_cap": 130118160000.0,
+    "name": "Grupo Aeroportuario del Sureste SAB de CV"
+  },
+  "ASRRF": {
+    "fetched_at": 1795552531.091761,
+    "market_cap": 15564045175.0,
+    "name": "ASR Nederland NV"
+  },
+  "ASRV": {
+    "fetched_at": 1795552531.091761,
+    "market_cap": 78320521.35526317,
+    "name": "Ameriserv Financial Inc"
+  },
+  "ASST": {
+    "fetched_at": 1795552531.091761,
+    "market_cap": 1844021070.753717,
+    "name": "Strive Inc"
+  },
+  "ASTC": {
+    "fetched_at": 1795552531.091761,
+    "market_cap": 7265381.974860336,
+    "name": "Astrotech Corp"
+  },
+  "ASTE": {
+    "fetched_at": 1795552531.091761,
+    "market_cap": 849146355.2989496,
+    "name": "Astec Industries, Inc."
+  },
+  "ASTH": {
+    "fetched_at": 1795552531.091761,
+    "market_cap": 1407275879.710125,
+    "name": "Astrana Health, Inc."
+  },
+  "ASTI": {
+    "fetched_at": 1795552531.091761,
+    "market_cap": 7653871.0867346935,
+    "name": "Ascent Solar Technologies Inc"
+  },
+  "ASTL": {
+    "fetched_at": 1795552531.091761,
+    "market_cap": 443249876.5678915,
+    "name": "Algoma Steel Group Inc"
+  },
+  "ASTO": {
+    "fetched_at": 1795552531.091761,
+    "market_cap": 3140000.0,
+    "name": "Astro Communications Inc"
+  },
+  "ASTS": {
+    "fetched_at": 1795552531.091761,
+    "market_cap": 10014115126.0,
+    "name": "AST SpaceMobile, Inc."
+  },
+  "ASTTF": {
+    "fetched_at": 1795552531.091761,
+    "market_cap": 41845443.0,
+    "name": "Australis Oil & Gas Ltd"
+  },
+  "ASTVF": {
+    "fetched_at": 1795552531.091761,
+    "market_cap": 17800883365.0,
+    "name": "Austevoll Seafood ASA"
+  },
+  "ASUR": {
+    "fetched_at": 1795552531.091761,
+    "market_cap": 332772331.9425706,
+    "name": "Asure Software Inc"
+  },
+  "ASXFF": {
+    "fetched_at": 1795552531.091761,
+    "market_cap": 12848473568.0,
+    "name": "ASX Ltd"
+  },
+  "ASXSF": {
+    "fetched_at": 1795552531.091761,
+    "market_cap": 13757088.0,
+    "name": "Elysee Development Corp"
+  },
+  "ASYS": {
+    "fetched_at": 1795552531.091761,
+    "market_cap": 208521496.99999997,
+    "name": "Amtech Systems Inc"
+  },
+  "ASYTF": {
+    "fetched_at": 1795552531.091761,
+    "market_cap": 506493410.0,
+    "name": "Assystem SA"
+  },
+  "ATALF": {
+    "fetched_at": 1795552531.091761,
+    "market_cap": 86316817.0,
+    "name": "American Tungsten & Antimony Ltd"
+  },
+  "ATAR": {
+    "fetched_at": 1795552531.091761,
+    "market_cap": 103.262215,
+    "name": "Monstero Holdings Corp"
+  },
+  "ATAZF": {
+    "fetched_at": 1795552531.091761,
+    "market_cap": 18588236015.0,
+    "name": "Atea ASA"
+  },
+  "ATBBF": {
+    "fetched_at": 1795552531.091761,
+    "market_cap": 12656992202.0,
+    "name": "Absolute Clean Energy PCL"
+  },
+  "ATBHF": {
+    "fetched_at": 1795552531.091761,
+    "market_cap": 12647482.0,
+    "name": "Aston Bay Holdings Ltd"
+  },
+  "ATBSF": {
+    "fetched_at": 1795552531.091761,
+    "market_cap": 119006298569.0,
+    "name": "Autobacs Seven Co Ltd"
+  },
+  "ATCD": {
+    "fetched_at": 1795552531.091761,
+    "market_cap": 8857500.0,
+    "name": "Altair Corp"
+  },
+  "ATCH": {
+    "fetched_at": 1795552531.091761,
+    "market_cap": 8958486.0,
+    "name": "Atlasclear Holdings Inc"
+  },
+  "ATCMF": {
+    "fetched_at": 1795552531.091761,
+    "market_cap": 31741631.0,
+    "name": "Atico Mining Corp"
+  },
+  "ATCN": {
+    "fetched_at": 1795552531.091761,
+    "market_cap": 25221646.0,
+    "name": "Atec Inc"
+  },
+  "ATCV": {
+    "fetched_at": 1795552531.091761,
+    "market_cap": 7.106999999999999,
+    "name": "ATC Venture Group Inc"
+  },
+  "ATCX": {
+    "fetched_at": 1795552531.091761,
+    "market_cap": 6887919.963503649,
+    "name": "Atlas Critical Minerals Corp"
+  },
+  "ATDRF": {
+    "fetched_at": 1795552531.091761,
+    "market_cap": 4095944894.0,
+    "name": "Autotrader Group PLC"
+  },
+  "ATDS": {
+    "fetched_at": 1795552531.091761,
+    "market_cap": 253327.00000000003,
+    "name": "Data443 Risk Mitigation Inc"
+  },
+  "ATEC": {
+    "fetched_at": 1795552531.091761,
+    "market_cap": 1092960092.431785,
+    "name": "Alphatec Holdings, Inc."
+  },
+  "ATEK": {
+    "fetched_at": 1795552531.091761,
+    "market_cap": 93560000.0,
+    "name": "Athena Technology Acquisition Corp II"
+  },
+  "ATEN": {
+    "fetched_at": 1795552531.091761,
+    "market_cap": 2308531053.0,
+    "name": "A10 Networks, Inc."
+  },
+  "ATEPF": {
+    "fetched_at": 1795552531.091761,
+    "market_cap": 27885618.0,
+    "name": "Astra Exploration Inc"
+  },
+  "ATER": {
+    "fetched_at": 1795552531.091761,
+    "market_cap": 322115376.00000006,
+    "name": "Aterian Inc"
+  },
+  "ATEX": {
+    "fetched_at": 1795552531.091761,
+    "market_cap": 1447838005.640283,
+    "name": "Anterix Inc."
+  },
+  "ATGFF": {
+    "fetched_at": 1795552531.091761,
+    "market_cap": 16814248838.0,
+    "name": "AltaGas Ltd"
+  },
+  "ATGGF": {
+    "fetched_at": 1795552531.091761,
+    "market_cap": 54176758.0,
+    "name": "Actinogen Medical Ltd"
+  },
+  "ATGL": {
+    "fetched_at": 1795552531.091761,
+    "market_cap": 126761251.97435898,
+    "name": "Alpha Technology Group Ltd"
+  },
+  "ATGN": {
+    "fetched_at": 1795552531.091761,
+    "market_cap": 11490632.63888889,
+    "name": "Altigen Communications Inc"
+  },
+  "ATGRF": {
+    "fetched_at": 1795552531.091761,
+    "market_cap": 84573115.0,
+    "name": "Articore Group Ltd"
+  },
+  "ATHC": {
+    "fetched_at": 1795552531.091761,
+    "market_cap": 1482.19,
+    "name": "Accelerated Technologies Holding Corp"
+  },
+  "ATHGF": {
+    "fetched_at": 1795552531.091761,
+    "market_cap": 538365118.0,
+    "name": "Auction Technology Group PLC"
+  },
+  "ATHHF": {
+    "fetched_at": 1795552531.091761,
+    "market_cap": 377153.0,
+    "name": "Aether Catalyst Solutions Inc"
+  },
+  "ATHI": {
+    "fetched_at": 1795552531.091761,
+    "market_cap": 2420000.0,
+    "name": "American Transportation Holdings Inc"
+  },
+  "ATHNF": {
+    "fetched_at": 1795552531.091761,
+    "market_cap": 3872467432.0,
+    "name": "Athens International Airport SA"
+  },
+  "ATHOF": {
+    "fetched_at": 1795552531.091761,
+    "market_cap": 5503511710.0,
+    "name": "Athabasca Oil Corp"
+  },
+  "ATHR": {
+    "fetched_at": 1795552531.091761,
+    "market_cap": 13952611.169545451,
+    "name": "Aether Holdings Inc"
+  },
+  "ATHXQ": {
+    "fetched_at": 1795552531.091761,
+    "market_cap": 617.0,
+    "name": "Athersys Inc"
+  },
+  "ATI": {
+    "fetched_at": 1795552531.091761,
+    "market_cap": 22546569858.693943,
+    "name": "ATI Inc."
+  },
+  "ATIG": {
+    "fetched_at": 1795552531.091761,
+    "market_cap": 14906.000000000002,
+    "name": "Atlantis Gaming Corp"
+  },
+  "ATIW": {
+    "fetched_at": 1795552531.091761,
+    "market_cap": 680.0,
+    "name": "ATI Networks Inc"
+  },
+  "ATIXF": {
+    "fetched_at": 1795552531.091761,
+    "market_cap": 2430000.0,
+    "name": "AnalytixInsight Inc"
+  },
+  "ATLC": {
+    "fetched_at": 1795552531.091761,
+    "market_cap": 1218306222.0,
+    "name": "Atlanticus Holdings Corp"
+  },
+  "ATLFF": {
+    "fetched_at": 1795552531.091761,
+    "market_cap": 891755876842.0,
+    "name": "Atlas Copco AB"
+  },
+  "ATLO": {
+    "fetched_at": 1795552531.091761,
+    "market_cap": 285645346.75589836,
+    "name": "Ames National Corp"
+  },
+  "ATLPF": {
+    "fetched_at": 1795552531.091761,
+    "market_cap": 891755876842.0,
+    "name": "Atlas Copco AB"
+  },
+  "ATLQ": {
+    "fetched_at": 1795552531.091761,
+    "market_cap": 286044538.0,
+    "name": "JAB Acquisition Corp I"
+  },
+  "ATLX": {
+    "fetched_at": 1795552531.091761,
+    "market_cap": 45120440.71380471,
+    "name": "Atlas Lithium Corporation"
+  },
+  "ATMH": {
+    "fetched_at": 1795552531.091761,
+    "market_cap": 2589002.0,
+    "name": "All Things Mobile Analytic Inc"
+  },
+  "ATMMF": {
+    "fetched_at": 1795552531.091761,
+    "market_cap": 873933.0,
+    "name": "Atomic Minerals Corp"
+  },
+  "ATMO": {
+    "fetched_at": 1795552531.091761,
+    "market_cap": 320000.0,
+    "name": "Americatowne Holdings Inc"
+  },
+  "ATMQF": {
+    "fetched_at": 1795552531.091761,
+    "market_cap": 15479521318.0,
+    "name": "Ateam Holdings Co Ltd"
+  },
+  "ATMTF": {
+    "fetched_at": 1795552531.091761,
+    "market_cap": 101681697.0,
+    "name": "Andrada Mining Ltd"
+  },
+  "ATMU": {
+    "fetched_at": 1795552531.091761,
+    "market_cap": 4413466017.0,
+    "name": "Atmus Filtration Technologies Inc."
+  },
+  "ATMYF": {
+    "fetched_at": 1795552531.091761,
+    "market_cap": 27414287.0,
+    "name": "Antimony Resources Corp"
+  },
+  "ATNE": {
+    "fetched_at": 1795552531.091761,
+    "market_cap": 20000.0,
+    "name": "Alternative Energy Technology Inc"
+  },
+  "ATNI": {
+    "fetched_at": 1795552531.091761,
+    "market_cap": 414042249.8535848,
+    "name": "ATN International Inc"
+  },
+  "ATNM": {
+    "fetched_at": 1795552531.091761,
+    "market_cap": 29723159.92848039,
+    "name": "Actinium Pharmaceuticals Inc"
+  },
+  "ATNNF": {
+    "fetched_at": 1795552531.091761,
+    "market_cap": 693313981.0,
+    "name": "Autoneum Holding AG"
+  },
+  "ATNPQ": {
+    "fetched_at": 1795552531.091761,
+    "market_cap": 11164.0,
+    "name": "Atlantis Technology Group"
+  },
+  "ATO": {
+    "fetched_at": 1795552531.091761,
+    "market_cap": 28813265963.999996,
+    "name": "Atmos Energy Corporation"
+  },
+  "ATOGF": {
+    "fetched_at": 1795552531.091761,
+    "market_cap": 3309660048.0,
+    "name": "AUTO1 Group SE"
+  },
+  "ATOM": {
+    "fetched_at": 1795552531.091761,
+    "market_cap": 88328485.0,
+    "name": "Atomera Inc"
+  },
+  "ATONF": {
+    "fetched_at": 1795552531.091761,
+    "market_cap": 1987906310.0,
+    "name": "Anton Oilfield Services Group"
+  },
+  "ATOR": {
+    "fetched_at": 1795552531.091761,
+    "market_cap": 21070000.0,
+    "name": "Astor Explorations Corp"
+  },
+  "ATOS": {
+    "fetched_at": 1795552531.091761,
+    "market_cap": 22316702.41237569,
+    "name": "Atossa Therapeutics Inc"
+  },
+  "ATOXF": {
+    "fetched_at": 1795552531.091761,
+    "market_cap": 4196426.0,
+    "name": "Quantum Critical Metals Corp"
+  },
+  "ATPC": {
+    "fetched_at": 1795552531.091761,
+    "market_cap": 1230769.7750000001,
+    "name": "Agape ATP Corp"
+  },
+  "ATPL": {
+    "fetched_at": 1795552531.091761,
+    "market_cap": 614.1,
+    "name": "Atlantis Plastics Inc"
+  },
+  "ATPMF": {
+    "fetched_at": 1795552531.091761,
+    "market_cap": 292252272.0,
+    "name": "Antipa Minerals Ltd"
+  },
+  "ATR": {
+    "fetched_at": 1795552531.091761,
+    "market_cap": 9028492153.996883,
+    "name": "AptarGroup, Inc."
+  },
+  "ATRA": {
+    "fetched_at": 1795552531.091761,
+    "market_cap": 77126481.00000001,
+    "name": "Atara Biotherapeutics, Inc."
+  },
+  "ATRC": {
+    "fetched_at": 1795552531.091761,
+    "market_cap": 2889330216.0,
+    "name": "AtriCure, Inc."
+  },
+  "ATRNF": {
+    "fetched_at": 1795552531.091761,
+    "market_cap": 240769991.0,
+    "name": "Astron Ltd"
+  },
+  "ATRO": {
+    "fetched_at": 1795552531.091761,
+    "market_cap": 2407818585.0497627,
+    "name": "Astronics Corporation"
+  },
+  "ATROB": {
+    "fetched_at": 1795552531.091761,
+    "market_cap": 2407818585.0497627,
+    "name": "Astronics Corporation"
+  },
+  "ATRX": {
+    "fetched_at": 1795552531.091761,
+    "market_cap": 722.09,
+    "name": "Adhera Therapeutics Inc"
+  },
+  "ATS": {
+    "fetched_at": 1795552531.091761,
+    "market_cap": 2391374288.0,
+    "name": "ATS Corp"
+  },
+  "ATSKF": {
+    "fetched_at": 1795552531.091761,
+    "market_cap": 23714664917.0,
+    "name": "Allied Telesis Holdings KK"
+  },
+  "ATTBF": {
+    "fetched_at": 1795552531.091761,
+    "market_cap": 478.00000000000006,
+    "name": "Abattis Bioceuticals Corp"
+  },
+  "ATTGF": {
+    "fetched_at": 1795552531.091761,
+    "market_cap": 1412778619.0,
+    "name": "Auto Italia Holdings Ltd"
+  },
+  "ATTMF": {
+    "fetched_at": 1795552531.091761,
+    "market_cap": 2975746.0,
+    "name": "Altitude Minerals Ltd"
+  },
+  "ATTO": {
+    "fetched_at": 1795552531.091761,
+    "market_cap": 714029811.7449048,
+    "name": "Attovia Therapeutics Inc"
+  },
+  "ATTOF": {
+    "fetched_at": 1795552531.091761,
+    "market_cap": 15452.0,
+    "name": "Atento SA"
+  },
+  "ATTT": {
+    "fetched_at": 1795552531.091761,
+    "market_cap": 13746898.000000002,
+    "name": "Atlas Trinity Tech Limited"
+  },
+  "ATUSF": {
+    "fetched_at": 1795552531.091761,
+    "market_cap": 2661881863.0,
+    "name": "Altius Minerals Corp (AB)"
+  },
+  "ATUUF": {
+    "fetched_at": 1795552531.091761,
+    "market_cap": 1395216437.0,
+    "name": "Tenaz Energy Corp"
+  },
+  "ATUXF": {
+    "fetched_at": 1795552531.091761,
+    "market_cap": 101395829.0,
+    "name": "Atturra Ltd"
+  },
+  "ATVHF": {
+    "fetched_at": 1795552531.091761,
+    "market_cap": 10440000.0,
+    "name": "Altrova Health Inc"
+  },
+  "ATVK": {
+    "fetched_at": 1795552531.091761,
+    "market_cap": 92227.0,
+    "name": "Ameritek Ventures Inc"
+  },
+  "ATVVF": {
+    "fetched_at": 1795552531.091761,
+    "market_cap": 62982136.0,
+    "name": "Australian Vanadium Ltd"
+  },
+  "ATWT": {
+    "fetched_at": 1795552531.091761,
+    "market_cap": 2624318.7352941176,
+    "name": "ATWEC Technologies Inc"
+  },
+  "ATXG": {
+    "fetched_at": 1795552531.091761,
+    "market_cap": 5067971.450236967,
+    "name": "Addentax Group Corp"
+  },
+  "ATXI": {
+    "fetched_at": 1795552531.091761,
+    "market_cap": 988490.0,
+    "name": "Avenue Therapeutics Inc"
+  },
+  "ATXMF": {
+    "fetched_at": 1795552531.091761,
+    "market_cap": 1330000.0,
+    "name": "Advantex Marketing International Inc"
+  },
+  "ATXRF": {
+    "fetched_at": 1795552531.091761,
+    "market_cap": 515748560.0,
+    "name": "Atex Resources Inc"
+  },
+  "ATYG": {
+    "fetched_at": 1795552531.091761,
+    "market_cap": 14981.699999999999,
+    "name": "Atlas Technology Group Inc (Pre-Reincorporation)"
+  },
+  "ATYR": {
+    "fetched_at": 1795552531.091761,
+    "market_cap": 11047096.034278959,
+    "name": "aTyr Pharma Inc"
+  },
+  "ATZAF": {
+    "fetched_at": 1795552531.091761,
+    "market_cap": 16386982714.000002,
+    "name": "Aritzia Inc"
+  },
+  "AU": {
+    "fetched_at": 1795552531.091761,
+    "market_cap": 39148177907.0,
+    "name": "Anglogold Ashanti PLC"
+  },
+  "AUB": {
+    "fetched_at": 1795552531.091761,
+    "market_cap": 5198008362.464506,
+    "name": "Atlantic Union Bankshares Corporation"
+  },
+  "AUBBF": {
+    "fetched_at": 1795552531.091761,
+    "market_cap": 4094273860.0,
+    "name": "AUB Group Ltd"
+  },
+  "AUBN": {
+    "fetched_at": 1795552531.091761,
+    "market_cap": 82219333.00000001,
+    "name": "Auburn National Bancorporation Inc"
+  },
+  "AUC": {
+    "fetched_at": 1795552531.091761,
+    "market_cap": 177690888.4726587,
+    "name": "ATIF Holdings Ltd"
+  },
+  "AUCCF": {
+    "fetched_at": 1795552531.091761,
+    "market_cap": 2380000.0,
+    "name": "Ibero Mining Corp"
+  },
+  "AUCM": {
+    "fetched_at": 1795552531.091761,
+    "market_cap": 179.5,
+    "name": "Auctioncities.Com Inc"
+  },
+  "AUCPF": {
+    "fetched_at": 1795552531.091761,
+    "market_cap": 2123000073.0000002,
+    "name": "Union Auction PCL"
+  },
+  "AUCTF": {
+    "fetched_at": 1795552531.091761,
+    "market_cap": 115190654106.0,
+    "name": "Aucnet Inc"
+  },
+  "AUCUF": {
+    "fetched_at": 1795552531.091761,
+    "market_cap": 17183957.0,
+    "name": "Inflection Resources Ltd"
+  },
+  "AUDC": {
+    "fetched_at": 1795552531.091761,
+    "market_cap": 207924193.12711868,
+    "name": "AudioCodes Ltd"
+  },
+  "AUDGF": {
+    "fetched_at": 1795552531.091761,
+    "market_cap": 182667878.0,
+    "name": "Audinate Group Ltd"
+  },
+  "AUDYF": {
+    "fetched_at": 1795552531.091761,
+    "market_cap": 1867052058.0,
+    "name": "Ausnutria Dairy Corp Ltd"
+  },
+  "AUEEF": {
+    "fetched_at": 1795552531.091761,
+    "market_cap": 61046498.0,
+    "name": "Aura Energy Ltd"
+  },
+  "AUERF": {
+    "fetched_at": 1795552531.091761,
+    "market_cap": 205390796.0,
+    "name": "Aurum Resources Ltd"
+  },
+  "AUGCF": {
+    "fetched_at": 1795552531.091761,
+    "market_cap": 12878615.0,
+    "name": "Au Gold Corp"
+  },
+  "AUGO": {
+    "fetched_at": 1795552531.091761,
+    "market_cap": 5295433471.999999,
+    "name": "Aura Minerals Inc"
+  },
+  "AUHEF": {
+    "fetched_at": 1795552531.091761,
+    "market_cap": 27949921152.23938,
+    "name": "Anhui Expressway Co Ltd"
+  },
+  "AUHIF": {
+    "fetched_at": 1795552531.091761,
+    "market_cap": 1409941.0,
+    "name": "Advanced Gold Exploration Inc"
+  },
+  "AUHYF": {
+    "fetched_at": 1795552531.091761,
+    "market_cap": 37001501312.0,
+    "name": "Anadolu Hayat Emeklilik AS"
+  },
+  "AUIAF": {
+    "fetched_at": 1795552531.091761,
+    "market_cap": 22483403.0,
+    "name": "Aurania Resources Ltd"
+  },
+  "AUID": {
+    "fetched_at": 1795552531.091761,
+    "market_cap": 2461233.981358189,
+    "name": "Authid Inc"
+  },
+  "AUKUF": {
+    "fetched_at": 1795552531.091761,
+    "market_cap": 1341420186.0,
+    "name": "ams-OSRAM AG"
+  },
+  "AULSF": {
+    "fetched_at": 1795552531.091761,
+    "market_cap": 276794308.0,
+    "name": "Austar Lifesciences Ltd"
+  },
+  "AUMBF": {
+    "fetched_at": 1795552531.091761,
+    "market_cap": 157484093.0,
+    "name": "1911 Gold Corp"
+  },
+  "AUMC": {
+    "fetched_at": 1795552531.091761,
+    "market_cap": 66499999.0,
+    "name": "Auryn Mining Corp"
+  },
+  "AUMMF": {
+    "fetched_at": 1795552531.091761,
+    "market_cap": 34939374.0,
+    "name": "Australian Industrial Minerals Ltd"
+  },
+  "AUMN": {
+    "fetched_at": 1795552531.091761,
+    "market_cap": 5483128.845333334,
+    "name": "Golden Minerals Co"
+  },
+  "AUMTF": {
+    "fetched_at": 1795552531.091761,
+    "market_cap": 662386374.0,
+    "name": "Aurelia Metals Ltd"
+  },
+  "AUNA": {
+    "fetched_at": 1795552531.091761,
+    "market_cap": 267926925.99999997,
+    "name": "Auna SA"
+  },
+  "AUNXF": {
+    "fetched_at": 1795552531.091761,
+    "market_cap": 1798934.0,
+    "name": "AXP Energy Ltd"
+  },
+  "AUPH": {
+    "fetched_at": 1795552531.091761,
+    "market_cap": 2004619917.0,
+    "name": "Aurinia Pharmaceuticals Inc."
+  },
+  "AUQFF": {
+    "fetched_at": 1795552531.091761,
+    "market_cap": 5676253.0,
+    "name": "AuQ Gold Mining Inc"
+  },
+  "AUQSF": {
+    "fetched_at": 1795552531.091761,
+    "market_cap": 46244421.0,
+    "name": "Ausquest Ltd"
+  },
+  "AUR": {
+    "fetched_at": 1795552531.091761,
+    "market_cap": 7473838329.424828,
+    "name": "Aurora Innovation, Inc."
+  },
+  "AURA": {
+    "fetched_at": 1795552531.091761,
+    "market_cap": 728520119.0,
+    "name": "Aura Biosciences, Inc."
+  },
+  "AURE": {
+    "fetched_at": 1795552531.091761,
+    "market_cap": 34539319.96039604,
+    "name": "Aurelion Inc"
+  },
+  "AURFF": {
+    "fetched_at": 1795552531.091761,
+    "market_cap": 140309324.0,
+    "name": "Tincorp Metals Inc"
+  },
+  "AURI": {
+    "fetched_at": 1795552531.091761,
+    "market_cap": 915876.0,
+    "name": "Auri Inc"
+  },
+  "AURMF": {
+    "fetched_at": 1795552531.091761,
+    "market_cap": 11579633.0,
+    "name": "Auris Minerals Ltd"
+  },
+  "AURQF": {
+    "fetched_at": 1795552531.091761,
+    "market_cap": 1080000.0,
+    "name": "Aurelius Minerals Inc"
+  },
+  "AURT": {
+    "fetched_at": 1795552531.091761,
+    "market_cap": 7392.400000000001,
+    "name": "Attune Rtd"
+  },
+  "AURWF": {
+    "fetched_at": 1795552531.091761,
+    "market_cap": 1564008.0,
+    "name": "Aurwest Resources Corp"
+  },
+  "AURX": {
+    "fetched_at": 1795552531.091761,
+    "market_cap": 55873432.0,
+    "name": "Nuo Therapeutics Inc"
+  },
+  "AUSAF": {
+    "fetched_at": 1795552531.091761,
+    "market_cap": 7530000.0,
+    "name": "Australis Capital Inc"
+  },
+  "AUSBF": {
+    "fetched_at": 1795552531.091761,
+    "market_cap": 7541861.0,
+    "name": "ABx Group Ltd"
+  },
+  "AUSDF": {
+    "fetched_at": 1795552531.091761,
+    "market_cap": 1585849153.0,
+    "name": "Perenti Ltd"
+  },
+  "AUSGF": {
+    "fetched_at": 1795552531.091761,
+    "market_cap": 656687775.0,
+    "name": "Ausgold Ltd"
+  },
+  "AUSI": {
+    "fetched_at": 1795552531.091761,
+    "market_cap": 26279034.082191784,
+    "name": "Aura Systems Inc"
+  },
+  "AUST": {
+    "fetched_at": 1795552531.091761,
+    "market_cap": 7914554.665014603,
+    "name": "Austin Gold Corp"
+  },
+  "AUSTF": {
+    "fetched_at": 1795552531.091761,
+    "market_cap": 109044406.0,
+    "name": "Austin Engineering Ltd"
+  },
+  "AUTLF": {
+    "fetched_at": 1795552531.091761,
+    "market_cap": 1786683473.0,
+    "name": "Austal Ltd"
+  },
+  "AUTR": {
+    "fetched_at": 1795552531.091761,
+    "market_cap": 123300164.0,
+    "name": "Autris"
+  },
+  "AUTSF": {
+    "fetched_at": 1795552531.091761,
+    "market_cap": 53057048624.0,
+    "name": "AutoStore Holdings Ltd"
+  },
+  "AUUAF": {
+    "fetched_at": 1795552531.091761,
+    "market_cap": 69860807.0,
+    "name": "ALUULA Composites Inc"
+  },
+  "AUUD": {
+    "fetched_at": 1795552531.091761,
+    "market_cap": 1233509.0,
+    "name": "Auddia Inc."
+  },
+  "AUUMF": {
+    "fetched_at": 1795552531.091761,
+    "market_cap": 150998860.0,
+    "name": "Aumann AG"
+  },
+  "AUVGF": {
+    "fetched_at": 1795552531.091761,
+    "market_cap": 24709722.0,
+    "name": "Australian Vintage Ltd"
+  },
+  "AUVI": {
+    "fetched_at": 1795552531.091761,
+    "market_cap": 467.0,
+    "name": "Applied UV Inc"
+  },
+  "AUXIF": {
+    "fetched_at": 1795552531.091761,
+    "market_cap": 11750000.0,
+    "name": "Auxico Resources Canada Inc"
+  },
+  "AUXX": {
+    "fetched_at": 1795552531.091761,
+    "market_cap": 371829626.0,
+    "name": "Gold X2 Mining Inc"
+  },
+  "AUXXF": {
+    "fetched_at": 1795552531.091761,
+    "market_cap": 28497452.0,
+    "name": "A2 Gold Corp"
+  },
+  "AVA": {
+    "fetched_at": 1795552531.091761,
+    "market_cap": 3362823000.0,
+    "name": "Avista Corporation"
+  },
+  "AVACF": {
+    "fetched_at": 1795552531.091761,
+    "market_cap": 10450000.0,
+    "name": "Avance Gas Holding Ltd"
+  },
+  "AVAH": {
+    "fetched_at": 1795552531.091761,
+    "market_cap": 2532459274.0,
+    "name": "Aveanna Healthcare Holdings Inc"
+  },
+  "AVAI": {
+    "fetched_at": 1795552531.091761,
+    "market_cap": 15487253.333333336,
+    "name": "Avai Bio Inc"
+  },
+  "AVAT": {
+    "fetched_at": 1795552531.091761,
+    "market_cap": 34215630.27308898,
+    "name": "Avalanche Treasury Corp"
+  },
+  "AVAV": {
+    "fetched_at": 1795552531.091761,
+    "market_cap": 4607912921.0,
+    "name": "AeroVironment, Inc."
+  },
+  "AVBC": {
+    "fetched_at": 1795552531.091761,
+    "market_cap": 413822099.43764704,
+    "name": "Avidia Bancorp Inc"
+  },
+  "AVBH": {
+    "fetched_at": 1795552531.091761,
+    "market_cap": 379307388.15230054,
+    "name": "Avidbank Holdings Inc"
+  },
+  "AVBP": {
+    "fetched_at": 1795552531.091761,
+    "market_cap": 582401846.0,
+    "name": "ArriVent BioPharma, Inc."
+  },
+  "AVCNF": {
+    "fetched_at": 1795552531.091761,
+    "market_cap": 11422627.0,
+    "name": "Avicanna Inc"
+  },
+  "AVCRF": {
+    "fetched_at": 1795552531.091761,
+    "market_cap": 5686635.0,
+    "name": "Avricore Health Inc"
+  },
+  "AVCTF": {
+    "fetched_at": 1795552531.091761,
+    "market_cap": 289638090.0,
+    "name": "Avacta Group PLC"
+  },
+  "AVCVF": {
+    "fetched_at": 1795552531.091761,
+    "market_cap": 279179.0,
+    "name": "Monitor Ventures Inc"
+  },
+  "AVD": {
+    "fetched_at": 1795552531.091761,
+    "market_cap": 22481026.67943889,
+    "name": "American Vanguard Corporation"
+  },
+  "AVDWF": {
+    "fetched_at": 1795552531.091761,
+    "market_cap": 5609691.0,
+    "name": "Advent-AWI Holdings Inc"
+  },
+  "AVEFF": {
+    "fetched_at": 1795552531.091761,
+    "market_cap": 38637257.0,
+    "name": "Avecho Biotechnology Ltd"
+  },
+  "AVEW": {
+    "fetched_at": 1795552531.091761,
+    "market_cap": 1250.01,
+    "name": "AVEW Holdings Inc"
+  },
+  "AVEX": {
+    "fetched_at": 1795552531.091761,
+    "market_cap": 1492704677.710396,
+    "name": "AEVEX Corp"
+  },
+  "AVEXF": {
+    "fetched_at": 1795552531.091761,
+    "market_cap": 63800502491.0,
+    "name": "Avex Inc"
+  },
+  "AVGDF": {
+    "fetched_at": 1795552531.091761,
+    "market_cap": 1897341.0,
+    "name": "Avidian Gold Corp"
+  },
+  "AVGO": {
+    "fetched_at": 1795552531.091761,
+    "market_cap": 1437423440276.458,
+    "name": "Broadcom Inc"
+  },
+  "AVGPF": {
+    "fetched_at": 1795552531.091761,
+    "market_cap": 280676116.0,
+    "name": "Avingtrans PLC"
+  },
+  "AVHNF": {
+    "fetched_at": 1795552531.091761,
+    "market_cap": 8603568929.0,
+    "name": "Ackermans & Van Haaren NV"
+  },
+  "AVIJF": {
+    "fetched_at": 1795552531.091761,
+    "market_cap": 21128065164.0,
+    "name": "AviChina Industry & Technology Co Ltd"
+  },
+  "AVIR": {
+    "fetched_at": 1795552531.091761,
+    "market_cap": 326837887.0,
+    "name": "Atea Pharmaceuticals, Inc."
+  },
+  "AVISF": {
+    "fetched_at": 1795552531.091761,
+    "market_cap": 37080000000.0,
+    "name": "Agesa Hayat ve Emeklilik AS"
+  },
+  "AVIX": {
+    "fetched_at": 1795552531.091761,
+    "market_cap": 3542.0,
+    "name": "Avix Technologies Inc"
+  },
+  "AVIZF": {
+    "fetched_at": 1795552531.091761,
+    "market_cap": 993386045410.0,
+    "name": "Advanced Info Service PCL"
+  },
+  "AVLN": {
+    "fetched_at": 1795552531.091761,
+    "market_cap": 1330524749.8398533,
+    "name": "Avalyn Pharma Inc"
+  },
+  "AVLNF": {
+    "fetched_at": 1795552531.091761,
+    "market_cap": 18724843.0,
+    "name": "Avalon Advanced Materials Inc"
+  },
+  "AVLP": {
+    "fetched_at": 1795552531.091761,
+    "market_cap": 552.9,
+    "name": "Avalanche International Corp"
+  },
+  "AVLS": {
+    "fetched_at": 1795552531.091761,
+    "market_cap": 120.387,
+    "name": "Advanced Lighting Solutions Inc"
+  },
+  "AVMPF": {
+    "fetched_at": 1795552531.091761,
+    "market_cap": 928664798279.0,
+    "name": "Asia Vital Components Co Ltd"
+  },
+  "AVNBF": {
+    "fetched_at": 1795552531.091761,
+    "market_cap": 660891476.0,
+    "name": "Avon Technologies PLC"
+  },
+  "AVNE": {
+    "fetched_at": 1795552531.091761,
+    "market_cap": 58.687999999999995,
+    "name": "Aventura Equities Inc"
+  },
+  "AVNI": {
+    "fetched_at": 1795552531.091761,
+    "market_cap": 30000.0,
+    "name": "Arvana Inc"
+  },
+  "AVNT": {
+    "fetched_at": 1795552531.091761,
+    "market_cap": 4060670474.0,
+    "name": "Avient Corp"
+  },
+  "AVNW": {
+    "fetched_at": 1795552531.091761,
+    "market_cap": 223796355.0,
+    "name": "Aviat Networks Inc"
+  },
+  "AVNY": {
+    "fetched_at": 1795552531.091761,
+    "market_cap": 99.086,
+    "name": "Manaris (2010) Corp"
+  },
+  "AVO": {
+    "fetched_at": 1795552531.091761,
+    "market_cap": 939912533.0,
+    "name": "Mission Produce Inc"
+  },
+  "AVOZ": {
+    "fetched_at": 1795552531.091761,
+    "market_cap": 70000.0,
+    "name": "Altavoz Entertainment Inc"
+  },
+  "AVPMF": {
+    "fetched_at": 1795552531.091761,
+    "market_cap": 2156869.0,
+    "name": "Avrupa Minerals Ltd"
+  },
+  "AVPT": {
+    "fetched_at": 1795552531.091761,
+    "market_cap": 3535590688.0,
+    "name": "AvePoint, Inc."
+  },
   "AVR": {
-    "fetched_at": 1795446208.02,
-    "market_cap": 486492199.00000006,
+    "fetched_at": 1795552531.091761,
+    "market_cap": 573261386.0000001,
     "name": "Anteris Technologies Global Corp"
   },
+  "AVRI": {
+    "fetched_at": 1795552531.091761,
+    "market_cap": 30000.0,
+    "name": "Innovation Nation Inc"
+  },
+  "AVRKF": {
+    "fetched_at": 1795552531.091761,
+    "market_cap": 14554955.0,
+    "name": "Ava Risk Group Ltd"
+  },
+  "AVRTF": {
+    "fetched_at": 1795552531.091761,
+    "market_cap": 460000.0,
+    "name": "Avarone Metals Inc"
+  },
+  "AVRW": {
+    "fetched_at": 1795552531.091761,
+    "market_cap": 18039.34,
+    "name": "Avenir Wellness Solutions Inc"
+  },
+  "AVSR": {
+    "fetched_at": 1795552531.091761,
+    "market_cap": 4085.7000000000003,
+    "name": "Avistar Communications Corp"
+  },
+  "AVT": {
+    "fetched_at": 1795552531.091761,
+    "market_cap": 5966142215.017275,
+    "name": "Avnet, Inc."
+  },
+  "AVTBF": {
+    "fetched_at": 1795552531.091761,
+    "market_cap": 8184716.999999999,
+    "name": "Avant Brands Inc"
+  },
+  "AVTC": {
+    "fetched_at": 1795552531.091761,
+    "market_cap": 593440000.0,
+    "name": "Westaim Corp"
+  },
+  "AVTEF": {
+    "fetched_at": 1795552531.091761,
+    "market_cap": 28502333209.0,
+    "name": "Advtech Ltd"
+  },
+  "AVTGF": {
+    "fetched_at": 1795552531.091761,
+    "market_cap": 87248130.0,
+    "name": "Avanti Gold Corp"
+  },
+  "AVTI": {
+    "fetched_at": 1795552531.091761,
+    "market_cap": 138.189,
+    "name": "Avitar Inc"
+  },
+  "AVTR": {
+    "fetched_at": 1795552531.091761,
+    "market_cap": 10431894152.783836,
+    "name": "Avantor, Inc."
+  },
+  "AVTX": {
+    "fetched_at": 1795552531.091761,
+    "market_cap": 411700337.0,
+    "name": "Avalo Therapeutics, Inc."
+  },
+  "AVTXF": {
+    "fetched_at": 1795552531.091761,
+    "market_cap": 96752877.0,
+    "name": "Avantium NV"
+  },
+  "AVVH": {
+    "fetched_at": 1795552531.091761,
+    "market_cap": 1546308.210526316,
+    "name": "Avvaa World Health Care Products Inc"
+  },
+  "AVVOF": {
+    "fetched_at": 1795552531.091761,
+    "market_cap": 1910774194.0,
+    "name": "Avio SpA"
+  },
+  "AVVZF": {
+    "fetched_at": 1795552531.091761,
+    "market_cap": 60068727018.0,
+    "name": "Avanza Bank Holding AB"
+  },
+  "AVX": {
+    "fetched_at": 1795552531.091761,
+    "market_cap": 27020818.333333336,
+    "name": "AVAX One Technology Ltd"
+  },
+  "AVXL": {
+    "fetched_at": 1795552531.091761,
+    "market_cap": 70852833.65044105,
+    "name": "Anavex Life Sciences Corp"
+  },
+  "AVY": {
+    "fetched_at": 1795552531.091761,
+    "market_cap": 14089679301.14293,
+    "name": "Avery Dennison Corp"
+  },
+  "AWAEF": {
+    "fetched_at": 1795552531.091761,
+    "market_cap": 430136173.0,
+    "name": "SIIC Environment Holdings Ltd"
+  },
+  "AWAW": {
+    "fetched_at": 1795552531.091761,
+    "market_cap": 24550000.0,
+    "name": "White Fox Ventures Inc"
+  },
+  "AWBKF": {
+    "fetched_at": 1795552531.091761,
+    "market_cap": 327784921799.0,
+    "name": "Awa Bank Ltd"
+  },
+  "AWCA": {
+    "fetched_at": 1795552531.091761,
+    "market_cap": 10234655.0,
+    "name": "Awaysis Capital Inc"
+  },
+  "AWEVF": {
+    "fetched_at": 1795552531.091761,
+    "market_cap": 1477550000.0,
+    "name": "Alphawave IP Group PLC"
+  },
+  "AWFDF": {
+    "fetched_at": 1795552531.091761,
+    "market_cap": 874116904.0,
+    "name": "A&W Food Services of Canada Inc"
+  },
+  "AWHL": {
+    "fetched_at": 1795552531.091761,
+    "market_cap": 9790000.0,
+    "name": "Aspira Women's Health Inc."
+  },
+  "AWI": {
+    "fetched_at": 1795552531.091761,
+    "market_cap": 7259435824.227033,
+    "name": "Armstrong World Industries, Inc."
+  },
+  "AWIN": {
+    "fetched_at": 1795552531.091761,
+    "market_cap": 92.489,
+    "name": "AERWINS Technologies Inc"
+  },
+  "AWK": {
+    "fetched_at": 1795552531.091761,
+    "market_cap": 29948326321.977085,
+    "name": "American Water Works Company, Inc."
+  },
+  "AWLIF": {
+    "fetched_at": 1795552531.091761,
+    "market_cap": 7360000.0,
+    "name": "Ameriwest Critical Metals Inc"
+  },
+  "AWLNF": {
+    "fetched_at": 1795552531.091761,
+    "market_cap": 786046849.0,
+    "name": "Awilco LNG ASA"
+  },
+  "AWLRF": {
+    "fetched_at": 1795552531.091761,
+    "market_cap": 91812137.0,
+    "name": "Awale Resources Ltd"
+  },
+  "AWMLF": {
+    "fetched_at": 1795552531.091761,
+    "market_cap": 27050684.0,
+    "name": "American West Metals Ltd"
+  },
+  "AWON": {
+    "fetched_at": 1795552531.091761,
+    "market_cap": 1988930.0,
+    "name": "A1 Group Inc"
+  },
+  "AWR": {
+    "fetched_at": 1795552531.091761,
+    "market_cap": 3511720062.5228343,
+    "name": "American States Water Company"
+  },
+  "AWRE": {
+    "fetched_at": 1795552531.091761,
+    "market_cap": 20558338.41319149,
+    "name": "Aware Inc"
+  },
+  "AWRS": {
+    "fetched_at": 1795552531.091761,
+    "market_cap": 1633.0,
+    "name": "All World Resources Corp"
+  },
+  "AWRY": {
+    "fetched_at": 1795552531.091761,
+    "market_cap": 2300000.0,
+    "name": "Allegheny and Western Railway Co"
+  },
+  "AWSL": {
+    "fetched_at": 1795552531.091761,
+    "market_cap": 110825.99999999999,
+    "name": "Atlantic Power and Infrastructure Corp"
+  },
+  "AWTRF": {
+    "fetched_at": 1795552531.091761,
+    "market_cap": 680758880310.0,
+    "name": "Air Water Inc"
+  },
+  "AWWI": {
+    "fetched_at": 1795552531.091761,
+    "market_cap": 126.18799999999997,
+    "name": "Everhome Realty Inc"
+  },
+  "AWX": {
+    "fetched_at": 1795552531.091761,
+    "market_cap": 10177515.0,
+    "name": "Avalon Holdings Corp"
+  },
+  "AX": {
+    "fetched_at": 1795552531.091761,
+    "market_cap": 4877440315.693451,
+    "name": "Axos Financial, Inc."
+  },
+  "AXAC": {
+    "fetched_at": 1795552531.091761,
+    "market_cap": 91620000.0,
+    "name": "AXIOS Sustainable Growth Acquisition Corp"
+  },
+  "AXAHF": {
+    "fetched_at": 1795552531.091761,
+    "market_cap": 93382498151.0,
+    "name": "AXA SA"
+  },
+  "AXCG": {
+    "fetched_at": 1795552531.091761,
+    "market_cap": 3154.19,
+    "name": "Eyes on The Go Inc"
+  },
+  "AXCP": {
+    "fetched_at": 1795552531.091761,
+    "market_cap": 0.0,
+    "name": "Allixon International Corp"
+  },
+  "AXFOF": {
+    "fetched_at": 1795552531.091761,
+    "market_cap": 61041828918.0,
+    "name": "Axfood AB"
+  },
+  "AXG": {
+    "fetched_at": 1795552531.091761,
+    "market_cap": 931604.9723756905,
+    "name": "Solowin Holdings Ltd"
+  },
+  "AXGC": {
+    "fetched_at": 1795552531.091761,
+    "market_cap": 392.0933,
+    "name": "Axis Energy Corp"
+  },
+  "AXGN": {
+    "fetched_at": 1795552531.091761,
+    "market_cap": 3503803832.9999995,
+    "name": "AxoGen, Inc."
+  },
+  "AXIIF": {
+    "fetched_at": 1795552531.091761,
+    "market_cap": 22280623.0,
+    "name": "Alexium International Group Ltd"
+  },
+  "AXIL": {
+    "fetched_at": 1795552531.091761,
+    "market_cap": 29064622.000000004,
+    "name": "AXIL Brands Inc"
+  },
+  "AXIM": {
+    "fetched_at": 1795552531.091761,
+    "market_cap": 1123507.0,
+    "name": "Axim Biotechnologies Inc"
+  },
+  "AXIN": {
+    "fetched_at": 1795552531.091761,
+    "market_cap": 283303413.32390577,
+    "name": "Axiom Intelligence Acquisition Corp 1"
+  },
+  "AXLRF": {
+    "fetched_at": 1795552531.091761,
+    "market_cap": 8973678.0,
+    "name": "Axel REE Ltd"
+  },
+  "AXLX": {
+    "fetched_at": 1795552531.091761,
+    "market_cap": 1145.048,
+    "name": "Axiologix Inc"
+  },
+  "AXMIF": {
+    "fetched_at": 1795552531.091761,
+    "market_cap": 2250000.0,
+    "name": "AXMIN Inc"
+  },
+  "AXMP": {
+    "fetched_at": 1795552531.091761,
+    "market_cap": 40860.3,
+    "name": "Aaron Sparks Industries Inc"
+  },
+  "AXNX": {
+    "fetched_at": 1795552531.091761,
+    "market_cap": 5747222.255630906,
+    "name": "Axonics Inc"
+  },
+  "AXOCF": {
+    "fetched_at": 1795552531.091761,
+    "market_cap": 139587239.0,
+    "name": "Axo Metals Corp"
+  },
+  "AXON": {
+    "fetched_at": 1795552531.091761,
+    "market_cap": 25048701706.0,
+    "name": "Axon Enterprise, Inc."
+  },
+  "AXP": {
+    "fetched_at": 1795552531.091761,
+    "market_cap": 205688469748.76416,
+    "name": "American Express Company"
+  },
+  "AXPWQ": {
+    "fetched_at": 1795552531.091761,
+    "market_cap": 95.9545,
+    "name": "Axion Power International Inc"
+  },
+  "AXR": {
+    "fetched_at": 1795552531.091761,
+    "market_cap": 106017745.00000001,
+    "name": "AMREP Corp"
+  },
+  "AXREF": {
+    "fetched_at": 1795552531.091761,
+    "market_cap": 198499269.0,
+    "name": "Amarc Resources Ltd"
+  },
+  "AXRX": {
+    "fetched_at": 1795552531.091761,
+    "market_cap": 30000.0,
+    "name": "Amexdrug Corp"
+  },
+  "AXS": {
+    "fetched_at": 1795552531.091761,
+    "market_cap": 7768501031.423157,
+    "name": "AXIS Capital Holdings Limited"
+  },
+  "AXSM": {
+    "fetched_at": 1795552531.091761,
+    "market_cap": 7720099468.828691,
+    "name": "Axsome Therapeutics, Inc."
+  },
+  "AXTA": {
+    "fetched_at": 1795552531.091761,
+    "market_cap": 7444488124.134726,
+    "name": "Axalta Coating Systems Ltd."
+  },
+  "AXTG": {
+    "fetched_at": 1795552531.091761,
+    "market_cap": 42012.200000000004,
+    "name": "Axis Technologies Group Inc"
+  },
+  "AXTI": {
+    "fetched_at": 1795552531.091761,
+    "market_cap": 2498763817.9999995,
+    "name": "AXT, Inc."
+  },
+  "AXVEF": {
+    "fetched_at": 1795552531.091761,
+    "market_cap": 2394114.0,
+    "name": "CDN Maverick Capital Corp"
+  },
+  "AXVLF": {
+    "fetched_at": 1795552531.091761,
+    "market_cap": 83580000.0,
+    "name": "Axon Vision Ltd"
+  },
+  "AXXA": {
+    "fetched_at": 1795552531.091761,
+    "market_cap": 1206592.602739726,
+    "name": "Exxe Group Inc"
+  },
+  "AXXTF": {
+    "fetched_at": 1795552531.091761,
+    "market_cap": 15352765711.0,
+    "name": "Axiata Group Bhd"
+  },
+  "AYA": {
+    "fetched_at": 1795552531.091761,
+    "market_cap": 3890390700.0,
+    "name": "Aya Gold & Silver Inc"
+  },
+  "AYAAF": {
+    "fetched_at": 1795552531.091761,
+    "market_cap": 201810401724.0,
+    "name": "Ayala Land Inc"
+  },
+  "AYAUF": {
+    "fetched_at": 1795552531.091761,
+    "market_cap": 392972453.0,
+    "name": "Artrya Ltd"
+  },
+  "AYI": {
+    "fetched_at": 1795552531.091761,
+    "market_cap": 9459508382.39429,
+    "name": "Acuity Inc."
+  },
+  "AYRWF": {
+    "fetched_at": 1795552531.091761,
+    "market_cap": 18040000.0,
+    "name": "Ayr Wellness Inc"
+  },
+  "AYTU": {
+    "fetched_at": 1795552531.091761,
+    "market_cap": 28922475.767490637,
+    "name": "Aytu Biopharma Inc"
+  },
+  "AYURF": {
+    "fetched_at": 1795552531.091761,
+    "market_cap": 1950000.0,
+    "name": "Ayurcann Holdings Corp"
+  },
+  "AYYLF": {
+    "fetched_at": 1795552531.091761,
+    "market_cap": 328200879456.0,
+    "name": "Ayala Corp"
+  },
+  "AZ": {
+    "fetched_at": 1795552531.091761,
+    "market_cap": 217728348.77844313,
+    "name": "A2Z Cust2Mate Solutions Corp."
+  },
+  "AZASF": {
+    "fetched_at": 1795552531.091761,
+    "market_cap": 68708625.0,
+    "name": "Arizona Gold & Silver Inc"
+  },
+  "AZDDQ": {
+    "fetched_at": 1795552531.091761,
+    "market_cap": 19.6939,
+    "name": "Azure Dynamics Corp"
+  },
+  "AZEMF": {
+    "fetched_at": 1795552531.091761,
+    "market_cap": 16599709.0,
+    "name": "Arizona Eagle Mining Corp"
+  },
+  "AZFL": {
+    "fetched_at": 1795552531.091761,
+    "market_cap": 17617.0,
+    "name": "Amazonas Florestal Ltd"
+  },
+  "AZI": {
+    "fetched_at": 1795552531.091761,
+    "market_cap": 20435819.97837838,
+    "name": "Autozi Internet Technology (Global) Ltd"
+  },
+  "AZIHF": {
+    "fetched_at": 1795552531.091761,
+    "market_cap": 5135299841.0,
+    "name": "Azimut Holding SpA"
+  },
+  "AZIL": {
+    "fetched_at": 1795552531.091761,
+    "market_cap": 180000.0,
+    "name": "Aziel Corp"
+  },
+  "AZIO": {
+    "fetched_at": 1795552531.091761,
+    "market_cap": 6347248.143053645,
+    "name": "Azio AI Holdings Inc"
+  },
+  "AZLCZ": {
+    "fetched_at": 1795552531.091761,
+    "market_cap": 368331587.00000006,
+    "name": "Aztec Land And Cattle Company Ltd"
+  },
+  "AZLGF": {
+    "fetched_at": 1795552531.091761,
+    "market_cap": 2922822786.0,
+    "name": "Azelis Group NV"
+  },
+  "AZMCF": {
+    "fetched_at": 1795552531.091761,
+    "market_cap": 16530816.000000002,
+    "name": "Arizona Metals Corp"
+  },
+  "AZMTF": {
+    "fetched_at": 1795552531.091761,
+    "market_cap": 32753275.000000004,
+    "name": "Azimut Exploration Inc"
+  },
+  "AZN": {
+    "fetched_at": 1795552531.091761,
+    "market_cap": 209994250446.0,
+    "name": "AstraZeneca PLC"
+  },
+  "AZNVF": {
+    "fetched_at": 1795552531.091761,
+    "market_cap": 5430000.0,
+    "name": "AZN Capital Corp"
+  },
+  "AZO": {
+    "fetched_at": 1795552531.091761,
+    "market_cap": 53515938911.93106,
+    "name": "AutoZone, Inc."
+  },
+  "AZOOF": {
+    "fetched_at": 1795552531.091761,
+    "market_cap": 44369433737.0,
+    "name": "AZoom Co Ltd"
+  },
+  "AZREF": {
+    "fetched_at": 1795552531.091761,
+    "market_cap": 64166359.0,
+    "name": "Azure Power Global Ltd"
+  },
+  "AZRGF": {
+    "fetched_at": 1795552531.091761,
+    "market_cap": 40841522888.0,
+    "name": "Azrieli Group Ltd"
+  },
+  "AZRH": {
+    "fetched_at": 1795552531.091761,
+    "market_cap": 2131536.9999999995,
+    "name": "Azure Holding Group Corp"
+  },
+  "AZTA": {
+    "fetched_at": 1795552531.091761,
+    "market_cap": 1963701948.1737127,
+    "name": "Azenta, Inc."
+  },
+  "AZTR": {
+    "fetched_at": 1795552531.091761,
+    "market_cap": 3198698.0,
+    "name": "Azitra Inc"
+  },
+  "AZURF": {
+    "fetched_at": 1795552531.091761,
+    "market_cap": 2480875.0,
+    "name": "Azincourt Energy Corp"
+  },
+  "AZWSF": {
+    "fetched_at": 1795552531.091761,
+    "market_cap": 46850433022.0,
+    "name": "Aizawa Securities Group Co Ltd"
+  },
+  "AZZ": {
+    "fetched_at": 1795552531.091761,
+    "market_cap": 3641302906.0475965,
+    "name": "AZZ Inc"
+  },
+  "AZZTF": {
+    "fetched_at": 1795552531.091761,
+    "market_cap": 49324941.0,
+    "name": "Aztec Minerals Corp"
+  },
+  "B": {
+    "fetched_at": 1795552531.091761,
+    "market_cap": 79412127252.0,
+    "name": "Barrick Mining Corp"
+  },
+  "BA": {
+    "fetched_at": 1795552531.091761,
+    "market_cap": 128685947087.0,
+    "name": "Boeing Co"
+  },
+  "BABAF": {
+    "fetched_at": 1795552531.091761,
+    "market_cap": 210689798628.36465,
+    "name": "Alibaba Group Holding Limited"
+  },
+  "BABB": {
+    "fetched_at": 1795552531.091761,
+    "market_cap": 5883840.0,
+    "name": "BAB Inc"
+  },
+  "BABWF": {
+    "fetched_at": 1795552531.091761,
+    "market_cap": 19668485393.0,
+    "name": "International Consolidated Airlines Group SA"
+  },
+  "BABYF": {
+    "fetched_at": 1795552531.091761,
+    "market_cap": 300000.0,
+    "name": "Else Nutrition Holdings Inc"
+  },
+  "BAC": {
+    "fetched_at": 1795552531.091761,
+    "market_cap": 332176056296.0,
+    "name": "Bank of America Corporation"
+  },
+  "BACC": {
+    "fetched_at": 1795552531.091761,
+    "market_cap": 292484227.0,
+    "name": "Blue Acquisition Corp."
+  },
+  "BACHF": {
+    "fetched_at": 1795552531.091761,
+    "market_cap": 2137636136354.5098,
+    "name": "Bank of China Ltd"
+  },
+  "BACK": {
+    "fetched_at": 1795552531.091761,
+    "market_cap": 1135.491,
+    "name": "IMAC Holdings Inc"
+  },
+  "BADEF": {
+    "fetched_at": 1795552531.091761,
+    "market_cap": 308427484.0,
+    "name": "Hercules Metals Corp"
+  },
+  "BADVF": {
+    "fetched_at": 1795552531.091761,
+    "market_cap": 5640000.0,
+    "name": "Naughty Ventures Corp"
+  },
+  "BAER": {
+    "fetched_at": 1795552531.091761,
+    "market_cap": 16085246.979837283,
+    "name": "Bridger Aerospace Group Holdings Inc"
+  },
+  "BAESF": {
+    "fetched_at": 1795552531.091761,
+    "market_cap": 53207506723.0,
+    "name": "BAE Systems PLC"
+  },
+  "BAFBF": {
+    "fetched_at": 1795552531.091761,
+    "market_cap": 4047450448.0,
+    "name": "Balfour Beatty PLC"
+  },
+  "BAFN": {
+    "fetched_at": 1795552531.091761,
+    "market_cap": 166251331.5029126,
+    "name": "Bayfirst Financial Corp"
+  },
+  "BAGFF": {
+    "fetched_at": 1795552531.091761,
+    "market_cap": 661924768.0,
+    "name": "A G Barr PLC"
+  },
+  "BAGGF": {
+    "fetched_at": 1795552531.091761,
+    "market_cap": 11818694.0,
+    "name": "Blende Silver Corp"
+  },
+  "BAH": {
+    "fetched_at": 1795552531.091761,
+    "market_cap": 10319615361.9524,
+    "name": "Booz Allen Hamilton Holding Corporation"
+  },
+  "BAIDF": {
+    "fetched_at": 1795552531.091761,
+    "market_cap": 21484217135.900608,
+    "name": "Baidu, Inc."
+  },
+  "BAIGF": {
+    "fetched_at": 1795552531.091761,
+    "market_cap": 1811100143.0,
+    "name": "Bairong Inc"
+  },
+  "BAINF": {
+    "fetched_at": 1795552531.091761,
+    "market_cap": 32314916809.0,
+    "name": "Base Inc"
+  },
+  "BAJFF": {
+    "fetched_at": 1795552531.091761,
+    "market_cap": 0.0,
+    "name": "Camrova Resources Inc"
+  },
+  "BAKPF": {
+    "fetched_at": 1795552531.091761,
+    "market_cap": 14685046.0,
+    "name": "Condor Energy Ltd"
+  },
+  "BAKR": {
+    "fetched_at": 1795552531.091761,
+    "market_cap": 8570000.0,
+    "name": "Baker Global Asset Management Inc"
+  },
+  "BALDF": {
+    "fetched_at": 1795552531.091761,
+    "market_cap": 61261199717.0,
+    "name": "Fastighets AB Balder"
+  },
+  "BALL": {
+    "fetched_at": 1795552531.091761,
+    "market_cap": 16801819340.999998,
+    "name": "Ball Corp"
+  },
+  "BALY": {
+    "fetched_at": 1795552531.091761,
+    "market_cap": 492233145.0,
+    "name": "Bally's Corporation"
+  },
+  "BAM": {
+    "fetched_at": 1795552531.091761,
+    "market_cap": 79997776837.46925,
+    "name": "BROOKFIELD ASSET MANAGEMENT LTD"
+  },
+  "BAMIF": {
+    "fetched_at": 1795552531.091761,
+    "market_cap": 588490622.0,
+    "name": "Blue Ant Media Corporation"
+  },
+  "BAMNF": {
+    "fetched_at": 1795552531.091761,
+    "market_cap": 7308760.0,
+    "name": "Battery Age Minerals Ltd"
+  },
+  "BAMXF": {
+    "fetched_at": 1795552531.091761,
+    "market_cap": 32374573400.0,
+    "name": "Bayerische Motoren Werke AG"
+  },
+  "BANC": {
+    "fetched_at": 1795552531.091761,
+    "market_cap": 2627183399.021582,
+    "name": "Banc of California, Inc."
+  },
+  "BAND": {
+    "fetched_at": 1795552531.091761,
+    "market_cap": 1260362282.0000002,
+    "name": "Bandwidth Inc."
+  },
+  "BANF": {
+    "fetched_at": 1795552531.091761,
+    "market_cap": 4092464919.138026,
+    "name": "BancFirst Corp"
+  },
+  "BANI": {
+    "fetched_at": 1795552531.091761,
+    "market_cap": 40800.57,
+    "name": "Banneker Inc"
+  },
+  "BANL": {
+    "fetched_at": 1795552531.091761,
+    "market_cap": 8353850.986301371,
+    "name": "CBL International Ltd"
+  },
+  "BANR": {
+    "fetched_at": 1795552531.091761,
+    "market_cap": 2554224208.5972624,
+    "name": "Banner Corp"
+  },
+  "BANT": {
+    "fetched_at": 1795552531.091761,
+    "market_cap": 54.0,
+    "name": "Bantec Inc"
+  },
+  "BAOB": {
+    "fetched_at": 1795552531.091761,
+    "market_cap": 62198707.8536242,
+    "name": "Baraboo Bancorporation Inc"
+  },
+  "BAOS": {
+    "fetched_at": 1795552531.091761,
+    "market_cap": 4177934.677935382,
+    "name": "Baosheng Media Group Holdings Ltd"
+  },
+  "BAP": {
+    "fetched_at": 1795552531.091761,
+    "market_cap": 27436088152.615353,
+    "name": "Credicorp Ltd"
+  },
+  "BAPCF": {
+    "fetched_at": 1795552531.091761,
+    "market_cap": 592022682.0,
+    "name": "Bapcor Ltd"
+  },
+  "BARK": {
+    "fetched_at": 1795552531.091761,
+    "market_cap": 76549232.43268125,
+    "name": "Bark Inc"
+  },
+  "BARUF": {
+    "fetched_at": 1795552531.091761,
+    "market_cap": 12337751.0,
+    "name": "Baru Gold Corp"
+  },
+  "BASA": {
+    "fetched_at": 1795552531.091761,
+    "market_cap": 3210730.0,
+    "name": "Basanite Inc"
+  },
+  "BATL": {
+    "fetched_at": 1795552531.091761,
+    "market_cap": 33386127.340941016,
+    "name": "Battalion Oil Corp"
+  },
+  "BATMF": {
+    "fetched_at": 1795552531.091761,
+    "market_cap": 893708833.0,
+    "name": "British American Tobacco (Malaysia) Bhd"
+  },
+  "BATRA": {
+    "fetched_at": 1795552531.091761,
+    "market_cap": 3416670878.2061434,
+    "name": "Atlanta Braves Holdings, Inc."
+  },
+  "BATRB": {
+    "fetched_at": 1795552531.091761,
+    "market_cap": 3416670878.2061434,
+    "name": "Atlanta Braves Holdings, Inc."
+  },
+  "BATRK": {
+    "fetched_at": 1795552531.091761,
+    "market_cap": 3416670878.2061434,
+    "name": "Atlanta Braves Holdings, Inc."
+  },
+  "BATXF": {
+    "fetched_at": 1795552531.091761,
+    "market_cap": 5737948.0,
+    "name": "Battery X Metals Inc"
+  },
+  "BAUFF": {
+    "fetched_at": 1795552531.091761,
+    "market_cap": 20864143.0,
+    "name": "Blue Star Gold Corp"
+  },
+  "BAX": {
+    "fetched_at": 1795552531.091761,
+    "market_cap": 13877865694.006205,
+    "name": "Baxter International Inc."
+  },
+  "BAYP": {
+    "fetched_at": 1795552531.091761,
+    "market_cap": 30993.2,
+    "name": "Bayport International Holdings Inc"
+  },
+  "BAYZF": {
+    "fetched_at": 1795552531.091761,
+    "market_cap": 52048826899.0,
+    "name": "Bayer AG"
+  },
+  "BB": {
+    "fetched_at": 1795552531.091761,
+    "market_cap": 7061997529.0,
+    "name": "BlackBerry Ltd"
+  },
+  "BBAI": {
+    "fetched_at": 1795552531.091761,
+    "market_cap": 741342069.0666667,
+    "name": "BigBear.ai Holdings, Inc."
+  },
+  "BBAJF": {
+    "fetched_at": 1795552531.091761,
+    "market_cap": 65833050000.0,
+    "name": "Banco del Bajio SA Institucion de Banca Multiple"
+  },
+  "BBAL": {
+    "fetched_at": 1795552531.091761,
+    "market_cap": 0.0,
+    "name": "New York Health Care Inc"
+  },
+  "BBBK": {
+    "fetched_at": 1795552531.091761,
+    "market_cap": 54966924.46437854,
+    "name": "Baker Boyer Bancorp"
+  },
+  "BBBMF": {
+    "fetched_at": 1795552531.091761,
+    "market_cap": 10801731.0,
+    "name": "Lux Metals Corp"
+  },
+  "BBBT": {
+    "fetched_at": 1795552531.091761,
+    "market_cap": 3729.0000000000005,
+    "name": "Black Bird Biotech Inc"
+  },
+  "BBBXF": {
+    "fetched_at": 1795552531.091761,
+    "market_cap": 40219855.0,
+    "name": "Brixton Metals Corp"
+  },
+  "BBCI": {
+    "fetched_at": 1795552531.091761,
+    "market_cap": 40542556.98412698,
+    "name": "Bradbury Capital Inc."
+  },
+  "BBCMF": {
+    "fetched_at": 1795552531.091761,
+    "market_cap": 3870000.0,
+    "name": "LIR Life Sciences Corp"
+  },
+  "BBCP": {
+    "fetched_at": 1795552531.091761,
+    "market_cap": 464627322.8283898,
+    "name": "Concrete Pumping Holdings Inc"
+  },
+  "BBDA": {
+    "fetched_at": 1795552531.091761,
+    "market_cap": 287.0,
+    "name": "Bebida Beverage Co"
+  },
+  "BBDC": {
+    "fetched_at": 1795552531.091761,
+    "market_cap": 880061363.5778834,
+    "name": "Barings BDC Inc"
+  },
+  "BBGCF": {
+    "fetched_at": 1795552531.091761,
+    "market_cap": 2667562.0,
+    "name": "Big Bear Gold Corp"
+  },
+  "BBGI": {
+    "fetched_at": 1795552531.091761,
+    "market_cap": 8867885.268292684,
+    "name": "Beasley Broadcast Group Inc"
+  },
+  "BBIG": {
+    "fetched_at": 1795552531.091761,
+    "market_cap": 70205.0,
+    "name": "Vinco Ventures Inc"
+  },
+  "BBIO": {
+    "fetched_at": 1795552531.091761,
+    "market_cap": 16263917226.13384,
+    "name": "BridgeBio Pharma, Inc."
+  },
+  "BBIXF": {
+    "fetched_at": 1795552531.091761,
+    "market_cap": 170547745.0,
+    "name": "Bonus Biogroup Ltd"
+  },
+  "BBLC": {
+    "fetched_at": 1795552531.091761,
+    "market_cap": 2872481.0,
+    "name": "Blockchain Loyalty Corp"
+  },
+  "BBLG": {
+    "fetched_at": 1795552531.091761,
+    "market_cap": 931990.2777777778,
+    "name": "Bone Biologics Corp"
+  },
+  "BBLNF": {
+    "fetched_at": 1795552531.091761,
+    "market_cap": 2561.4100000000003,
+    "name": "Babylon Holdings Ltd"
+  },
+  "BBLR": {
+    "fetched_at": 1795552531.091761,
+    "market_cap": 143159.24528301888,
+    "name": "Bubblr Inc"
+  },
+  "BBNA": {
+    "fetched_at": 1795552531.091761,
+    "market_cap": 117986593.07563026,
+    "name": "Bonvenu Bancorp Inc"
+  },
+  "BBNX": {
+    "fetched_at": 1795552531.091761,
+    "market_cap": 822573692.8500361,
+    "name": "Beta Bionics, Inc."
+  },
+  "BBOE": {
+    "fetched_at": 1795552531.091761,
+    "market_cap": 7049457.679245283,
+    "name": "Black Box Entertainment Ltd"
+  },
+  "BBOP": {
+    "fetched_at": 1795552531.091761,
+    "market_cap": 0.0,
+    "name": "Bebop Channel Corp"
+  },
+  "BBOT": {
+    "fetched_at": 1795552531.091761,
+    "market_cap": 161706304.14864868,
+    "name": "BridgeBio Oncology Therapeutics Inc"
+  },
+  "BBRDF": {
+    "fetched_at": 1795552531.091761,
+    "market_cap": 18490454.0,
+    "name": "Blackbird PLC"
+  },
+  "BBRRF": {
+    "fetched_at": 1795552531.091761,
+    "market_cap": 4950901.0,
+    "name": "Blueberries Medical Corp"
+  },
+  "BBRW": {
+    "fetched_at": 1795552531.091761,
+    "market_cap": 15847.5,
+    "name": "Brewbilt Manufacturing Inc"
+  },
+  "BBRYF": {
+    "fetched_at": 1795552531.091761,
+    "market_cap": 4098744485.9999995,
+    "name": "Burberry Group PLC"
+  },
+  "BBSI": {
+    "fetched_at": 1795552531.091761,
+    "market_cap": 746727774.409938,
+    "name": "Barrett Business Services Inc"
+  },
+  "BBT": {
+    "fetched_at": 1795552531.091761,
+    "market_cap": 2510346696.0850854,
+    "name": "Beacon Financial Corporation"
+  },
+  "BBTT": {
+    "fetched_at": 1795552531.091761,
+    "market_cap": 24958532.026666667,
+    "name": "Btab Ecommerce Group Inc"
+  },
+  "BBUC": {
+    "fetched_at": 1795552531.091761,
+    "market_cap": 8235583310.82052,
+    "name": "Brookfield Business Holdings Corp"
+  },
+  "BBUZ": {
+    "fetched_at": 1795552531.091761,
+    "market_cap": 6542285.000000001,
+    "name": "Bebuzee Inc"
+  },
+  "BBVXF": {
+    "fetched_at": 1795552531.091761,
+    "market_cap": 123671535645.0,
+    "name": "Banco Bilbao Vizcaya Argentaria SA"
+  },
+  "BBW": {
+    "fetched_at": 1795552531.091761,
+    "market_cap": 336564228.0,
+    "name": "Build-A-Bear Workshop, Inc."
+  },
+  "BBWI": {
+    "fetched_at": 1795552531.091761,
+    "market_cap": 3877365331.9855595,
+    "name": "Bath & Body Works, Inc."
+  },
+  "BBXIA": {
+    "fetched_at": 1795552531.091761,
+    "market_cap": 53574813.0,
+    "name": "BBX Capital Inc"
+  },
+  "BBXIB": {
+    "fetched_at": 1795552531.091761,
+    "market_cap": 53574813.0,
+    "name": "BBX Capital Inc"
+  },
+  "BBY": {
+    "fetched_at": 1795552531.091761,
+    "market_cap": 20693832840.535053,
+    "name": "Best Buy Co., Inc."
+  },
+  "BC": {
+    "fetched_at": 1795552531.091761,
+    "market_cap": 4730497274.065765,
+    "name": "Brunswick Corp"
+  },
+  "BCAB": {
+    "fetched_at": 1795552531.091761,
+    "market_cap": 4153970.290178572,
+    "name": "Bioatla Inc"
+  },
+  "BCAL": {
+    "fetched_at": 1795552531.091761,
+    "market_cap": 674015707.5397162,
+    "name": "California Bancorp"
+  },
+  "BCAP": {
+    "fetched_at": 1795552531.091761,
+    "market_cap": 28424.000000000004,
+    "name": "Baron Capital Enterprise Inc"
+  },
+  "BCAUF": {
+    "fetched_at": 1795552531.091761,
+    "market_cap": 7870620180.0,
+    "name": "Brilliance China Automotive Holdings Ltd"
+  },
+  "BCAX": {
+    "fetched_at": 1795552531.091761,
+    "market_cap": 600140213.6137143,
+    "name": "Bicara Therapeutics Inc"
+  },
+  "BCBNF": {
+    "fetched_at": 1795552531.091761,
+    "market_cap": 52455665.6,
+    "name": "Base Carbon Inc"
+  },
+  "BCBP": {
+    "fetched_at": 1795552531.091761,
+    "market_cap": 278303985.0777778,
+    "name": "BCB Bancorp Inc"
+  },
+  "BCC": {
+    "fetched_at": 1795552531.091761,
+    "market_cap": 2244779445.2912407,
+    "name": "Boise Cascade Co"
+  },
+  "BCCB": {
+    "fetched_at": 1795552531.091761,
+    "market_cap": 21190000.0,
+    "name": "Beach Cities Commercial Bank"
+  },
+  "BCCEF": {
+    "fetched_at": 1795552531.091761,
+    "market_cap": 7136104.0,
+    "name": "Bactech Environmental Corp"
+  },
+  "BCCI": {
+    "fetched_at": 1795552531.091761,
+    "market_cap": 6544.0,
+    "name": "Baristas Coffee Company Inc"
+  },
+  "BCCLF": {
+    "fetched_at": 1795552531.091761,
+    "market_cap": 46469819421.0,
+    "name": "Becle SAB de CV"
+  },
+  "BCCQ": {
+    "fetched_at": 1795552531.091761,
+    "market_cap": 460000000.0,
+    "name": "Bleichroeder Acquisition Corp III"
+  },
+  "BCDA": {
+    "fetched_at": 1795552531.091761,
+    "market_cap": 10899923.020706454,
+    "name": "BioCardia Inc"
+  },
+  "BCDRF": {
+    "fetched_at": 1795552531.091761,
+    "market_cap": 152163654865.0,
+    "name": "Banco Santander SA"
+  },
+  "BCDS": {
+    "fetched_at": 1795552531.091761,
+    "market_cap": 4119339.375,
+    "name": "Blaqclouds Inc"
+  },
+  "BCE": {
+    "fetched_at": 1795552531.091761,
+    "market_cap": 29197382860.0,
+    "name": "BCE Inc"
+  },
+  "BCG": {
+    "fetched_at": 1795552531.091761,
+    "market_cap": 27490695.183478255,
+    "name": "Binah Capital Group Inc"
+  },
+  "BCHHF": {
+    "fetched_at": 1795552531.091761,
+    "market_cap": 3101458801.0,
+    "name": "Bucher Industries AG"
+  },
+  "BCHMF": {
+    "fetched_at": 1795552531.091761,
+    "market_cap": 5868465231.0,
+    "name": "BACHEM HOLDING AG"
+  },
+  "BCHT": {
+    "fetched_at": 1795552531.091761,
+    "market_cap": 22609265.0,
+    "name": "Birchtech Corp"
+  },
+  "BCIC": {
+    "fetched_at": 1795552531.091761,
+    "market_cap": 61949012.922465205,
+    "name": "Bcp Investment Corp"
+  },
+  "BCII": {
+    "fetched_at": 1795552531.091761,
+    "market_cap": 706462.0000000001,
+    "name": "Blockchain Industries Inc"
+  },
+  "BCINF": {
+    "fetched_at": 1795552531.091761,
+    "market_cap": 95038576202.0,
+    "name": "Bando Chemical Industries Ltd"
+  },
+  "BCKIF": {
+    "fetched_at": 1795552531.091761,
+    "market_cap": 5066054708.0,
+    "name": "Babcock International Group PLC"
+  },
+  "BCLI": {
+    "fetched_at": 1795552531.091761,
+    "market_cap": 11493057.0,
+    "name": "Brainstorm Cell Therapeutics Inc"
+  },
+  "BCLYF": {
+    "fetched_at": 1795552531.091761,
+    "market_cap": 54606990419.0,
+    "name": "Barclays PLC"
+  },
+  "BCML": {
+    "fetched_at": 1795552531.091761,
+    "market_cap": 331643960.0953178,
+    "name": "BayCom Corp"
+  },
+  "BCMNF": {
+    "fetched_at": 1795552531.091761,
+    "market_cap": 87553107.0,
+    "name": "Brazilian Critical Minerals Ltd"
+  },
+  "BCMRF": {
+    "fetched_at": 1795552531.091761,
+    "market_cap": 151098206.0,
+    "name": "BCM Resources Corp"
+  },
+  "BCNAF": {
+    "fetched_at": 1795552531.091761,
+    "market_cap": 493725124.0,
+    "name": "Barco NV"
+  },
+  "BCND": {
+    "fetched_at": 1795552531.091761,
+    "market_cap": 217.583,
+    "name": "Beacon Redevelopment Industrial Corp"
+  },
+  "BCNWF": {
+    "fetched_at": 1795552531.091761,
+    "market_cap": 10243866.0,
+    "name": "Bitcoin Well Inc"
+  },
+  "BCO": {
+    "fetched_at": 1795552531.091761,
+    "market_cap": 4935855921.874789,
+    "name": "The Brink's Company"
+  },
+  "BCOMF": {
+    "fetched_at": 1795552531.091761,
+    "market_cap": 3104320000.0,
+    "name": "B Communications Ltd"
+  },
+  "BCPC": {
+    "fetched_at": 1795552531.091761,
+    "market_cap": 5335571739.247852,
+    "name": "Balchem Corporation"
+  },
+  "BCRD": {
+    "fetched_at": 1795552531.091761,
+    "market_cap": 72870820.0,
+    "name": "BlueOne Technologies Inc"
+  },
+  "BCRX": {
+    "fetched_at": 1795552531.091761,
+    "market_cap": 1972198746.6076715,
+    "name": "BioCryst Pharmaceuticals, Inc."
+  },
+  "BCSF": {
+    "fetched_at": 1795552531.091761,
+    "market_cap": 686957495.9942639,
+    "name": "Bain Capital Specialty Finance Inc"
+  },
+  "BCSO": {
+    "fetched_at": 1795552531.091761,
+    "market_cap": 88205000.0,
+    "name": "Bancorp of Southern Indiana"
+  },
+  "BCSS": {
+    "fetched_at": 1795552531.091761,
+    "market_cap": 598600021.9892735,
+    "name": "Bain Capital GSS Investment Corp"
+  },
+  "BCTCF": {
+    "fetched_at": 1795552531.091761,
+    "market_cap": 7606546103.0,
+    "name": "OSL Group Ltd"
+  },
+  "BCTF": {
+    "fetched_at": 1795552531.091761,
+    "market_cap": 113872712.00000001,
+    "name": "Bancorp 34 Inc"
+  },
+  "BCTIF": {
+    "fetched_at": 1795552531.091761,
+    "market_cap": 13860000.0,
+    "name": "Birchtree Investments Ltd"
+  },
+  "BCTX": {
+    "fetched_at": 1795552531.091761,
+    "market_cap": 40780219.0,
+    "name": "Briacell Therapeutics Corp"
+  },
+  "BCUCF": {
+    "fetched_at": 1795552531.091761,
+    "market_cap": 6034319855.0,
+    "name": "Brunello Cucinelli SpA"
+  },
+  "BCUFF": {
+    "fetched_at": 1795552531.091761,
+    "market_cap": 7507608.0,
+    "name": "Bell Copper Corp"
+  },
+  "BCVVF": {
+    "fetched_at": 1795552531.091761,
+    "market_cap": 54445107089.0,
+    "name": "BOC Aviation Ltd"
+  },
+  "BDAI": {
+    "fetched_at": 1795552531.091761,
+    "market_cap": 14027300.999999998,
+    "name": "Biddance AI Systems, Inc"
+  },
+  "BDC": {
+    "fetched_at": 1795552531.091761,
+    "market_cap": 3761422376.840643,
+    "name": "Belden Inc."
+  },
+  "BDCC": {
+    "fetched_at": 1795552531.091761,
+    "market_cap": 42.4974,
+    "name": "Blackwell 3D Construction Corp"
+  },
+  "BDCI": {
+    "fetched_at": 1795552531.091761,
+    "market_cap": 353370000.0,
+    "name": "BTC Development Corp."
+  },
+  "BDCM": {
+    "fetched_at": 1795552531.091761,
+    "market_cap": 3159959.9999999995,
+    "name": "Broadcast Marketing Group Inc"
+  },
+  "BDCO": {
+    "fetched_at": 1795552531.091761,
+    "market_cap": 102513913.74251498,
+    "name": "Blue Dolphin Energy Co"
+  },
+  "BDCTF": {
+    "fetched_at": 1795552531.091761,
+    "market_cap": 116044185.0,
+    "name": "BuildDirect.com Technologies Inc"
+  },
+  "BDGIF": {
+    "fetched_at": 1795552531.091761,
+    "market_cap": 2519418101.0,
+    "name": "Badger Infrastructure Solutions Ltd"
+  },
+  "BDGR": {
+    "fetched_at": 1795552531.091761,
+    "market_cap": 3495278.0,
+    "name": "SEDT Card Inc"
+  },
+  "BDGSF": {
+    "fetched_at": 1795552531.091761,
+    "market_cap": 5408890686.0,
+    "name": "Lion Finance Group PLC"
+  },
+  "BDIMF": {
+    "fetched_at": 1795552531.091761,
+    "market_cap": 1411727312.0,
+    "name": "Black Diamond Group Ltd"
+  },
+  "BDL": {
+    "fetched_at": 1795552531.091761,
+    "market_cap": 86743240.421298,
+    "name": "Flanigan's Enterprises Inc"
+  },
+  "BDLNF": {
+    "fetched_at": 1795552531.091761,
+    "market_cap": 936887.0,
+    "name": "Badlands Resources Inc"
+  },
+  "BDLSF": {
+    "fetched_at": 1795552531.091761,
+    "market_cap": 17596931.0,
+    "name": "INOVIQ Ltd"
+  },
+  "BDMD": {
+    "fetched_at": 1795552531.091761,
+    "market_cap": 5030170.626506024,
+    "name": "Baird Medical Investment Holdings Ltd"
+  },
+  "BDMMF": {
+    "fetched_at": 1795552531.091761,
+    "market_cap": 24170000.0,
+    "name": "Burgundy Diamond Mines Ltd"
+  },
+  "BDMXF": {
+    "fetched_at": 1795552531.091761,
+    "market_cap": 19208846329.0,
+    "name": "Budimex SA"
+  },
+  "BDOUF": {
+    "fetched_at": 1795552531.091761,
+    "market_cap": 638200717053.0,
+    "name": "BDO Unibank Inc"
+  },
+  "BDPT": {
+    "fetched_at": 1795552531.091761,
+    "market_cap": 260583.99999999997,
+    "name": "BioAdaptives Inc"
+  },
+  "BDRAF": {
+    "fetched_at": 1795552531.091761,
+    "market_cap": 28920276149.0,
+    "name": "Bombardier Inc"
+  },
+  "BDRBF": {
+    "fetched_at": 1795552531.091761,
+    "market_cap": 28920276149.0,
+    "name": "Bombardier Inc"
+  },
+  "BDRFF": {
+    "fetched_at": 1795552531.091761,
+    "market_cap": 16868896422.999998,
+    "name": "Beiersdorf AG"
+  },
+  "BDRGF": {
+    "fetched_at": 1795552531.091761,
+    "market_cap": 548915.0,
+    "name": "Jaeger Resources Corp"
+  },
+  "BDRJF": {
+    "fetched_at": 1795552531.091761,
+    "market_cap": 2875513714.0,
+    "name": "Broedrene A & O Johansen A/S"
+  },
+  "BDRSF": {
+    "fetched_at": 1795552531.091761,
+    "market_cap": 73078345.0,
+    "name": "Borders and Southern Petroleum PLC"
+  },
+  "BDSX": {
+    "fetched_at": 1795552531.091761,
+    "market_cap": 88708081.50943395,
+    "name": "Biodesix Inc"
+  },
+  "BDTX": {
+    "fetched_at": 1795552531.091761,
+    "market_cap": 78156825.99999999,
+    "name": "Black Diamond Therapeutics Inc"
+  },
+  "BDVB": {
+    "fetched_at": 1795552531.091761,
+    "market_cap": 974045.9999999999,
+    "name": "Bagger Dave's Burger Tavern Inc"
+  },
+  "BDVSF": {
+    "fetched_at": 1795552531.091761,
+    "market_cap": 82592724792.0,
+    "name": "Bidvest Group Ltd"
+  },
+  "BDWBF": {
+    "fetched_at": 1795552531.091761,
+    "market_cap": 80752269165.0,
+    "name": "Budweiser Brewing Company APAC Ltd"
+  },
+  "BDX": {
+    "fetched_at": 1795552531.091761,
+    "market_cap": 60133474858.308136,
+    "name": "Becton Dickinson and Co"
+  },
+  "BDYS": {
+    "fetched_at": 1795552531.091761,
+    "market_cap": 0.0,
+    "name": "Bodyscan Corp"
+  },
+  "BE": {
+    "fetched_at": 1795552531.091761,
+    "market_cap": 49714668474.0,
+    "name": "Bloom Energy Corporation"
+  },
+  "BEAG": {
+    "fetched_at": 1795552531.091761,
+    "market_cap": 169239964.0,
+    "name": "Bold Eagle Acquisition Corp"
+  },
+  "BEAM": {
+    "fetched_at": 1795552531.091761,
+    "market_cap": 2439392384.922135,
+    "name": "Beam Therapeutics Inc."
+  },
+  "BEAT": {
+    "fetched_at": 1795552531.091761,
+    "market_cap": 18860883.240323126,
+    "name": "HeartBeam, Inc."
+  },
+  "BEBE": {
+    "fetched_at": 1795552531.091761,
+    "market_cap": 201800003.0,
+    "name": "bebe stores inc"
+  },
+  "BEEI": {
+    "fetched_at": 1795552531.091761,
+    "market_cap": 84.827,
+    "name": "Bald Eagle Energy Inc"
+  },
+  "BEEM": {
+    "fetched_at": 1795552531.091761,
+    "market_cap": 11613940.897277227,
+    "name": "Beam Global"
+  },
+  "BEEP": {
+    "fetched_at": 1795552531.091761,
+    "market_cap": 87555993.97156398,
+    "name": "Mobile Infrastructure Corp"
+  },
+  "BEGCF": {
+    "fetched_at": 1795552531.091761,
+    "market_cap": 1941979109.0,
+    "name": "Bega Cheese Ltd"
+  },
+  "BEGI": {
+    "fetched_at": 1795552531.091761,
+    "market_cap": 297871.0,
+    "name": "Blackstar Enterprise Group Inc"
+  },
+  "BEHL": {
+    "fetched_at": 1795552531.091761,
+    "market_cap": 656.3829999999999,
+    "name": "Biocentric Energy Holdings Inc"
+  },
+  "BEIGF": {
+    "fetched_at": 1795552531.091761,
+    "market_cap": 296294114389.5497,
+    "name": "BeOne Medicines AG"
+  },
+  "BEIJF": {
+    "fetched_at": 1795552531.091761,
+    "market_cap": 4018900429.815678,
+    "name": "Beijing North Star Co Ltd"
+  },
+  "BEJEF": {
+    "fetched_at": 1795552531.091761,
+    "market_cap": 81210863470.0,
+    "name": "Beijer Ref AB (publ)"
+  },
+  "BEKSF": {
+    "fetched_at": 1795552531.091761,
+    "market_cap": 1898135886.0,
+    "name": "NV Bekaert SA"
+  },
+  "BELDF": {
+    "fetched_at": 1795552531.091761,
+    "market_cap": 8638679.0,
+    "name": "Batero Gold Corp"
+  },
+  "BELFA": {
+    "fetched_at": 1795552531.091761,
+    "market_cap": 2833223942.349277,
+    "name": "Bel Fuse Inc."
+  },
+  "BELFB": {
+    "fetched_at": 1795552531.091761,
+    "market_cap": 2833223942.349277,
+    "name": "Bel Fuse Inc."
+  },
+  "BELGF": {
+    "fetched_at": 1795552531.091761,
+    "market_cap": 1990720214.0,
+    "name": "Bellevue Gold Ltd"
+  },
+  "BELMF": {
+    "fetched_at": 1795552531.091761,
+    "market_cap": 9936245.0,
+    "name": "Belmont Resources Inc"
+  },
+  "BELR": {
+    "fetched_at": 1795552531.091761,
+    "market_cap": 87894.99999999999,
+    "name": "Bellrose Capital Inc"
+  },
+  "BEN": {
+    "fetched_at": 1795552531.091761,
+    "market_cap": 16888608942.947805,
+    "name": "Franklin Templeton, Inc."
+  },
+  "BENF": {
+    "fetched_at": 1795552531.091761,
+    "market_cap": 15130452.976713533,
+    "name": "Beneficient"
+  },
+  "BENGF": {
+    "fetched_at": 1795552531.091761,
+    "market_cap": 317073338437500.0,
+    "name": "Barito Renewables Energy PT Tbk"
+  },
+  "BENZF": {
+    "fetched_at": 1795552531.091761,
+    "market_cap": 1340201526.0,
+    "name": "Benz Mining Corp"
+  },
+  "BEOB": {
+    "fetched_at": 1795552531.091761,
+    "market_cap": 156593574.13056743,
+    "name": "BEO Bancorp"
+  },
+  "BEOLF": {
+    "fetched_at": 1795552531.091761,
+    "market_cap": 146972211.0,
+    "name": "Beyond Oil Ltd."
+  },
+  "BEPC": {
+    "fetched_at": 1795552531.091761,
+    "market_cap": 4528650397.053435,
+    "name": "Brhc Holdings Ltd"
+  },
   "BEPTF": {
-    "fetched_at": 1795413766.7371082,
+    "fetched_at": 1795552531.091761,
     "market_cap": 1891038041.0,
     "name": "Beach Energy Ltd"
   },
+  "BERCF": {
+    "fetched_at": 1795552531.091761,
+    "market_cap": 113579.0,
+    "name": "BE Resources Inc"
+  },
+  "BERI": {
+    "fetched_at": 1795552531.091761,
+    "market_cap": 23081.0,
+    "name": "Blue Earth Resources Inc"
+  },
+  "BERLF": {
+    "fetched_at": 1795552531.091761,
+    "market_cap": 5482170.0,
+    "name": "Rockland Resources Ltd"
+  },
+  "BESS": {
+    "fetched_at": 1795552531.091761,
+    "market_cap": 16718516.473214284,
+    "name": "Bimergen Energy Corp"
+  },
+  "BESVF": {
+    "fetched_at": 1795552531.091761,
+    "market_cap": 12584961351.0,
+    "name": "BE Semiconductor Industries NV"
+  },
+  "BETA": {
+    "fetched_at": 1795552531.091761,
+    "market_cap": 3572613860.3456903,
+    "name": "BETA Technologies, Inc."
+  },
+  "BETR": {
+    "fetched_at": 1795552531.091761,
+    "market_cap": 243585375.6743185,
+    "name": "Better Home & Finance Holding Co"
+  },
+  "BETRF": {
+    "fetched_at": 1795552531.091761,
+    "market_cap": 128236492.0,
+    "name": "BetterLife Pharma Inc"
+  },
+  "BETSF": {
+    "fetched_at": 1795552531.091761,
+    "market_cap": 150.0,
+    "name": "Bit Brother Ltd"
+  },
+  "BETW": {
+    "fetched_at": 1795552531.091761,
+    "market_cap": 3.0,
+    "name": "Bettwork Industries Inc"
+  },
+  "BEUT": {
+    "fetched_at": 1795552531.091761,
+    "market_cap": 28380.0,
+    "name": "Science To Consumers Inc"
+  },
+  "BEVFF": {
+    "fetched_at": 1795552531.091761,
+    "market_cap": 613160086.0,
+    "name": "Diversified Royalty Corp"
+  },
+  "BEVVF": {
+    "fetched_at": 1795552531.091761,
+    "market_cap": 1030000.0,
+    "name": "Bee Vectoring Technologies International Inc"
+  },
+  "BEWFF": {
+    "fetched_at": 1795552531.091761,
+    "market_cap": 68813989.0,
+    "name": "Bewhere Holdings Inc"
+  },
+  "BFAAF": {
+    "fetched_at": 1795552531.091761,
+    "market_cap": 25810005349.0,
+    "name": "Bufab AB (publ)"
+  },
+  "BFAM": {
+    "fetched_at": 1795552531.091761,
+    "market_cap": 2491455144.288435,
+    "name": "Bright Horizons Family Solutions Inc."
+  },
+  "BFC": {
+    "fetched_at": 1795552531.091761,
+    "market_cap": 1579460868.0686338,
+    "name": "Bank First Corp"
+  },
+  "BFCH": {
+    "fetched_at": 1795552531.091761,
+    "market_cap": 445248.0,
+    "name": "Bitfrontier Capital Holdings Inc"
+  },
+  "BFDE": {
+    "fetched_at": 1795552531.091761,
+    "market_cap": 15101.0,
+    "name": "Bedford Holdings Corp"
+  },
+  "BFFAF": {
+    "fetched_at": 1795552531.091761,
+    "market_cap": 44594872698.0,
+    "name": "BASF SE"
+  },
+  "BFFBF": {
+    "fetched_at": 1795552531.091761,
+    "market_cap": 226720395.0,
+    "name": "BFF Bank SpA"
+  },
+  "BFH": {
+    "fetched_at": 1795552531.091761,
+    "market_cap": 3456371237.2030587,
+    "name": "Bread Financial Holdings, Inc."
+  },
+  "BFHJ": {
+    "fetched_at": 1795552531.091761,
+    "market_cap": 1035.1759,
+    "name": "Beneficial Holdings Inc"
+  },
+  "BFLBF": {
+    "fetched_at": 1795552531.091761,
+    "market_cap": 2186845618.0,
+    "name": "Bilfinger Se"
+  },
+  "BFLY": {
+    "fetched_at": 1795552531.091761,
+    "market_cap": 1473688487.9150174,
+    "name": "Butterfly Network, Inc."
+  },
+  "BFMHF": {
+    "fetched_at": 1795552531.091761,
+    "market_cap": 4311900367.0,
+    "name": "Beauty Farm Medical & Health Industry Inc"
+  },
+  "BFNH": {
+    "fetched_at": 1795552531.091761,
+    "market_cap": 253138334.331761,
+    "name": "BioForce Nanosciences Holdings Inc"
+  },
+  "BFPTF": {
+    "fetched_at": 1795552531.091761,
+    "market_cap": 10174150704.0,
+    "name": "Phancy Group Co Ltd"
+  },
+  "BFRG": {
+    "fetched_at": 1795552531.091761,
+    "market_cap": 6978201.337460485,
+    "name": "Bullfrog AI Holdings Inc"
+  },
+  "BFRI": {
+    "fetched_at": 1795552531.091761,
+    "market_cap": 8726803.799999999,
+    "name": "Biofrontera Inc"
+  },
+  "BFROF": {
+    "fetched_at": 1795552531.091761,
+    "market_cap": 13135046.0,
+    "name": "Applied Graphite Technologies Corp"
+  },
+  "BFSAF": {
+    "fetched_at": 1795552531.091761,
+    "market_cap": 1497999888.0,
+    "name": "Befesa SA"
+  },
+  "BFST": {
+    "fetched_at": 1795552531.091761,
+    "market_cap": 1006052327.5146112,
+    "name": "Business First Bancshares Inc"
+  },
+  "BFYW": {
+    "fetched_at": 1795552531.091761,
+    "market_cap": 508.0,
+    "name": "Better for You Wellness Inc"
+  },
+  "BG": {
+    "fetched_at": 1795552531.091761,
+    "market_cap": 17709892766.223007,
+    "name": "Bunge Global SA"
+  },
+  "BGACF": {
+    "fetched_at": 1795552531.091761,
+    "market_cap": 1390000.0,
+    "name": "BioNeutra Global Corp"
+  },
+  "BGAOF": {
+    "fetched_at": 1795552531.091761,
+    "market_cap": 1931299708.0,
+    "name": "Proximus NV"
+  },
+  "BGAUF": {
+    "fetched_at": 1795552531.091761,
+    "market_cap": 98714172.0,
+    "name": "Blossom Gold Inc"
+  },
+  "BGAVF": {
+    "fetched_at": 1795552531.091761,
+    "market_cap": 14142654.0,
+    "name": "Bravada Gold Corp"
+  },
+  "BGC": {
+    "fetched_at": 1795552531.091761,
+    "market_cap": 5310424889.410382,
+    "name": "Bgc Group Inc"
+  },
+  "BGDE": {
+    "fetched_at": 1795552531.091761,
+    "market_cap": 13865564.017937219,
+    "name": "Big Digital Energy Inc"
+  },
+  "BGDFF": {
+    "fetched_at": 1795552531.091761,
+    "market_cap": 176774623.0,
+    "name": "Barton Gold Holdings Ltd"
+  },
+  "BGEM": {
+    "fetched_at": 1795552531.091761,
+    "market_cap": 20000.0,
+    "name": "Blue Gem Enterprise Inc"
+  },
+  "BGFGF": {
+    "fetched_at": 1795552531.091761,
+    "market_cap": 3467105.0,
+    "name": "Beauce Gold Fields Inc"
+  },
+  "BGFR": {
+    "fetched_at": 1795552531.091761,
+    "market_cap": 2950000.0,
+    "name": "BestGofer Inc"
+  },
+  "BGICF": {
+    "fetched_at": 1795552531.091761,
+    "market_cap": 4340000.0,
+    "name": "Birks Group Inc."
+  },
+  "BGIN": {
+    "fetched_at": 1795552531.091761,
+    "market_cap": 597923466.9407895,
+    "name": "BGIN Blockchain Ltd"
+  },
+  "BGKAF": {
+    "fetched_at": 1795552531.091761,
+    "market_cap": 38933999214.0,
+    "name": "Bangkok Airways PCL"
+  },
+  "BGL": {
+    "fetched_at": 1795552531.091761,
+    "market_cap": 3290931.1,
+    "name": "Blue Gold Ltd"
+  },
+  "BGLAF": {
+    "fetched_at": 1795552531.091761,
+    "market_cap": 12726218592.0,
+    "name": "Biogaia AB"
+  },
+  "BGLC": {
+    "fetched_at": 1795552531.091761,
+    "market_cap": 2061130.5985552114,
+    "name": "BioNexus Gene Lab Corp"
+  },
+  "BGLEF": {
+    "fetched_at": 1795552531.091761,
+    "market_cap": 6773691200.0,
+    "name": "Beaglee Inc"
+  },
+  "BGM": {
+    "fetched_at": 1795552531.091761,
+    "market_cap": 102158962.99999999,
+    "name": "BGM Group Ltd"
+  },
+  "BGMD": {
+    "fetched_at": 1795552531.091761,
+    "market_cap": 1137.4,
+    "name": "BG Medicine Inc"
+  },
+  "BGMO": {
+    "fetched_at": 1795552531.091761,
+    "market_cap": 198.0,
+    "name": "Bergamo Acquisition Corp"
+  },
+  "BGMS": {
+    "fetched_at": 1795552531.091761,
+    "market_cap": 3824663.12849162,
+    "name": "Bio Green Med Solution Inc"
+  },
+  "BGNMF": {
+    "fetched_at": 1795552531.091761,
+    "market_cap": 6608736084.0,
+    "name": "Banca Generali SpA"
+  },
+  "BGOPF": {
+    "fetched_at": 1795552531.091761,
+    "market_cap": 65110910.00000001,
+    "name": "Bango PLC"
+  },
+  "BGOUF": {
+    "fetched_at": 1795552531.091761,
+    "market_cap": 1501282149.0,
+    "name": "Bang & Olufsen A/S"
+  },
+  "BGPBF": {
+    "fetched_at": 1795552531.091761,
+    "market_cap": 4984982804.0,
+    "name": "BTS Group AB"
+  },
+  "BGRP": {
+    "fetched_at": 1795552531.091761,
+    "market_cap": 1780000.0,
+    "name": "BGI Inc"
+  },
+  "BGS": {
+    "fetched_at": 1795552531.091761,
+    "market_cap": 311174845.15181065,
+    "name": "B&G Foods Inc"
+  },
+  "BGSF": {
+    "fetched_at": 1795552531.091761,
+    "market_cap": 39344688.010752685,
+    "name": "BGSF, Inc."
+  },
+  "BGSI": {
+    "fetched_at": 1795552531.091761,
+    "market_cap": 2888963472.0,
+    "name": "Boyd Group Services Inc"
+  },
+  "BGTCF": {
+    "fetched_at": 1795552531.091761,
+    "market_cap": 6904225116.0,
+    "name": "Beijing Geekplus Technology Co Ltd"
+  },
+  "BGTTF": {
+    "fetched_at": 1795552531.091761,
+    "market_cap": 9228826.0,
+    "name": "Goat Industries Ltd"
+  },
+  "BGUUF": {
+    "fetched_at": 1795552531.091761,
+    "market_cap": 3794068087.0,
+    "name": "Benguet Corp"
+  },
+  "BGXCF": {
+    "fetched_at": 1795552531.091761,
+    "market_cap": 432246.0,
+    "name": "BGX Black Gold Exploration Corp"
+  },
+  "BH": {
+    "fetched_at": 1795552531.091761,
+    "market_cap": 1213196043.4968793,
+    "name": "Biglari Holdings Inc"
+  },
+  "BHAGF": {
+    "fetched_at": 1795552531.091761,
+    "market_cap": 1919205276.0,
+    "name": "Bossard Holding AG"
+  },
+  "BHATF": {
+    "fetched_at": 1795552531.091761,
+    "market_cap": 10000.0,
+    "name": "Blue Hat Interactive Entertainment Technology"
+  },
+  "BHB": {
+    "fetched_at": 1795552531.091761,
+    "market_cap": 661251084.8861911,
+    "name": "Bar Harbor Bankshares"
+  },
+  "BHBCQ": {
+    "fetched_at": 1795552531.091761,
+    "market_cap": 18.787,
+    "name": "Beverly Hills Bancorp Inc"
+  },
+  "BHC": {
+    "fetched_at": 1795552531.091761,
+    "market_cap": 4479972782.0,
+    "name": "Bausch Health Companies Inc"
+  },
+  "BHCCF": {
+    "fetched_at": 1795552531.091761,
+    "market_cap": 135690000.0,
+    "name": "Benchmark Holdings Ltd"
+  },
+  "BHDB": {
+    "fetched_at": 1795552531.091761,
+    "market_cap": 0.0,
+    "name": "Bank of Labor Bancshares Inc"
+  },
+  "BHE": {
+    "fetched_at": 1795552531.091761,
+    "market_cap": 1972458445.381927,
+    "name": "Benchmark Electronics Inc"
+  },
+  "BHF": {
+    "fetched_at": 1795552531.091761,
+    "market_cap": 2370079841.4769754,
+    "name": "Brighthouse Financial, Inc."
+  },
+  "BHHOF": {
+    "fetched_at": 1795552531.091761,
+    "market_cap": 402267453.0,
+    "name": "Boohoo Group PLC"
+  },
+  "BHLIF": {
+    "fetched_at": 1795552531.091761,
+    "market_cap": 4417868.0,
+    "name": "Bradda Head Lithium Ltd"
+  },
+  "BHLL": {
+    "fetched_at": 1795552531.091761,
+    "market_cap": 132141089.0,
+    "name": "Bunker Hill Mining Corp"
+  },
+  "BHMNF": {
+    "fetched_at": 1795552531.091761,
+    "market_cap": 175806367.0,
+    "name": "Broken Hill Mines Ltd"
+  },
+  "BHNGF": {
+    "fetched_at": 1795552531.091761,
+    "market_cap": 5140000.0,
+    "name": "Bhang Inc"
+  },
+  "BHODF": {
+    "fetched_at": 1795552531.091761,
+    "market_cap": 9009658.0,
+    "name": "B HODL Plc"
+  },
+  "BHPLF": {
+    "fetched_at": 1795552531.091761,
+    "market_cap": 266984422190.0,
+    "name": "BHP Group Ltd"
+  },
+  "BHRB": {
+    "fetched_at": 1795552531.091761,
+    "market_cap": 1384882679.7239075,
+    "name": "Burke & Herbert Financial Services Corp"
+  },
+  "BHSIF": {
+    "fetched_at": 1795552531.091761,
+    "market_cap": 14624922.0,
+    "name": "Bayhorse Silver Inc"
+  },
+  "BHST": {
+    "fetched_at": 1795552531.091761,
+    "market_cap": 55490000.0,
+    "name": "BioHarvest Sciences Inc"
+  },
+  "BHTLF": {
+    "fetched_at": 1795552531.091761,
+    "market_cap": 4082400192.0,
+    "name": "Bechtle AG"
+  },
+  "BHVN": {
+    "fetched_at": 1795552531.091761,
+    "market_cap": 1978114754.8502398,
+    "name": "Biohaven Ltd."
+  },
+  "BIAF": {
+    "fetched_at": 1795552531.091761,
+    "market_cap": 2770777.073907285,
+    "name": "bioAffinity Technologies Inc"
+  },
+  "BICB": {
+    "fetched_at": 1795552531.091761,
+    "market_cap": 96.7428,
+    "name": "Wasatch Hldg Inc"
+  },
+  "BICEF": {
+    "fetched_at": 1795552531.091761,
+    "market_cap": 2573802716.0,
+    "name": "Societe BIC SA"
+  },
+  "BICMF": {
+    "fetched_at": 1795552531.091761,
+    "market_cap": 318656385086.0,
+    "name": "Bic Camera Inc"
+  },
+  "BICTF": {
+    "fetched_at": 1795552531.091761,
+    "market_cap": 1110000.0,
+    "name": "Biocure Technology Inc"
+  },
+  "BICX": {
+    "fetched_at": 1795552531.091761,
+    "market_cap": 6414529.0,
+    "name": "BioCorRx Inc"
+  },
+  "BIDCF": {
+    "fetched_at": 1795552531.091761,
+    "market_cap": 1132596.0,
+    "name": "BlockchainK2 Corp"
+  },
+  "BIEI": {
+    "fetched_at": 1795552531.091761,
+    "market_cap": 1098422.9999999998,
+    "name": "Premier Graphene Inc"
+  },
+  "BIEL": {
+    "fetched_at": 1795552531.091761,
+    "market_cap": 6176267.0,
+    "name": "BioElectronics Corp"
+  },
+  "BIFRF": {
+    "fetched_at": 1795552531.091761,
+    "market_cap": 16954444.0,
+    "name": "Biofrontera AG"
+  },
+  "BIGG": {
+    "fetched_at": 1795552531.091761,
+    "market_cap": 2220.9999999999995,
+    "name": "Big Tree Group Inc"
+  },
+  "BIGGQ": {
+    "fetched_at": 1795552531.091761,
+    "market_cap": 2968.9999999999995,
+    "name": "Former BL Stores Inc"
+  },
+  "BIGLF": {
+    "fetched_at": 1795552531.091761,
+    "market_cap": 233397733.0,
+    "name": "Big Technologies PLC"
+  },
+  "BIIB": {
+    "fetched_at": 1795552531.091761,
+    "market_cap": 39238876344.06606,
+    "name": "Biogen Inc."
+  },
+  "BIIO": {
+    "fetched_at": 1795552531.091761,
+    "market_cap": 78.0,
+    "name": "Bionovate Technologies Corp"
+  },
+  "BIJBF": {
+    "fetched_at": 1795552531.091761,
+    "market_cap": 355680318.0,
+    "name": "Bijou Brigitte modische Accessoires AG"
+  },
+  "BILL": {
+    "fetched_at": 1795552531.091761,
+    "market_cap": 5301399726.0,
+    "name": "BILL Holdings, Inc."
+  },
+  "BIMI": {
+    "fetched_at": 1795552531.091761,
+    "market_cap": 5584.280000000001,
+    "name": "BIMI Holdings Inc"
+  },
+  "BIMLF": {
+    "fetched_at": 1795552531.091761,
+    "market_cap": 6540000.0,
+    "name": "Bindi Metals Ltd"
+  },
+  "BINI": {
+    "fetched_at": 1795552531.091761,
+    "market_cap": 569221.0,
+    "name": "Bollinger Innovations Inc"
+  },
+  "BIO": {
+    "fetched_at": 1795552531.091761,
+    "market_cap": 10021674637.389284,
+    "name": "Bio-Rad Laboratories, Inc."
+  },
+  "BIOA": {
+    "fetched_at": 1795552531.091761,
+    "market_cap": 211179353.88145536,
+    "name": "BioAge Labs, Inc."
+  },
+  "BIOAF": {
+    "fetched_at": 1795552531.091761,
+    "market_cap": 10000.0,
+    "name": "Bioasis Technologies Inc"
+  },
+  "BIOCQ": {
+    "fetched_at": 1795552531.091761,
+    "market_cap": 524.9999999999999,
+    "name": "Biocept Inc"
+  },
+  "BIOE": {
+    "fetched_at": 1795552531.091761,
+    "market_cap": 25290230.000000004,
+    "name": "Bio Essence Corp"
+  },
+  "BIOF": {
+    "fetched_at": 1795552531.091761,
+    "market_cap": 32896085.000000007,
+    "name": "Blue Biofuels Inc"
+  },
+  "BIOIF": {
+    "fetched_at": 1795552531.091761,
+    "market_cap": 560000.0,
+    "name": "Biome Grow Inc"
+  },
+  "BIONQ": {
+    "fetched_at": 1795552531.091761,
+    "market_cap": 447.99769999999995,
+    "name": "BioNitrogen Holdings Corp"
+  },
+  "BIOQ": {
+    "fetched_at": 1795552531.091761,
+    "market_cap": 26815139.504132234,
+    "name": "Bioqual Inc"
+  },
+  "BIORQ": {
+    "fetched_at": 1795552531.091761,
+    "market_cap": 452.27000000000004,
+    "name": "Biora Therapeutics Inc"
+  },
+  "BIOT": {
+    "fetched_at": 1795552531.091761,
+    "market_cap": 5360000.0,
+    "name": "Relativity Acquisition Corp"
+  },
+  "BIOVF": {
+    "fetched_at": 1795552531.091761,
+    "market_cap": 163643402577.0,
+    "name": "Swedish Orphan Biovitrum AB (publ)"
+  },
+  "BIOX": {
+    "fetched_at": 1795552531.091761,
+    "market_cap": 10689161.43187067,
+    "name": "Bioceres Crop Solutions Corp"
+  },
+  "BIOYF": {
+    "fetched_at": 1795552531.091761,
+    "market_cap": 197339180.0,
+    "name": "BioSyent Inc"
+  },
+  "BIP": {
+    "fetched_at": 1795552531.091761,
+    "market_cap": 20770879800.0,
+    "name": "Brookfield Infrastructure Partners L.P."
+  },
+  "BIQIF": {
+    "fetched_at": 1795552531.091761,
+    "market_cap": 10.033999999999999,
+    "name": "BIQI International Holdings Corp"
+  },
+  "BIRD": {
+    "fetched_at": 1795552531.091761,
+    "market_cap": 13423462.999999998,
+    "name": "Smartbird Inc"
+  },
+  "BIRDF": {
+    "fetched_at": 1795552531.091761,
+    "market_cap": 4017293215.0,
+    "name": "Bird Construction Inc"
+  },
+  "BIREF": {
+    "fetched_at": 1795552531.091761,
+    "market_cap": 1833350497.0,
+    "name": "Birchcliff Energy Ltd"
+  },
+  "BIRK": {
+    "fetched_at": 1795552531.091761,
+    "market_cap": 6267877162.342517,
+    "name": "Birkenstock Holding PLC"
+  },
+  "BIRMF": {
+    "fetched_at": 1795552531.091761,
+    "market_cap": 76335559.0,
+    "name": "Biorem Inc"
+  },
+  "BIRNF": {
+    "fetched_at": 1795552531.091761,
+    "market_cap": 1528851487.0,
+    "name": "BCI Minerals Ltd"
+  },
+  "BISA": {
+    "fetched_at": 1795552531.091761,
+    "market_cap": 70000.0,
+    "name": "Baltic International USA Inc"
+  },
+  "BITCF": {
+    "fetched_at": 1795552531.091761,
+    "market_cap": 30351.300000000003,
+    "name": "First Bitcoin Capital Corp"
+  },
+  "BITRF": {
+    "fetched_at": 1795552531.091761,
+    "market_cap": 5570410.0,
+    "name": "Biotron Ltd"
+  },
+  "BITTF": {
+    "fetched_at": 1795552531.091761,
+    "market_cap": 10141084.0,
+    "name": "Bitterroot Resources Ltd"
+  },
+  "BIVI": {
+    "fetched_at": 1795552531.091761,
+    "market_cap": 9968630.826202912,
+    "name": "BioVie Inc"
+  },
+  "BIXI": {
+    "fetched_at": 1795552531.091761,
+    "market_cap": 304946771.0,
+    "name": "Bitcoin Infrastructure Acquisition Corp Ltd"
+  },
+  "BIXT": {
+    "fetched_at": 1795552531.091761,
+    "market_cap": 2511825.4029850746,
+    "name": "Bioxytran Inc"
+  },
+  "BIYA": {
+    "fetched_at": 1795552531.091761,
+    "market_cap": 7622675.139579833,
+    "name": "Baiya International Group Inc"
+  },
+  "BJ": {
+    "fetched_at": 1795552531.091761,
+    "market_cap": 13211254663.801203,
+    "name": "BJ's Wholesale Club Holdings, Inc."
+  },
+  "BJAGF": {
+    "fetched_at": 1795552531.091761,
+    "market_cap": 7485118769531.0,
+    "name": "Bank Jago Tbk PT"
+  },
+  "BJCHF": {
+    "fetched_at": 1795552531.091761,
+    "market_cap": 6914560232.0,
+    "name": "Beijing Capital International Airport Co Ltd"
+  },
+  "BJDX": {
+    "fetched_at": 1795552531.091761,
+    "market_cap": 1776044.2692307695,
+    "name": "Bluejay Diagnostics Inc"
+  },
+  "BJGBF": {
+    "fetched_at": 1795552531.091761,
+    "market_cap": 682083383.0,
+    "name": "Beijing Gas Blue Sky Holdings Ltd"
+  },
+  "BJINF": {
+    "fetched_at": 1795552531.091761,
+    "market_cap": 38947780889.0,
+    "name": "Beijing Enterprises Holdings Ltd"
+  },
+  "BJJCF": {
+    "fetched_at": 1795552531.091761,
+    "market_cap": 12407984654.0,
+    "name": "Beijing Jingneng Clean Energy Co Ltd"
+  },
+  "BJRI": {
+    "fetched_at": 1795552531.091761,
+    "market_cap": 1336329398.083744,
+    "name": "BJ's Restaurants Inc"
+  },
+  "BJSAF": {
+    "fetched_at": 1795552531.091761,
+    "market_cap": 1742874603.0,
+    "name": "Sports Toto Bhd"
+  },
+  "BJTRF": {
+    "fetched_at": 1795552531.091761,
+    "market_cap": 4470113997.0,
+    "name": "Beijing Tong Ren Tang Chinese Medicine Co Ltd"
+  },
+  "BJURF": {
+    "fetched_at": 1795552531.091761,
+    "market_cap": 41335544.0,
+    "name": "Bonjour Holdings Ltd"
+  },
+  "BJWTF": {
+    "fetched_at": 1795552531.091761,
+    "market_cap": 14120177537.0,
+    "name": "Beijing Enterprises Water Group Ltd"
+  },
+  "BKALF": {
+    "fetched_at": 1795552531.091761,
+    "market_cap": 2435176225586.0,
+    "name": "Bank Aladin Syariah Tbk PT"
+  },
+  "BKBLF": {
+    "fetched_at": 1795552531.091761,
+    "market_cap": 4430000.0,
+    "name": "Magnetic North Acquisition Corp"
+  },
+  "BKBMF": {
+    "fetched_at": 1795552531.091761,
+    "market_cap": 48301237.0,
+    "name": "Black Bear Minerals Ltd"
+  },
+  "BKCPF": {
+    "fetched_at": 1795552531.091761,
+    "market_cap": 359800000.0,
+    "name": "Blockchain Capital Tokenhub Pte Ltd"
+  },
+  "BKD": {
+    "fetched_at": 1795552531.091761,
+    "market_cap": 2212476799.4364815,
+    "name": "Brookdale Senior Living Inc"
+  },
+  "BKE": {
+    "fetched_at": 1795552531.091761,
+    "market_cap": 2344841970.3799033,
+    "name": "The Buckle, Inc."
+  },
+  "BKEAF": {
+    "fetched_at": 1795552531.091761,
+    "market_cap": 44965051881.0,
+    "name": "Bank of East Asia Ltd"
+  },
+  "BKEN": {
+    "fetched_at": 1795552531.091761,
+    "market_cap": 547.4399999999999,
+    "name": "Bakken Energy Corp"
+  },
+  "BKFCF": {
+    "fetched_at": 1795552531.091761,
+    "market_cap": 729560068083.1399,
+    "name": "Bank of Communications Co Ltd"
+  },
+  "BKFG": {
+    "fetched_at": 1795552531.091761,
+    "market_cap": 34996558.0,
+    "name": "BKF Capital Group Inc"
+  },
+  "BKFKF": {
+    "fetched_at": 1795552531.091761,
+    "market_cap": 25661063336.0,
+    "name": "P/F Bakkafrost"
+  },
+  "BKFL": {
+    "fetched_at": 1795552531.091761,
+    "market_cap": 53910000.0,
+    "name": "BankFlorida Bancorp Inc"
+  },
+  "BKGFF": {
+    "fetched_at": 1795552531.091761,
+    "market_cap": 3138489041.0,
+    "name": "Berkeley Group Holdings PLC"
+  },
+  "BKGM": {
+    "fetched_at": 1795552531.091761,
+    "market_cap": 175095009.04878536,
+    "name": "BankGuam Holding Co"
+  },
+  "BKHPF": {
+    "fetched_at": 1795552531.091761,
+    "market_cap": 93383974621.0,
+    "name": "Bank Hapoalim BM"
+  },
+  "BKIMF": {
+    "fetched_at": 1795552531.091761,
+    "market_cap": 12475820166.0,
+    "name": "Bankinter SA"
+  },
+  "BKIRF": {
+    "fetched_at": 1795552531.091761,
+    "market_cap": 23262868.0,
+    "name": "Black Iron Inc"
+  },
+  "BKKT": {
+    "fetched_at": 1795552531.091761,
+    "market_cap": 100632570.6733871,
+    "name": "Bakkt Inc"
+  },
+  "BKLBF": {
+    "fetched_at": 1795552531.091761,
+    "market_cap": 94334082.0,
+    "name": "BlinkLab Ltd"
+  },
+  "BKLIF": {
+    "fetched_at": 1795552531.091761,
+    "market_cap": 964852.0,
+    "name": "BlockMint Technologies Inc"
+  },
+  "BKLPF": {
+    "fetched_at": 1795552531.091761,
+    "market_cap": 11761047796875.0,
+    "name": "Bukalapak.com Tbk PT"
+  },
+  "BKLRF": {
+    "fetched_at": 1795552531.091761,
+    "market_cap": 328025473.0,
+    "name": "Berkeley Energia Ltd"
+  },
+  "BKMM": {
+    "fetched_at": 1795552531.091761,
+    "market_cap": 124.97999999999999,
+    "name": "Bekem Metals Inc"
+  },
+  "BKMP": {
+    "fetched_at": 1795552531.091761,
+    "market_cap": 81858.0,
+    "name": "Blackout Media Corp"
+  },
+  "BKNG": {
+    "fetched_at": 1795552531.091761,
+    "market_cap": 108907610382.15924,
+    "name": "Booking Holdings Inc."
+  },
+  "BKOR": {
+    "fetched_at": 1795552531.091761,
+    "market_cap": 89728404.04852256,
+    "name": "Oak Ridge Financial Services Inc"
+  },
+  "BKPKF": {
+    "fetched_at": 1795552531.091761,
+    "market_cap": 68110973236.00001,
+    "name": "Bank Polska Kasa Opieki SA"
+  },
+  "BKQNF": {
+    "fetched_at": 1795552531.091761,
+    "market_cap": 4504842497.0,
+    "name": "Bank of Queensland Ltd"
+  },
+  "BKR": {
+    "fetched_at": 1795552531.091761,
+    "market_cap": 45721334645.0,
+    "name": "Baker Hughes Company"
+  },
+  "BKRHF": {
+    "fetched_at": 1795552531.091761,
+    "market_cap": 127698955627.0,
+    "name": "Bunka Shutter Co Ltd"
+  },
+  "BKRIF": {
+    "fetched_at": 1795552531.091761,
+    "market_cap": 17040840000.0,
+    "name": "Bank of Ireland Group PLC"
+  },
+  "BKRKF": {
+    "fetched_at": 1795552531.091761,
+    "market_cap": 466406201522080.0,
+    "name": "Bank Rakyat Indonesia (Persero) Tbk PT"
+  },
+  "BKRP": {
+    "fetched_at": 1795552531.091761,
+    "market_cap": 200.0,
+    "name": "Black Rock Petroleum Co"
+  },
+  "BKRRF": {
+    "fetched_at": 1795552531.091761,
+    "market_cap": 0.0,
+    "name": "Blackrock Silver Corp"
+  },
+  "BKSC": {
+    "fetched_at": 1795552531.091761,
+    "market_cap": 111155312.0,
+    "name": "Bank of South Carolina"
+  },
+  "BKSFF": {
+    "fetched_at": 1795552531.091761,
+    "market_cap": 127312089.0,
+    "name": "Beeks Financial Cloud Group PLC"
+  },
+  "BKSLF": {
+    "fetched_at": 1795552531.091761,
+    "market_cap": 59.641999999999996,
+    "name": "Banks Island Gold Ltd"
+  },
+  "BKSY": {
+    "fetched_at": 1795552531.091761,
+    "market_cap": 695498315.590909,
+    "name": "BlackSky Technology Inc."
+  },
+  "BKTI": {
+    "fetched_at": 1795552531.091761,
+    "market_cap": 208330639.89593774,
+    "name": "BK Technologies Corp"
+  },
+  "BKTPF": {
+    "fetched_at": 1795552531.091761,
+    "market_cap": 871370.0,
+    "name": "Cruz Battery Metals Corp"
+  },
+  "BKTSF": {
+    "fetched_at": 1795552531.091761,
+    "market_cap": 1820000.0,
+    "name": "Beckett's Inc"
+  },
+  "BKTXF": {
+    "fetched_at": 1795552531.091761,
+    "market_cap": 23630573.0,
+    "name": "Black Rock Mining Ltd"
+  },
+  "BKU": {
+    "fetched_at": 1795552531.091761,
+    "market_cap": 2895948626.0,
+    "name": "BankUnited, Inc."
+  },
+  "BKUCF": {
+    "fetched_at": 1795552531.091761,
+    "market_cap": 13026935.0,
+    "name": "Blue Sky Uranium Corp"
+  },
+  "BKUH": {
+    "fetched_at": 1795552531.091761,
+    "market_cap": 150000.0,
+    "name": "Bakhu Holdings Corp"
+  },
+  "BKUT": {
+    "fetched_at": 1795552531.091761,
+    "market_cap": 34250000.98207885,
+    "name": "Bank of Utica"
+  },
+  "BKUTK": {
+    "fetched_at": 1795552531.091761,
+    "market_cap": 34250000.98207885,
+    "name": "Bank of Utica"
+  },
+  "BKV": {
+    "fetched_at": 1795552531.091761,
+    "market_cap": 1853677574.7143674,
+    "name": "BKV Corporation"
+  },
+  "BKWAF": {
+    "fetched_at": 1795552531.091761,
+    "market_cap": 6510698262.0,
+    "name": "BKW AG"
+  },
+  "BKYI": {
+    "fetched_at": 1795552531.091761,
+    "market_cap": 4111001.0196078434,
+    "name": "BIO-Key International Inc"
+  },
+  "BKZHF": {
+    "fetched_at": 1795552531.091761,
+    "market_cap": 81833202842.0,
+    "name": "Erste Bank Polska SA"
+  },
   "BL": {
-    "fetched_at": 1795430863.0535862,
-    "market_cap": 1412302931.0,
+    "fetched_at": 1795552531.091761,
+    "market_cap": 1532231658.2990324,
     "name": "BlackLine, Inc."
   },
+  "BLAGF": {
+    "fetched_at": 1795552531.091761,
+    "market_cap": 77269232.0,
+    "name": "Blue Lagoon Resources Inc"
+  },
+  "BLBD": {
+    "fetched_at": 1795552531.091761,
+    "market_cap": 1771892720.739676,
+    "name": "Blue Bird Corporation"
+  },
+  "BLBLF": {
+    "fetched_at": 1795552531.091761,
+    "market_cap": 4368041393.56326,
+    "name": "Bilibili Inc"
+  },
+  "BLBRF": {
+    "fetched_at": 1795552531.091761,
+    "market_cap": 19597935901.0,
+    "name": "Bloomberry Resorts Corp"
+  },
+  "BLCAF": {
+    "fetched_at": 1795552531.091761,
+    "market_cap": 400938830.0,
+    "name": "Black Cat Syndicate Ltd"
+  },
+  "BLCO": {
+    "fetched_at": 1795552531.091761,
+    "market_cap": 7178547606.7563715,
+    "name": "Bausch + Lomb Corp"
+  },
+  "BLDP": {
+    "fetched_at": 1795552531.091761,
+    "market_cap": 534500515.99999994,
+    "name": "Ballard Power Systems Inc"
+  },
+  "BLDR": {
+    "fetched_at": 1795552531.091761,
+    "market_cap": 6220721346.606113,
+    "name": "Builders FirstSource Inc"
+  },
+  "BLDV": {
+    "fetched_at": 1795552531.091761,
+    "market_cap": 5386.0,
+    "name": "Blue Diamond Ventures Inc"
+  },
+  "BLEG": {
+    "fetched_at": 1795552531.091761,
+    "market_cap": 92740.14285714286,
+    "name": "Branded Legacy Inc"
+  },
+  "BLEVF": {
+    "fetched_at": 1795552531.091761,
+    "market_cap": 56636.9,
+    "name": "Beleave Inc"
+  },
+  "BLFE": {
+    "fetched_at": 1795552531.091761,
+    "market_cap": 4829.36,
+    "name": "Biolife Sciences Inc"
+  },
+  "BLFR": {
+    "fetched_at": 1795552531.091761,
+    "market_cap": 431126.89999999997,
+    "name": "BlueFire Equipment Corp"
+  },
+  "BLGO": {
+    "fetched_at": 1795552531.091761,
+    "market_cap": 21051205.93968254,
+    "name": "BioLargo Inc"
+  },
+  "BLGVF": {
+    "fetched_at": 1795552531.091761,
+    "market_cap": 1377208.0,
+    "name": "Belgravia Hartford Capital Inc"
+  },
+  "BLHEF": {
+    "fetched_at": 1795552531.091761,
+    "market_cap": 9068400000.0,
+    "name": "Baloise Holding AG"
+  },
+  "BLHI": {
+    "fetched_at": 1795552531.091761,
+    "market_cap": 2623.2000000000003,
+    "name": "Blue Holdings Inc"
+  },
+  "BLHK": {
+    "fetched_at": 1795552531.091761,
+    "market_cap": 146241941.9555059,
+    "name": "Blueharbor Bank"
+  },
+  "BLHWF": {
+    "fetched_at": 1795552531.091761,
+    "market_cap": 9489002805.0,
+    "name": "Belimo Holding AG"
+  },
+  "BLIAQ": {
+    "fetched_at": 1795552531.091761,
+    "market_cap": 4219810.0,
+    "name": "BB Liquidating Inc"
+  },
+  "BLIBQ": {
+    "fetched_at": 1795552531.091761,
+    "market_cap": 4219810.0,
+    "name": "BB Liquidating Inc"
+  },
+  "BLIDF": {
+    "fetched_at": 1795552531.091761,
+    "market_cap": 133756505031.00002,
+    "name": "Boliden AB"
+  },
+  "BLIN": {
+    "fetched_at": 1795552531.091761,
+    "market_cap": 6367978.464271456,
+    "name": "Bridgeline Digital Inc"
+  },
+  "BLITF": {
+    "fetched_at": 1795552531.091761,
+    "market_cap": 4340000.0,
+    "name": "i3 Interactive Inc"
+  },
+  "BLIV": {
+    "fetched_at": 1795552531.091761,
+    "market_cap": 24228507.0,
+    "name": "Belive Holdings"
+  },
+  "BLK": {
+    "fetched_at": 1795552531.091761,
+    "market_cap": 185446971493.0,
+    "name": "BlackRock, Inc."
+  },
+  "BLKB": {
+    "fetched_at": 1795552531.091761,
+    "market_cap": 2336652430.180387,
+    "name": "Blackbaud, Inc."
+  },
+  "BLKCF": {
+    "fetched_at": 1795552531.091761,
+    "market_cap": 122.357,
+    "name": "Global Gaming Technologies Corp"
+  },
+  "BLKHF": {
+    "fetched_at": 1795552531.091761,
+    "market_cap": 1726210474.0,
+    "name": "Build King Holdings Ltd"
+  },
+  "BLLB": {
+    "fetched_at": 1795552531.091761,
+    "market_cap": 3744903.9576923074,
+    "name": "Bell Buckle Holdings Inc"
+  },
+  "BLLN": {
+    "fetched_at": 1795552531.091761,
+    "market_cap": 4503734880.055602,
+    "name": "BillionToOne, Inc."
+  },
+  "BLLQF": {
+    "fetched_at": 1795552531.091761,
+    "market_cap": 3536374402.0,
+    "name": "Bell Equipment Ltd"
+  },
+  "BLLYF": {
+    "fetched_at": 1795552531.091761,
+    "market_cap": 39870727.0,
+    "name": "80 Mile PLC"
+  },
+  "BLMC": {
+    "fetched_at": 1795552531.091761,
+    "market_cap": 11407626.0,
+    "name": "Biloxi Marsh Lands Corp"
+  },
+  "BLMGF": {
+    "fetched_at": 1795552531.091761,
+    "market_cap": 280101772.0,
+    "name": "Ballard Mining Ltd"
+  },
+  "BLMH": {
+    "fetched_at": 1795552531.091761,
+    "market_cap": 5263735.0,
+    "name": "Blum Holdings Inc"
+  },
+  "BLMIF": {
+    "fetched_at": 1795552531.091761,
+    "market_cap": 105825063202.0,
+    "name": "Bank Leumi Le Israel BM"
+  },
+  "BLMN": {
+    "fetched_at": 1795552531.091761,
+    "market_cap": 887537326.9999999,
+    "name": "Bloomin' Brands Inc"
+  },
+  "BLMS": {
+    "fetched_at": 1795552531.091761,
+    "market_cap": 12894.640000000001,
+    "name": "Bloomios Inc"
+  },
+  "BLMWF": {
+    "fetched_at": 1795552531.091761,
+    "market_cap": 36915149.0,
+    "name": "Blumetric Environmental Inc"
+  },
+  "BLNC": {
+    "fetched_at": 1795552531.091761,
+    "market_cap": 52474600.0,
+    "name": "Balance Labs Inc"
+  },
+  "BLND": {
+    "fetched_at": 1795552531.091761,
+    "market_cap": 198264544.9300221,
+    "name": "Blend Labs, Inc."
+  },
+  "BLNE": {
+    "fetched_at": 1795552531.091761,
+    "market_cap": 10830689.664624315,
+    "name": "Beeline Holdings Inc"
+  },
+  "BLNH": {
+    "fetched_at": 1795552531.091761,
+    "market_cap": 0.0,
+    "name": "Blue Line Holdings Inc"
+  },
+  "BLNK": {
+    "fetched_at": 1795552531.091761,
+    "market_cap": 45164821.05683863,
+    "name": "Blink Charging Co"
+  },
+  "BLONF": {
+    "fetched_at": 1795552531.091761,
+    "market_cap": 1950000.0,
+    "name": "CO2 GRO Inc"
+  },
+  "BLOZF": {
+    "fetched_at": 1795552531.091761,
+    "market_cap": 48655218.0,
+    "name": "Cannabix Technologies Inc"
+  },
+  "BLPG": {
+    "fetched_at": 1795552531.091761,
+    "market_cap": 410445.00000000006,
+    "name": "Blue Line Protection Group Inc"
+  },
+  "BLPTF": {
+    "fetched_at": 1795552531.091761,
+    "market_cap": 75187507.0,
+    "name": "Buffalo Potash Corp"
+  },
+  "BLQC": {
+    "fetched_at": 1795552531.091761,
+    "market_cap": 253724.0,
+    "name": "BlockQuarry Corp"
+  },
+  "BLRDF": {
+    "fetched_at": 1795552531.091761,
+    "market_cap": 22022821915.0,
+    "name": "Billerud AB (publ)"
+  },
+  "BLRK": {
+    "fetched_at": 1795552531.091761,
+    "market_cap": 175777500.0,
+    "name": "Bluerock Acquisition Corp"
+  },
+  "BLRZF": {
+    "fetched_at": 1795552531.091761,
+    "market_cap": 88252.0,
+    "name": "Blackhawk Growth Corp"
+  },
+  "BLSFF": {
+    "fetched_at": 1795552531.091761,
+    "market_cap": 13622648660.0,
+    "name": "BlueScope Steel Ltd"
+  },
+  "BLSH": {
+    "fetched_at": 1795552531.091761,
+    "market_cap": 3022772740.0546265,
+    "name": "Bullish"
+  },
+  "BLSIF": {
+    "fetched_at": 1795552531.091761,
+    "market_cap": 10546532.0,
+    "name": "Britannia Life Sciences Inc"
+  },
+  "BLSM": {
+    "fetched_at": 1795552531.091761,
+    "market_cap": 464059674.67505246,
+    "name": "BlossomHill Therapeutics Inc"
+  },
+  "BLSP": {
+    "fetched_at": 1795552531.091761,
+    "market_cap": 2933624.0,
+    "name": "Blue Sphere Corp"
+  },
+  "BLSRF": {
+    "fetched_at": 1795552531.091761,
+    "market_cap": 7746751.0,
+    "name": "Blast Resources Inc"
+  },
+  "BLSTF": {
+    "fetched_at": 1795552531.091761,
+    "market_cap": 34123197.0,
+    "name": "Blackstone Minerals Ltd"
+  },
+  "BLSYF": {
+    "fetched_at": 1795552531.091761,
+    "market_cap": 101132557983.0,
+    "name": "Bellsystem24 Holdings Inc"
+  },
+  "BLTH": {
+    "fetched_at": 1795552531.091761,
+    "market_cap": 13263547.0,
+    "name": "American Battery Materials Inc"
+  },
+  "BLUAF": {
+    "fetched_at": 1795552531.091761,
+    "market_cap": 72870000.0,
+    "name": "Blueriver Acquisition Corp"
+  },
+  "BLUGF": {
+    "fetched_at": 1795552531.091761,
+    "market_cap": 118684781.0,
+    "name": "BluEnergies Ltd"
+  },
+  "BLUU": {
+    "fetched_at": 1795552531.091761,
+    "market_cap": 3727.1587,
+    "name": "Blue Water Global Group Inc"
+  },
+  "BLUW": {
+    "fetched_at": 1795552531.091761,
+    "market_cap": 337618591.99999994,
+    "name": "Blue Water Acquisition Corp III"
+  },
+  "BLVDF": {
+    "fetched_at": 1795552531.091761,
+    "market_cap": 3428667.0,
+    "name": "BLOK Digital Ltd"
+  },
+  "BLWYF": {
+    "fetched_at": 1795552531.091761,
+    "market_cap": 2427355784.0,
+    "name": "Bellway PLC"
+  },
+  "BLX": {
+    "fetched_at": 1795552531.091761,
+    "market_cap": 1727244236.0853655,
+    "name": "Bladex Inc"
+  },
+  "BLYQ": {
+    "fetched_at": 1795552531.091761,
+    "market_cap": 1970.0,
+    "name": "Bally Corp"
+  },
   "BLZE": {
-    "fetched_at": 1795442859.2582898,
-    "market_cap": 407008009.0,
+    "fetched_at": 1795552531.091761,
+    "market_cap": 453143995.33203125,
     "name": "Backblaze Inc"
+  },
+  "BLZR": {
+    "fetched_at": 1795552531.091761,
+    "market_cap": 353374991.0,
+    "name": "Trailblazer Acquisition Corp."
+  },
+  "BMBL": {
+    "fetched_at": 1795552531.091761,
+    "market_cap": 799758240.5392977,
+    "name": "Bumble Inc."
+  },
+  "BMBLF": {
+    "fetched_at": 1795552531.091761,
+    "market_cap": 29014648152.0,
+    "name": "Brambles Ltd"
+  },
+  "BMBN": {
+    "fetched_at": 1795552531.091761,
+    "market_cap": 193593853.69640788,
+    "name": "Benchmark Bankshares Inc"
+  },
+  "BMBRF": {
+    "fetched_at": 1795552531.091761,
+    "market_cap": 439035055847.0,
+    "name": "BIM Birlesik Magazalar AS"
+  },
+  "BMCLF": {
+    "fetched_at": 1795552531.091761,
+    "market_cap": 4288206401.0000005,
+    "name": "BAIC Motor Corp Ltd"
+  },
+  "BMCS": {
+    "fetched_at": 1795552531.091761,
+    "market_cap": 20535.600000000002,
+    "name": "BMCS Sumcoin Index Fund Inc"
+  },
+  "BMDPF": {
+    "fetched_at": 1795552531.091761,
+    "market_cap": 33501599284.999996,
+    "name": "Banca Monte dei Paschi di Siena SpA"
+  },
+  "BMEA": {
+    "fetched_at": 1795552531.091761,
+    "market_cap": 50772904.66376496,
+    "name": "Biomea Fusion, Inc."
+  },
+  "BMGL": {
+    "fetched_at": 1795552531.091761,
+    "market_cap": 4923515.266918306,
+    "name": "Basel Medical Group Ltd"
+  },
+  "BMGP": {
+    "fetched_at": 1795552531.091761,
+    "market_cap": 126.49600000000001,
+    "name": "Biomagnetics Diagnostics Corp"
+  },
+  "BMHL": {
+    "fetched_at": 1795552531.091761,
+    "market_cap": 88611053.99999999,
+    "name": "Bluemount Holdings Ltd"
+  },
+  "BMI": {
+    "fetched_at": 1795552531.091761,
+    "market_cap": 4684439109.79767,
+    "name": "Badger Meter, Inc."
+  },
+  "BMKDF": {
+    "fetched_at": 1795552531.091761,
+    "market_cap": 44723042.0,
+    "name": "BioMark Diagnostics Inc"
+  },
+  "BMLKF": {
+    "fetched_at": 1795552531.091761,
+    "market_cap": 148649600029.0,
+    "name": "BML Inc"
+  },
+  "BMLQF": {
+    "fetched_at": 1795552531.091761,
+    "market_cap": 154523750.0,
+    "name": "Boab Metals Ltd"
+  },
+  "BMM": {
+    "fetched_at": 1795552531.091761,
+    "market_cap": 342692751.0,
+    "name": "Blue Moon Metals Inc"
+  },
+  "BMMJ": {
+    "fetched_at": 1795552531.091761,
+    "market_cap": 3730000.0,
+    "name": "Body and Mind Inc"
+  },
+  "BMMKF": {
+    "fetched_at": 1795552531.091761,
+    "market_cap": 6656162.0,
+    "name": "Bayan Mining and Minerals Ltd"
+  },
+  "BMMX": {
+    "fetched_at": 1795552531.091761,
+    "market_cap": 216053482.0,
+    "name": "Black Mammoth Metals Corp"
+  },
+  "BMNDF": {
+    "fetched_at": 1795552531.091761,
+    "market_cap": 23250000.0,
+    "name": "Biomind Labs Inc"
+  },
+  "BMNM": {
+    "fetched_at": 1795552531.091761,
+    "market_cap": 25412556.0,
+    "name": "Bimini Capital Management Inc"
+  },
+  "BMNR": {
+    "fetched_at": 1795552531.091761,
+    "market_cap": 8482146432.957005,
+    "name": "BitMine Immersion Technologies, Inc."
+  },
+  "BMO": {
+    "fetched_at": 1795552531.091761,
+    "market_cap": 159427595673.0,
+    "name": "Bank of Montreal"
+  },
+  "BMONF": {
+    "fetched_at": 1795552531.091761,
+    "market_cap": 15503439910.0,
+    "name": "Blue Moon Group Holdings Ltd"
+  },
+  "BMR": {
+    "fetched_at": 1795552531.091761,
+    "market_cap": 13669378.0,
+    "name": "Beamr Imaging Ltd"
+  },
+  "BMRA": {
+    "fetched_at": 1795552531.091761,
+    "market_cap": 4920894.6698113205,
+    "name": "Biomerica Inc"
+  },
+  "BMRC": {
+    "fetched_at": 1795552531.091761,
+    "market_cap": 431768462.1164358,
+    "name": "Bank of Marin Bancorp"
+  },
+  "BMRMF": {
+    "fetched_at": 1795552531.091761,
+    "market_cap": 3567174130.0,
+    "name": "Societe Anonyme des Bains de Mer et du Cercle des Etrangers a Monaco SA"
+  },
+  "BMRN": {
+    "fetched_at": 1795552531.091761,
+    "market_cap": 13117007680.041546,
+    "name": "BioMarin Pharmaceutical Inc."
+  },
+  "BMRPF": {
+    "fetched_at": 1795552531.091761,
+    "market_cap": 3560912840.0,
+    "name": "B&M European Value Retail PLC"
+  },
+  "BMSPF": {
+    "fetched_at": 1795552531.091761,
+    "market_cap": 262064.00000000003,
+    "name": "Biomass Secure Power Inc"
+  },
+  "BMTHF": {
+    "fetched_at": 1795552531.091761,
+    "market_cap": 1615000010.0,
+    "name": "Best Mart 360 Holdings Ltd"
+  },
+  "BMTM": {
+    "fetched_at": 1795552531.091761,
+    "market_cap": 598195.9999999999,
+    "name": "Bright Mountain Media Inc"
+  },
+  "BMVLF": {
+    "fetched_at": 1795552531.091761,
+    "market_cap": 1266194.0,
+    "name": "Bluebird Mining Ventures Ltd"
+  },
+  "BMVVF": {
+    "fetched_at": 1795552531.091761,
+    "market_cap": 2391537.0,
+    "name": "Bathurst Metals Corp"
+  },
+  "BMXC": {
+    "fetched_at": 1795552531.091761,
+    "market_cap": 1469999.9999999998,
+    "name": "Bemax Inc"
+  },
+  "BMXI": {
+    "fetched_at": 1795552531.091761,
+    "market_cap": 2316853.2949640285,
+    "name": "Brookmount Explorations Inc"
+  },
+  "BMXMF": {
+    "fetched_at": 1795552531.091761,
+    "market_cap": 10767728253.0,
+    "name": "Biomerieux SA"
+  },
+  "BMY": {
+    "fetched_at": 1795552531.091761,
+    "market_cap": 122318095507.0,
+    "name": "Bristol-Myers Squibb Company"
+  },
+  "BN": {
+    "fetched_at": 1795552531.091761,
+    "market_cap": 87078554223.8775,
+    "name": "Brookfield Corporation"
+  },
+  "BNAI": {
+    "fetched_at": 1795552531.091761,
+    "market_cap": 54812496.0,
+    "name": "Brand Engagement Network Inc"
+  },
+  "BNBX": {
+    "fetched_at": 1795552531.091761,
+    "market_cap": 398078.6284297521,
+    "name": "BNB Plus Corp"
+  },
+  "BNC": {
+    "fetched_at": 1795552531.091761,
+    "market_cap": 145587744.16253868,
+    "name": "BNB Standard Corp"
+  },
+  "BNCC": {
+    "fetched_at": 1795552531.091761,
+    "market_cap": 107001627.12200798,
+    "name": "BNCCorp Inc"
+  },
+  "BNCZF": {
+    "fetched_at": 1795552531.091761,
+    "market_cap": 21116242034.0,
+    "name": "Banco BPM SpA"
+  },
+  "BNDSF": {
+    "fetched_at": 1795552531.091761,
+    "market_cap": 17209380655.0,
+    "name": "Banco de Sabadell SA"
+  },
+  "BNED": {
+    "fetched_at": 1795552531.091761,
+    "market_cap": 422912783.48460287,
+    "name": "Barnes & Noble Education Inc"
+  },
+  "BNEFF": {
+    "fetched_at": 1795552531.091761,
+    "market_cap": 187917823.0,
+    "name": "Bonterra Energy Corp"
+  },
+  "BNET": {
+    "fetched_at": 1795552531.091761,
+    "market_cap": 8723305.076396208,
+    "name": "Bion Environmental Technologies Inc"
+  },
+  "BNGI": {
+    "fetched_at": 1795552531.091761,
+    "market_cap": 8061.489999999999,
+    "name": "Bangi Inc"
+  },
+  "BNGLF": {
+    "fetched_at": 1795552531.091761,
+    "market_cap": 18510646.0,
+    "name": "Bengal Energy Ltd"
+  },
+  "BNGO": {
+    "fetched_at": 1795552531.091761,
+    "market_cap": 11333887.8,
+    "name": "Bionano Genomics, Inc."
+  },
+  "BNGRF": {
+    "fetched_at": 1795552531.091761,
+    "market_cap": 768041451.0,
+    "name": "Savencia SA"
+  },
+  "BNHUF": {
+    "fetched_at": 1795552531.091761,
+    "market_cap": 11993993225.0,
+    "name": "Bonheur ASA"
+  },
+  "BNJAF": {
+    "fetched_at": 1795552531.091761,
+    "market_cap": 3091952351.0,
+    "name": "Banijay Group NV"
+  },
+  "BNKHF": {
+    "fetched_at": 1795552531.091761,
+    "market_cap": 485290675508.0,
+    "name": "BOC Hong Kong Holdings Ltd"
+  },
+  "BNKK": {
+    "fetched_at": 1795552531.091761,
+    "market_cap": 4410846.645633804,
+    "name": "Bonk Inc"
+  },
+  "BNKL": {
+    "fetched_at": 1795552531.091761,
+    "market_cap": 1248.03,
+    "name": "Bionik Laboratories Corp"
+  },
+  "BNMDF": {
+    "fetched_at": 1795552531.091761,
+    "market_cap": 15857522888.0,
+    "name": "Banca Mediolanum SpA"
+  },
+  "BNNLF": {
+    "fetched_at": 1795552531.091761,
+    "market_cap": 743572663.0,
+    "name": "Bannerman Energy Ltd"
+  },
+  "BNPEF": {
+    "fetched_at": 1795552531.091761,
+    "market_cap": 5415366601562.0,
+    "name": "Pt Astrindo Nusantara Infrastruktur Tbk"
+  },
+  "BNPQF": {
+    "fetched_at": 1795552531.091761,
+    "market_cap": 101053399109.0,
+    "name": "BNP Paribas SA"
+  },
+  "BNS": {
+    "fetched_at": 1795552531.091761,
+    "market_cap": 151133849095.0,
+    "name": "Bank of Nova Scotia"
+  },
+  "BNSOF": {
+    "fetched_at": 1795552531.091761,
+    "market_cap": 9957233.0,
+    "name": "Bonso Electronics International Inc"
+  },
+  "BNT": {
+    "fetched_at": 1795552531.091761,
+    "market_cap": 20072868818.0,
+    "name": "Brookfield Wealth Solutions Ltd"
+  },
+  "BNTC": {
+    "fetched_at": 1795552531.091761,
+    "market_cap": 294008987.4246576,
+    "name": "Benitec Biopharma Inc"
+  },
+  "BNTGF": {
+    "fetched_at": 1795552531.091761,
+    "market_cap": 8079805507.0,
+    "name": "Brenntag SE"
+  },
+  "BNTRF": {
+    "fetched_at": 1795552531.091761,
+    "market_cap": 19005227.0,
+    "name": "Benton Resources Inc"
+  },
+  "BNVIF": {
+    "fetched_at": 1795552531.091761,
+    "market_cap": 2260000.0,
+    "name": "Binovi Technologies Corp"
+  },
+  "BNVVF": {
+    "fetched_at": 1795552531.091761,
+    "market_cap": 2388344682.0,
+    "name": "Bonava AB (publ)"
+  },
+  "BNXR": {
+    "fetched_at": 1795552531.091761,
+    "market_cap": 24.63,
+    "name": "Brinx Resources Ltd"
+  },
+  "BNXTF": {
+    "fetched_at": 1795552531.091761,
+    "market_cap": 29940494.0,
+    "name": "BioNxt Solutions Inc"
+  },
+  "BNXYF": {
+    "fetched_at": 1795552531.091761,
+    "market_cap": 178052496323.0,
+    "name": "Open Up Group Inc"
+  },
+  "BNY": {
+    "fetched_at": 1795552531.091761,
+    "market_cap": 98122063985.0,
+    "name": "Bank of New York Mellon Corp"
+  },
+  "BNYN": {
+    "fetched_at": 1795552531.091761,
+    "market_cap": 1505.4868,
+    "name": "Banyan Corp"
+  },
+  "BOBS": {
+    "fetched_at": 1795552531.091761,
+    "market_cap": 2634410224.2484064,
+    "name": "Bob's Discount Furniture, Inc"
+  },
+  "BOC": {
+    "fetched_at": 1795552531.091761,
+    "market_cap": 411751133.2417823,
+    "name": "Boston Omaha Corp"
+  },
+  "BOCOF": {
+    "fetched_at": 1795552531.091761,
+    "market_cap": 54143440.0,
+    "name": "Bougainville Copper Ltd"
+  },
+  "BODI": {
+    "fetched_at": 1795552531.091761,
+    "market_cap": 18920108.93181818,
+    "name": "Beachbody Company, Inc"
+  },
+  "BOEUF": {
+    "fetched_at": 1795552531.091761,
+    "market_cap": 21746705968.0,
+    "name": "Bonesupport Holding AB"
+  },
+  "BOF": {
+    "fetched_at": 1795552531.091761,
+    "market_cap": 31820139.260115612,
+    "name": "BranchOut Food Inc"
+  },
+  "BOH": {
+    "fetched_at": 1795552531.091761,
+    "market_cap": 2642673696.0854726,
+    "name": "Bank of Hawaii Corporation"
+  },
+  "BOIRF": {
+    "fetched_at": 1795552531.091761,
+    "market_cap": 319713797.0,
+    "name": "Boiron SA"
+  },
+  "BOIVF": {
+    "fetched_at": 1795552531.091761,
+    "market_cap": 10060059108.0,
+    "name": "Bollore SE"
+  },
+  "BOKF": {
+    "fetched_at": 1795552531.091761,
+    "market_cap": 7613074505.012704,
+    "name": "BOK Financial Corp"
+  },
+  "BOLB": {
+    "fetched_at": 1795552531.091761,
+    "market_cap": 2690000.0,
+    "name": "BOL Bancshares Inc"
+  },
+  "BOLD": {
+    "fetched_at": 1795552531.091761,
+    "market_cap": 59500744.3902439,
+    "name": "Boundless Bio, Inc."
+  },
+  "BOLL": {
+    "fetched_at": 1795552531.091761,
+    "market_cap": 73960000.0,
+    "name": "Bollinger Industries Inc"
+  },
+  "BOLT": {
+    "fetched_at": 1795552531.091761,
+    "market_cap": 13415537.179640718,
+    "name": "Bolt Biotherapeutics, Inc."
+  },
+  "BOLV": {
+    "fetched_at": 1795552531.091761,
+    "market_cap": 0.0,
+    "name": "Bolivar Mining Corp"
+  },
+  "BOMO": {
+    "fetched_at": 1795552531.091761,
+    "market_cap": 148818.0,
+    "name": "bowmo Inc"
+  },
+  "BOMXF": {
+    "fetched_at": 1795552531.091761,
+    "market_cap": 19914430000.0,
+    "name": "Bolsa Mexicana de Valores SAB de CV"
+  },
+  "BON": {
+    "fetched_at": 1795552531.091761,
+    "market_cap": 7025177.000000001,
+    "name": "Bon Natural Life Ltd"
+  },
+  "BONL": {
+    "fetched_at": 1795552531.091761,
+    "market_cap": 1188640.0,
+    "name": "Bonal International Inc"
+  },
+  "BONTQ": {
+    "fetched_at": 1795552531.091761,
+    "market_cap": 17.857,
+    "name": "Bon-Ton Stores Inc"
   },
   "BORR": {
     "fetched_at": 1795443759.4416215,
